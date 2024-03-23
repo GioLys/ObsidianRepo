@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste.md",
+                "file": "Data Science - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste.md",
+                "file": "Data Science - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste.md",
+                "file": "Data Science - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste.md"
+                "file": "Data Science - notes.md"
               }
             }
           },
@@ -157,6 +157,6 @@
   "active": "6af18d35f178d83d",
   "lastOpenFiles": [
     "Untitled.md",
-    "teste.md"
+    "Data Science - notes.md"
   ]
 }
