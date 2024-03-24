@@ -10,4 +10,8 @@ url = link csv
 pd.read_csv(url)
 ```
 
-**read_csv:** lê o conteúdo apenas pela separação por vírgulas
+**read_csv:** lê o conteúdo apenas pela separação por vírgulas, deve-se passar o parâmetro sep=('') para especificar o tipo de separador da tabela
+
+```
+pd.re
+```
