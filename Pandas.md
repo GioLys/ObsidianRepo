@@ -33,4 +33,4 @@ pd.read_csv(url, sep = ';')
 ==Visualização de dados no tipo Series:== ocorre ao realizar a visualização de apenas uma coluna, serão retornados apenas índice e valores
 ==Visualização de dados no tipo Dataframe:== o retorno dos dados no formato dataframe ocorre sempre ao visualizar mais de uma coluna
 
-
+#a#
