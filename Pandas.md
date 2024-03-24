@@ -28,5 +28,5 @@ pd.read_csv(url, sep = ';')
 
 .shape: retorna uma tupla com a quantidade de linhas e a quantidade de colunas
 .columns: retorna o nome de todas as colunas e o type majoritário
-.info(): retorna dados deta
+.info(): retorna as características dos dados de forma detalhada especificando colunas, tipo de dados, quantidade de linhas, etc
 
