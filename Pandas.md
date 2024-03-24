@@ -10,4 +10,4 @@ url = link csv
 pd.read_csv(url)
 ```
 
-##read
+**read_csv:** lê o conteúdo apenas pela separação por vírgulas
