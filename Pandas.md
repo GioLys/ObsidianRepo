@@ -42,4 +42,4 @@ dados = dataframe.csv
 dados['Valor].mean()
 ```
 
-**groupyby():** a
+**.groupyby():** agrupa o dataframe a partir de uma coluna, tornando esta coluna o novo <span style="color:#00b0f0">índice</span> do dataframe
