@@ -7,5 +7,5 @@
 import pandas as pd
 
 url = link csv
-<span style="color:#00b0f0">pd.read_csv(url)</span>
+pd.read_csv(url)
 ```
