@@ -60,3 +60,49 @@ dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 
 	Principais parâmetros do método .plot():
 	
+	1. **kind**: Especifica o tipo de gráfico a ser plotado. Alguns valores comuns incluem:
+    - `'line'`: Gráfico de linha (padrão)
+    - `'bar'`: Gráfico de barras verticais
+    - `'barh'`: Gráfico de barras horizontais
+    - `'scatter'`: Gráfico de dispersão
+    - `'hist'`: Histograma
+    - `'box'`: Diagrama de caixa
+    - `'kde'`: Estimativa de densidade kernel
+    - `'pie'`: Gráfico de pizza
+	1. **x**: Nome ou posição da coluna a ser usada no eixo x do gráfico.
+	    
+	3. **y**: Nome ou posição da coluna a ser usada no eixo y do gráfico.
+	    
+	4. **ax**: Objeto do eixo Matplotlib em que o gráfico será desenhado.
+	    
+	5. **subplots**: Se True, cria um subplot para cada coluna.
+	    
+	6. **sharex**: Se True, compartilha o eixo x entre os subplots.
+	    
+	7. **sharey**: Se True, compartilha o eixo y entre os subplots.
+	    
+	8. **figsize**: Tamanho da figura a ser criada.
+	    
+	9. **title**: Título do gráfico.
+	    
+	10. **grid**: Se True, desenha as linhas de grade no gráfico.
+	    
+	11. **legend**: Se True, mostra a legenda.
+	    
+	12. **color**: Cor do gráfico.
+	    
+	13. **label**: Rótulo para a legenda.
+	    
+	14. **style**: Estilo do gráfico (por exemplo, '-o' para linha com pontos).
+	    
+	15. **linewidth**: Largura da linha no gráfico.
+	    
+	16. **fontsize**: Tamanho da fonte do texto no gráfico.
+	    
+	17. **xticks**: Marcas para o eixo x.
+	    
+	18. **yticks**: Marcas para o eixo y.
+	    
+	19. **xlim**: Limites do eixo x.
+	    
+	20. **ylim**: Limites do eixo y.
