@@ -8,7 +8,7 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Python
 - [ ] Starburst Enterprise (Trino)
 - [ ] Indicadores-chave de desempenho
-- [ ] Visualização de dados
+- [x] Visualização de dados
 - [ ] Modelagem de dados
 - [ ] Produtos de dados
 - [ ] Amazon S3
