@@ -81,8 +81,9 @@ dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 	11. label: Rótulo para a legenda.
 	12. style: Estilo do gráfico (por exemplo, '-o' para linha com pontos).
 
-<span style="color:#00b0f0">Exemplo:</span>  Gráfico da variável dados_graph, gráfico com barras horizontais, título 'Valores Imóveis', tamanho da figura '14, 10', cor rosa
+<span style="color:#00b0f0">Exemplo:</span>  Gráfico da variável dados_graph, gráfico com barras horizontais, título 'Valores Imóveis', tamanho da figura '14, 8', cor rosa
 
 ```
-
+dados_graph = dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
+dados_graph.plot(kind='barh', title='Valores Imóveis', figsize=(14,8), color='pink')
 ```
