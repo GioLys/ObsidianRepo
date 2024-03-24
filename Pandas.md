@@ -87,3 +87,5 @@ dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 dados_graph = dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 dados_graph.plot(kind='barh', title='Valores Imóveis', figsize=(14,8), color='pink')
 ```
+
+![[Pasted image 20240324202253.png]]
