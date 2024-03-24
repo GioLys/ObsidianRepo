@@ -58,5 +58,6 @@ dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 
 **.plot():** plotagem de gráfico a partir da query selecionada do dataframe
 
-	Principais parâmetros do método .plot():
-	
+
+
+Principais parâmetros do método .plot():
