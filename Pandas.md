@@ -47,11 +47,12 @@ dados['Valor].mean()
 > 	<span style="color:#ffc000">Cuidado! Dependendo da versão do pandas, ele poderá dar erro caso os tipos de dados agrupados não sejam totalmente numéricos, para evitar é preciso tratar o groupby</span>
 
 ```
-dados.groupby('Tipo').mean(numeric_onlu=True)
+dados.groupby('Tipo').mean(numeric_only=True)
 ```
 
 <span style="color:#00b0f0">Exemplo:</span> Agrupar a partir da coluna 'Tipo', selecionando apenas dados da coluna 'Valor' com visualização e formato de dataframe, ordenando do menor para o maior.
 
 ```
-dados.groupby('Tipo')[['Valor']].mean().sort_values(')
+dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 ```
+
