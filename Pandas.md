@@ -81,4 +81,8 @@ dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 	11. label: Rótulo para a legenda.
 	12. style: Estilo do gráfico (por exemplo, '-o' para linha com pontos).
 
+<span style="color:#00b0f0">Exemplo:</span>  Gráfico da variável dados_
 
+```
+
+```
