@@ -50,4 +50,4 @@ dados['Valor].mean()
 dados.groupby('Tipo').mean(numeric_onlu=True)
 ```
 
-Exemplo: Agrupar a partir da coluna 'Tipo', selecionando apenas dados da coluna 'Valor' com visualização e 
+<span style="color:#00b0f0">Exemplo:</span> Agrupar a partir da coluna 'Tipo', selecionando apenas dados da coluna 'Valor' com visualização e formato de dataframe, ordenando do menor para o maior.
