@@ -43,4 +43,4 @@ dados['Valor].mean()
 ```
 
 **.groupyby():** agrupa o dataframe a partir de uma coluna, tornando esta coluna o novo <span style="color:#00b0f0">índice</span> do dataframe
-	Cuidado! Dependendo da versão do pandas, ele poderá dar erro caso os tipos de dados agrupados não sejam totalmente 
+	Cuidado! Dependendo da versão do pandas, ele poderá dar erro caso os tipos de dados agrupados não sejam totalmente numéricos, para evitar é preciso tratar o groupby
