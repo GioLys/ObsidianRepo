@@ -1,5 +1,44 @@
 Estudo dirigido e introdutório para ciência de dados
 
-Tópicos de estudo para o Programa de Estágio - Inter:
+-> Tópicos de estudo para o Programa de Estágio - Inter:
 
-- [ ] 
+- [ ] Tableau
+- [ ] Inteligência de negócios (BI)
+- [ ] SQL
+- [ ] Python
+- [ ] Starburst Enterprise (Trino)
+- [ ] Indicadores-chave de desempenho
+- [ ] Visualização de dados
+- [ ] Modelagem de dados
+- [ ] Produtos de dados
+- [ ] Amazon S3
+- [ ] Amazon Athena
+- [ ] Amazon SageMaker
+- [ ] Migração de dados
+- [ ] Amazon Redshift
+- [ ] Governança de dados
+- [ ] Data lake
+- [ ] PostgreSQL
+- [ ] ETL (Extração, transformação e carregamento)
+- [ ] Orquestração de dados
+- [ ] Dynamo
+- [ ] Amazon Simple Notification Service (SNS)
+- [ ] Harness
+- [ ] AWS Lambda
+- [ ] Sklearn
+- [ ] Amazon Elastic MapReduce (EMR)
+- [ ] Airflow
+- [ ] Amazon SQS
+- [ ] Kubernetes
+- [ ] Docker
+- [ ] MLOps
+- [ ] AWS Step Functions
+- [ ] Terraform
+- [ ] Apache Spark
+- [ ] PySpark
+- [ ] Data warehouse
+- [ ] Alteryx
+- [ ] Glue
+- [ ] Keras
+- [ ] Pipeline de dados
+- [ ] Matillion
