@@ -1,4 +1,5 @@
-<span style="color:#ffc000">Material Utilizado:</span>
+## <span style="color:#ffc000">Material Utilizado:</span>
+
 - arquivo csv
 - google colab
 - notebook google colab
@@ -22,4 +23,6 @@ pd.read_csv(url, sep = ';')
 
 **.head() e .tail():** retorna uma quantidade limitada de linhas, se não for passado a quantidade de linhas no parâmetro, retorna 5 linhas. Head puxa as linhas do ínicio e tail puxa as linhas do final
 **.type():** retorna o tipo de dados dentro de uma variável
+
+# <span style="color:#7030a0">Características dos dados</span>
 
