@@ -1,8 +1,8 @@
 ## <span style="color:#ffc000">Material Utilizado:</span>
 
-- arquivo csv
-- google colab
-- notebook google colab
+- ==**arquivo csv**==
+- ==**google colab**==
+- ==**notebook google colab**==
 
 # <span style="color:#7030a0">Conhecendo e importando dados</span>
 
@@ -25,4 +25,6 @@ pd.read_csv(url, sep = ';')
 **.type():** retorna o tipo de dados dentro de uma variável
 
 # <span style="color:#7030a0">Características dos dados</span>
+
+.info()
 
