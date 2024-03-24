@@ -27,5 +27,6 @@ pd.read_csv(url, sep = ';')
 # <span style="color:#7030a0">Características dos dados</span>
 
 .shape: retorna uma tupla com a quantidade de linhas e a quantidade de colunas
-
+.columns: retorna o nome de todas as colunas e o type majoritário
+.info(): retorna dados deta
 
