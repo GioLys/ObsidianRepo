@@ -10,8 +10,9 @@ url = link csv
 pd.read_csv(url)
 ```
 
-**read_csv:** lê o conteúdo apenas pela separação por vírgulas, deve-se passar o parâmetro sep='' para especificar o tipo de separador da tabela
-> 	Outros formatos de leitura de dados: read_excel(), read_json(), read_json(), read
+**.read_csv():** lê o conteúdo apenas pela separação por vírgulas, deve-se passar o parâmetro sep='' para especificar o tipo de separador da tabela
+
+> 	Outros formatos de leitura de dados: read_excel(), read_json(), read_json(), read_html(), read_sql().
 
 ```
 pd.read_csv(url, sep = ';')
