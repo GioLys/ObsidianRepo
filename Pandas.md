@@ -56,3 +56,4 @@ dados.groupby('Tipo').mean(numeric_only=True)
 dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 ```
 
+**.plot():** plotage, 
