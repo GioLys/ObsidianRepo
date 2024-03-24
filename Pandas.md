@@ -11,10 +11,11 @@ pd.read_csv(url)
 ```
 
 **read_csv:** lê o conteúdo apenas pela separação por vírgulas, deve-se passar o parâmetro sep='' para especificar o tipo de separador da tabela
+	
 
 ```
 pd.read_csv(url, sep = ';')
 ```
 
 **.head() e .tail():** retorna uma quantidade limitada de linhas, se não for passado a quantidade de linhas no parâmetro, retorna 5 linhas. Head puxa as linhas do ínicio e tail puxa as linhas do final
-**type(**
+**.type():** retorna o tipo de dados dentro de uma variável
