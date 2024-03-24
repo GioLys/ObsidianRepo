@@ -49,3 +49,5 @@ dados['Valor].mean()
 ```
 dados.groupby('Tipo').mean(numeric_onlu=True)
 ```
+
+Exemplo: Agrupar o dataframe a partir da coluna 'Tipo', 
