@@ -31,6 +31,6 @@ pd.read_csv(url, sep = ';')
 **.info():** retorna as características dos dados de forma detalhada especificando colunas, tipo de dados, quantidade de linhas, et
 
 ==Visualização de dados no tipo Series:== ocorre ao realizar a visualização de apenas uma coluna, serão retornados apenas índice e valores
-
+==Visualização de dados no tipo Dataframe:== o retorno dos dados no formato dataframe ocorre sempre ao visualizar mais de uma coluna
 
 
