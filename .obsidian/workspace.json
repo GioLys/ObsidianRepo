@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "->",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,9 @@
   },
   "active": "6af18d35f178d83d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Data Science - notes.md"
+    "Untitled.canvas",
+    "Data Science - notes.md",
+    "2024-03-24.md",
+    "Untitled.md"
   ]
 }
