@@ -16,4 +16,4 @@ pd.read_csv(url)
 pd.read_csv(url, sep = ';')
 ```
 
-.head() e .tail(): retorna uma quantidade limitada de 
+**.head() e .tail():** retorna uma quantidade limitada de linhas, se não for passado a quantidade de linhas no parâmetro, retorna 5 linhas. Head puxa as linhas do ínicio e tail puxa as linhas do final
