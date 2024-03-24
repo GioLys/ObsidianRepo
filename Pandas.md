@@ -1,4 +1,4 @@
-Material Utilizado
+<span style="color:#ffc000">Material Utilizado</span>
 - arquivo csv
 - google colab
 - notebook google colab
@@ -7,5 +7,5 @@ Material Utilizado
 import pandas as pd
 
 url = link csv
-pd.read_csv(url)
+<span style="color:#00b0f0">pd.read_csv(url)</span>
 ```
