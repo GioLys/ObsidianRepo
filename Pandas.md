@@ -36,9 +36,10 @@ pd.read_csv(url, sep = ';')
 # <span style="color:#7030a0">Análise exploratória dos dados</span>
 
 .**mean():** retorna a média da coluna
+
 ```
 dados = dataframe.csv
-dados['Valor].mean
+dados['Valor].mean()
 ```
 
 
