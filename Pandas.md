@@ -47,5 +47,5 @@ dados['Valor].mean()
 > 	<span style="color:#ffc000">Cuidado! Dependendo da versão do pandas, ele poderá dar erro caso os tipos de dados agrupados não sejam totalmente numéricos, para evitar é preciso tratar o groupby</span>
 
 ```
-dados.groupby('Tipo').mean
+dados.groupby('Tipo').mean(numeric_onlu=True)
 ```
