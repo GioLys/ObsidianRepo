@@ -60,23 +60,19 @@ dados.groupby('Tipo')[['Valor']].mean().sort_values('Valor')
 
 	Principais parâmetros do método .plot():
 	
-	1. **kind**: Especifica o tipo de gráfico a ser plotado. Alguns valores comuns incluem:
-    - `'line'`: Gráfico de linha (padrão)
-    - `'bar'`: Gráfico de barras verticais
-    - `'barh'`: Gráfico de barras horizontais
-    - `'scatter'`: Gráfico de dispersão
-    - `'hist'`: Histograma
-    - `'box'`: Diagrama de caixa
-    - `'kde'`: Estimativa de densidade kernel
-    - `'pie'`: Gráfico de pizza
-	1. **x**: Nome ou posição da coluna a ser usada no eixo x do gráfico.
-	    
+	1. **kind**: Especifica o tipo de gráfico a ser plotado. Alguns valores são:
+	    - `'line'`: Gráfico de linha (padrão)
+	    - `'bar'`: Gráfico de barras verticais
+	    - `'barh'`: Gráfico de barras horizontais
+	    - `'scatter'`: Gráfico de dispersão
+	    - `'hist'`: Histograma
+	    - `'box'`: Diagrama de caixa
+	    - `'kde'`: Estimativa de densidade kernel
+	    - `'pie'`: Gráfico de pizza
+	2. **x**: Nome ou posição da coluna a ser usada no eixo x do gráfico.
 	3. **y**: Nome ou posição da coluna a ser usada no eixo y do gráfico.
-	    
 	4. **ax**: Objeto do eixo Matplotlib em que o gráfico será desenhado.
-	    
 	5. **subplots**: Se True, cria um subplot para cada coluna.
-	    
 	6. **sharex**: Se True, compartilha o eixo x entre os subplots.
 	    
 	7. **sharey**: Se True, compartilha o eixo y entre os subplots.
