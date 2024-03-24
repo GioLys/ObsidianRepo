@@ -15,3 +15,5 @@ pd.read_csv(url)
 ```
 pd.read_csv(url, sep = ';')
 ```
+
+.head() e .tail(): retorna uma quantidade limitada de 
