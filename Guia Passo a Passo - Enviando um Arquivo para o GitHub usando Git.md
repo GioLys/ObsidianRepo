@@ -11,8 +11,9 @@ git config --global user.name "seu_nome_de_usuario"
 git config --global user.email "seu_email@example.com"
 ```
 
-Passo 3: Crie um repositório remoto no GitH
+Passo 3: Crie um repositório remoto no GitHub
 
+- Crie o repositório
 
 Passo 3: Inicialize um Repositório Git
 
