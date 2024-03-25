@@ -9,3 +9,7 @@ A escrita em git é composta por comandos, opções de configuração desses com
 
 	- Usado para opções longas em comandos.
 	- Exemplo: `--message` para especificar uma mensagem de commit: `git commit --message "Mensagem do commit"`
+
+3. Colchetes Quadrados ('[ ]'):
+
+	
