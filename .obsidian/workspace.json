@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simbologia Git.md",
+                "file": "Principais Comandos Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simbologia Git.md",
+                "file": "Principais Comandos Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simbologia Git.md",
+                "file": "Principais Comandos Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simbologia Git.md"
+                "file": "Principais Comandos Git.md"
               }
             }
           },
@@ -191,14 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "040de8957096d40b",
+  "active": "9077e8dc45461cc1",
   "lastOpenFiles": [
     "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "Simbologia Git.md",
     "Pandas.md",
     "src/Pasted image 20240324202253.png",
     "src",
-    "Untitled 1.md",
+    "Principais Comandos Git.md",
     "Simbologia Git",
     "Data Science - notes.md",
     "Untitled.canvas",
