@@ -12,4 +12,12 @@ A escrita em git é composta por comandos, opções de configuração desses com
 
 3. Colchetes Quadrados ('[ ]'):
 
-	
+	- Usado para indicar que um argumento é opcional.
+	- Exemplo: `[nome-do-arquivo]` em `git add [nome-do-arquivo]`.
+
+4. Chaves ('{ }'):
+
+	- Usado para indicar que você deve escolher um valor de uma lista de opções.
+	- Exemplo: `{branch}` em `git checkout {branch}`.
+
+	1. Barra V
