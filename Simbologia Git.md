@@ -25,4 +25,9 @@ A escrita em git é composta por comandos, opções de configuração desses com
 	- Usado para separar opções mutuamente exclusivas.
 	- Exemplo: `git diff [--cached | HEAD]`.
 
-	
+6. Ponto Final (' . '):
+
+	- Usado para representar o diretório atual.
+	- Exemplo: `git add .` adiciona todos os arquivos no diretório atual ao stage.
+
+7. Circunflexo (' ')
