@@ -1,6 +1,6 @@
 Passo 1: Instale o Git
 
-- Se você ainda não tem o Git instalado, faça o download e instale a versão apropriada para o seu sistema operacional a partir do site oficial: [Git Downloads](https://git-scm.com/downloads)
+- Se você ainda não tem o Git instalado, faça o download e instale a versão apropriada para o seu sistema operacional a partir do site oficial
 
 Passo 2: Configure o Git
 
