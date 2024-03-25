@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e3a393cf60fb05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pandas.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pandas.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pandas.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -167,11 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aebc8e56b324606",
+  "active": "0e3a393cf60fb05e",
   "lastOpenFiles": [
+    "Pandas.md",
+    "Untitled 1.md",
     "Pasted image 20240324202253.png",
     "Untitled.md",
-    "Pandas.md",
     "Data Science - notes.md",
     "Untitled.canvas",
     "2024-03-24.md"
