@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opções de configurações Git.md",
+                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opções de configurações Git.md",
+                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opções de configurações Git.md",
+                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opções de configurações Git.md"
+                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "bac89fd19d61cfb9",
   "lastOpenFiles": [
-    "Simbologia Git.md",
     "Opções de configurações Git.md",
+    "Simbologia Git.md",
     "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "Principais Comandos Git.md",
     "Pandas.md",
