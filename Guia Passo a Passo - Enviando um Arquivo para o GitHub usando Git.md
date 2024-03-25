@@ -16,10 +16,10 @@ Passo 3: Crie um repositório remoto no GitHub
 - Crie o repositório e salve a URL do repositório, lembre-se que ela deve terminar com o sufixo .git
 
 ```
-https://github.com/GioLys/ObsidianRepo.git
+https://github.com/UserName/YourRepo.git
 ```
 
-Passo 3: Inicialize um Repositório Git
+Passo 4: Inicialize um Repositório Git
 
 - Navegue até o diretório onde está o arquivo que você deseja enviar para o GitHub usando o terminal ou prompt de comando.
 - Inicialize um repositório Git executando o seguinte comando:
@@ -28,7 +28,7 @@ Passo 3: Inicialize um Repositório Git
 git init
 ```
 
-Passo 4: Adicione o Arquivo ao Repositório
+Passo 5: Adicione o Arquivo ao Repositório
 
 - Adicione o arquivo que você deseja enviar para o GitHub ao repositório Git usando o seguinte comando:
 
@@ -42,7 +42,7 @@ Se você quiser adicionar todos os arquivos no diretório, use:
 git add .
 ```
 
-Passo 5: Faça um Commit das Mudanças
+Passo 6: Faça um Commit das Mudanças
 
 - Faça um commit das mudanças no arquivo usando o seguinte comando:
 
@@ -52,7 +52,7 @@ git commit -m "Mensagem de commit descritiva"
 
 Substitua "Mensagem de commit descritiva" por uma mensagem que descreva as mudanças que você fez no arquivo.
 
-Passo 6: Conecte-se ao GitHub
+Passo 7: Conecte-se ao GitHub
 
 - Conecte-se ao repositório GitHub onde você deseja enviar o arquivo usando o seguinte comando:
 
@@ -60,9 +60,9 @@ Passo 6: Conecte-se ao GitHub
 git remote add origin URL_do_repositorio
 ```
 
-Substitua "URL_do_repositorio" pelo URL do repositório GitHub. Você pode encontrar o URL na página inicial do seu repositório no GitHub.
+Substitua "URL_do_repositorio" pelo URL do repositório GitHub.
 
-Passo 7: Envie as Mudanças para o GitHub
+Passo 8: Envie as Mudanças para o GitHub
 
 - Envie as mudanças para o GitHub usando o seguinte comando:
 
@@ -72,7 +72,7 @@ git push -u origin branch_principal
 
 Substitua "branch_principal" pelo nome da sua branch principal, geralmente é "main" ou "master".
 
-Passo 8: Autenticação
+Passo 9: Autenticação
 
 - Você será solicitado a fornecer suas credenciais do GitHub (nome de usuário e senha ou token de acesso pessoal) para autenticar e enviar as mudanças para o repositório remoto.
 
