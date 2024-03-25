@@ -23,5 +23,11 @@
       "modifiers": [],
       "key": "F3"
     }
+  ],
+  "better-export-pdf:export-current-file-to-pdf": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }
