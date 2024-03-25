@@ -48,22 +48,27 @@
     
     - Combina alterações de diferentes branches.
     - Abreviação: `git merge`.
+    
 11. **git log**:
     
     - Exibe o histórico de commits.
     - Abreviação: `git log`.
+    
 12. **git reset**:
     
     - Desfaz alterações no repositório.
     - Abreviação: `git reset`.
+    
 13. **git remote**:
     
     - Gerencia conexões remotas.
     - Abreviação: `git remote`.
+    
 14. **git fetch**:
     
     - Busca as alterações do repositório remoto, mas não as mescla com o repositório local.
     - Abreviação: `git fetch`.
+    
 15. **git rm**:
     
     - Remove arquivos do repositório.
