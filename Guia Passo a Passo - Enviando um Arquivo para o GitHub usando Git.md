@@ -13,7 +13,7 @@ git config --global user.email "seu_email@example.com"
 
 Passo 3: Crie um repositório remoto no GitHub
 
-- Crie o repositório
+- Crie o repositório e salve a URL do repositório, lembre-se 
 
 Passo 3: Inicialize um Repositório Git
 
