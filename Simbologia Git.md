@@ -4,4 +4,8 @@ A escrita em git é composta por comandos, opções de configuração desses com
 
 	- Usado para opções curtas em comandos.
 	- Exemplo: `-m` para especificar uma mensagem de commit: `git commit -m "Mensagem do commit"`
-2. 
+
+2. Dois traços ('--'):
+
+	- Usado para opções longas em comandos.
+	- Exemplo: `--message` para especificar uma mensagem de commit: `git commit --message "Mensagem do commit"`
