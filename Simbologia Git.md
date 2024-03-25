@@ -1,1 +1,1 @@
-A escrita em git é composta por comandos, opções de configração desses comandos e 
+A escrita em git é composta por comandos, opções de configuração desses comandos e simbologias de apoio a essas configurações.
