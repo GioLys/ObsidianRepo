@@ -30,4 +30,12 @@ A escrita em git é composta por comandos, opções de configuração desses com
 	- Usado para representar o diretório atual.
 	- Exemplo: `git add .` adiciona todos os arquivos no diretório atual ao stage.
 
-7. Circunflexo (' ')
+7. Circunflexo (' ^ '):
+
+	- Usado para referenciar commits específicos em relações de parentesco.
+	- Exemplo: `HEAD^` para se referir ao commit pai do HEAD.
+
+8. Til (' ~ '):
+
+	- Usado para referenciar commits anteriores em uma linha de tempo linear.
+	- Exemplo: `HEAD~2` para se referir ao segundo commit anterior ao HEAD.
