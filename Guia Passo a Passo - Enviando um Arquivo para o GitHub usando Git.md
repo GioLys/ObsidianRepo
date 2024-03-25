@@ -75,5 +75,3 @@ Substitua "branch_principal" pelo nome da sua branch principal, geralmente é "m
 Passo 9: Autenticação
 
 - Você será solicitado a fornecer suas credenciais do GitHub (nome de usuário e senha ou token de acesso pessoal) para autenticar e enviar as mudanças para o repositório remoto.
-
-Após seguir esses passos, seu arquivo deve ser enviado com sucesso para o GitHub. Você pode verificar o repositório no GitHub para confirmar que as mudanças foram aplicadas corretamente.
