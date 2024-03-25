@@ -37,3 +37,35 @@ git add .
 Passo 5: Faça um Commit das Mudanças
 
 - Faça um commit das mudanças no arquivo usando o seguinte comando:
+
+```
+git commit -m "Mensagem de commit descritiva"
+```
+
+Substitua "Mensagem de commit descritiva" por uma mensagem que descreva as mudanças que você fez no arquivo.
+
+Passo 6: Conecte-se ao GitHub
+
+- Conecte-se ao repositório GitHub onde você deseja enviar o arquivo usando o seguinte comando:
+
+```
+git remote add origin URL_do_repositorio
+```
+
+Substitua "URL_do_repositorio" pelo URL do repositório GitHub. Você pode encontrar o URL na página inicial do seu repositório no GitHub.
+
+Passo 7: Envie as Mudanças para o GitHub
+
+- Envie as mudanças para o GitHub usando o seguinte comando:
+
+```
+git push -u origin branch_principal
+```
+
+Substitua "branch_principal" pelo nome da sua branch principal, geralmente é "main" ou "master".
+
+Passo 8: Autenticação
+
+- Você será solicitado a fornecer suas credenciais do GitHub (nome de usuário e senha ou token de acesso pessoal) para autenticar e enviar as mudanças para o repositório remoto.
+
+Após seguir esses passos, seu arquivo deve ser enviado com sucesso para o GitHub. Você pode verificar o repositório no GitHub para confirmar que as mudanças foram aplicadas corretamente.
