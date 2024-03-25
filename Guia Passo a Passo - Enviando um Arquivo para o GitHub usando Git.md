@@ -11,6 +11,9 @@ git config --global user.name "seu_nome_de_usuario"
 git config --global user.email "seu_email@example.com"
 ```
 
+Passo 3: Crie um repositório remoto no GitH
+
+
 Passo 3: Inicialize um Repositório Git
 
 - Navegue até o diretório onde está o arquivo que você deseja enviar para o GitHub usando o terminal ou prompt de comando.
