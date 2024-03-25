@@ -1,1 +1,1 @@
-Os comandos em git são
+A escrita em git é composta por comandos, opções de configração desses comandos e 
