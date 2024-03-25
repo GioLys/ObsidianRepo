@@ -20,3 +20,20 @@ Passo 3: Inicialize um Repositório Git
 git init
 ```
 
+Passo 4: Adicione o Arquivo ao Repositório
+
+- Adicione o arquivo que você deseja enviar para o GitHub ao repositório Git usando o seguinte comando:
+
+```
+git add nome_do_arquivo
+```
+
+Se você quiser adicionar todos os arquivos no diretório, use:
+
+```
+git add .
+```
+
+Passo 5: Faça um Commit das Mudanças
+
+- Faça um commit das mudanças no arquivo usando o seguinte comando:
