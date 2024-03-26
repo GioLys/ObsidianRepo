@@ -1,3 +1,4 @@
+
 **Passo 1:  Fazer Alterações no Código**
 
 - Faça as alterações necessárias nos arquivos do seu projeto localmente.
@@ -28,8 +29,8 @@ git push origin nome-do-branch
 
 **Passo 5: Atualizar o Repositório Local (Opcional)**
 
-- 1. Se outras pessoas estiverem contribuindo para o mesmo projeto, pode ser útil atualizar seu repositório local com as últimas alterações do repositório remoto.
-2. Para sincronizar o repositório local com as alterações do repositório remoto, utilize o comando `git pull`:
+- Se outras pessoas estiverem contribuindo para o mesmo projeto, pode ser útil atualizar seu repositório local com as últimas alterações do repositório remoto.
+* Para sincronizar o repositório local com as alterações do repositório remoto, utilize o comando `git pull`:
 
 ```
 git pull origin nome-do-branch
