@@ -152,3 +152,9 @@ dados['Descricao'] = dados['Tipo'] + dados['Bairro']
 Se dá da mesma forma que pela criação de colunas numéricas, porém haverá junção de strings
 
 ![[Pasted image 20240326154700.png]]
+
+A partir da junção das strings é possível fazer o tratamento de dados para haver uma melhor visualização
+
+```
+dados['Descricao'] = dados['Tipo'] + ' em ' + dados['Bairro']
+```
