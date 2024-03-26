@@ -49,3 +49,5 @@
     
     - Fornece uma saída mais curta ou resumida do comando executado.
     - Exemplo: `git status -s`.
+
+https://github.com/GioLys/ObsidianRepo

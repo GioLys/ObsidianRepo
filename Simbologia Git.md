@@ -39,3 +39,5 @@
 
 	- Usado para referenciar commits anteriores em uma linha de tempo linear.
 	- Exemplo: `HEAD~2` para se referir ao segundo commit anterior ao HEAD.
+
+https://github.com/GioLys/ObsidianRepo

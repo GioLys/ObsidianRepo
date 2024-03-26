@@ -73,3 +73,5 @@
     
     - Remove arquivos do repositório.
     - Abreviação: `git rm`.
+
+https://github.com/GioLys/ObsidianRepo
