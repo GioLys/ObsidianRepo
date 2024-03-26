@@ -18,13 +18,12 @@ git add nome-do-arquivo ou git add .
 git commit -m "Descrição das alterações"
 ```
 
-**Passo 4: Inicialize um Repositório Git**
+**Passo 4: Enviar as Alterações para o Repositório Remoto**
 
-- Navegue até o diretório onde está o arquivo que você deseja enviar para o GitHub usando o terminal ou prompt de comando.
-- Inicialize um repositório Git executando o seguinte comando:
+- Envie as alterações locais para o repositório remoto usando o comando `git push`:
 
 ```
-git init
+git push origin nome-do-branch
 ```
 
 **Passo 5: Adicione o Arquivo ao Repositório**
