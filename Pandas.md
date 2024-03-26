@@ -92,4 +92,16 @@ dados_graph.plot(kind='barh', title='Valores Imóveis', figsize=(14,8), color='p
 
 **.query():** permite que sejam selecionadas linhas de acordo com uma condição específica
 
-<span style="color:#00b0f0">Exemplo:</span>  Selecionar 
+<span style="color:#00b0f0">Exemplo:</span>  Selecionar apenas o imóveis comerciais da tabela
+
+```
+imoveis_comerciais = ['Conjunto Comercial/Sala', 
+                      'Prédio Inteiro', 'Loja/Salão', 
+                      'Galpão/Depósito/Armazém', 
+                      'Casa Comercial', 'Terreno Padrão',
+                      'Loja Shopping/ Ct Comercial',
+                      'Box/Garagem', 'Chácara',
+                      'Loteamento/Condomínio', 'Sítio',
+                      'Pousada/Chalé', 'Hotel', 'Indústria']
+                                            
+```
