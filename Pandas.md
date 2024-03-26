@@ -125,5 +125,5 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 	Parâmetros:
 	- axis: utlizado para especificar a remoção de linhas ou colunas, 1 para colunas e 0 para linhas
 	- inplace: especificar que as alterações serão aplicadas no dataframe, true ou false
-
+**.to_csv():** salva o dataframe em arquivo csv. Ao salvar ele cria 
  
