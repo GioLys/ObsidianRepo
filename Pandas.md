@@ -108,7 +108,6 @@ dados.query('@imoveis_comerciais in Tipo')
 ```
 
 **.value_counts():** conta quantas vezes o tipo de dado aparece no database. Retorna uma series
-
-**.value_counts(normalize=True)**
-
+**.value_counts(normalize=True)**: retorna o mesmo dado em formato de porcentagem
+**.to_frame():** tranf
 
