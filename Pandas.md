@@ -107,7 +107,7 @@ imoveis_comerciais = ['Conjunto Comercial/Sala',
 dados.query('@imoveis_comerciais in Tipo')
 ```
 
-
+.value_counts(): conta quna
 
 
 
