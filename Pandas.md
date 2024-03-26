@@ -132,3 +132,7 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 - `to_csv()`: salva o DataFrame em um arquivo CSV (Comma-Separated Values);
 - `to_excel()`: salva o DataFrame em um arquivo Excel;
 - `to_json()`: salva o DataFrame em um arquivo JSON (JavaScript Object Notation).
+
+# <span style="color:#7030a0"> Manipulação de dados</span>
+
+
