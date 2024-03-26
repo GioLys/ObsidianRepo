@@ -26,52 +26,13 @@ git commit -m "Descrição das alterações"
 git push origin nome-do-branch
 ```
 
-**Passo 5: Adicione o Arquivo ao Repositório**
+**Passo 5: Atualizar o Repositório Local (Opcional)**
 
-- Adicione o arquivo que você deseja enviar para o GitHub ao repositório Git usando o seguinte comando:
-
-```
-git add nome_do_arquivo
-```
-
-Se você quiser adicionar todos os arquivos no diretório, use:
+- 1. Se outras pessoas estiverem contribuindo para o mesmo projeto, pode ser útil atualizar seu repositório local com as últimas alterações do repositório remoto.
+2. Para sincronizar o repositório local com as alterações do repositório remoto, utilize o comando `git pull`:
 
 ```
-git add .
+git pull origin nome-do-branch
 ```
-
-**Passo 6: Faça um Commit das Mudanças**
-
-- Faça um commit das mudanças no arquivo usando o seguinte comando:
-
-```
-git commit -m "Mensagem de commit descritiva"
-```
-
-Substitua "Mensagem de commit descritiva" por uma mensagem que descreva as mudanças que você fez no arquivo.
-
-**Passo 7: Conecte-se ao GitHub**
-
-- Conecte-se ao repositório GitHub onde você deseja enviar o arquivo usando o seguinte comando:
-
-```
-git remote add origin URL_do_repositorio
-```
-
-Substitua "URL_do_repositorio" pelo URL do repositório GitHub.
-
-**Passo 8: Envie as Mudanças para o GitHub**
-
-- Envie as mudanças para o GitHub usando o seguinte comando:
-
-```
-git push -u origin branch_principal
-```
-
-Substitua "branch_principal" pelo nome da sua branch principal, geralmente é "main" ou "master".
-
-**Passo 9: Autenticação**
-
-- Você será solicitado a fornecer suas credenciais do GitHub (nome de usuário e senha ou token de acesso pessoal) para autenticar e enviar as mudanças para o repositório remoto.
 
 Acessar a guia de [[Principais Comandos Git]], [[Simbologia Git]] ou [[Opções de configurações Git]]
