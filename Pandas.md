@@ -126,4 +126,9 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 	- axis: utlizado para especificar a remoção de linhas ou colunas, 1 para colunas e 0 para linhas
 	- inplace: especificar que as alterações serão aplicadas no dataframe, true ou false
 **.to_csv():** salva o dataframe em arquivo csv. Ao salvar ele cria um índice novo para a tabela mesmo que ela ja tenha uma. Para salvar sem criar o índice deve-se passar o parâmetro <span style="color:#00b0f0">index=false</span>
- 
+
+> O Pandas oferece diversos métodos para salvar arquivos em diferentes formatos. Alguns exemplos são:
+
+- `to_csv()`: salva o DataFrame em um arquivo CSV (Comma-Separated Values);
+- `to_excel()`: salva o DataFrame em um arquivo Excel;
+- `to_json()`: salva o DataFrame em um arquivo JSON (JavaScript Object Notation).
