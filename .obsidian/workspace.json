@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
+                "file": "Opções de configurações Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
+                "file": "Opções de configurações Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
+                "file": "Opções de configurações Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md"
+                "file": "Opções de configurações Git.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "25a4486b449c74ab",
   "lastOpenFiles": [
-    "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
+    "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "Opções de configurações Git.md",
     "Principais Comandos Git.md",
     "Simbologia Git.md",
