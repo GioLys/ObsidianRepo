@@ -91,3 +91,5 @@ dados_graph.plot(kind='barh', title='Valores Imóveis', figsize=(14,8), color='p
 ![[Pasted image 20240324202253.png]]
 
 **.query():** permite que sejam selecionadas linhas de acordo com uma condição específica
+
+<span style="color:#00b0f0">Exemplo:</span>  Gráfico da variável dados_graph, gráfico com barras horizontais, título 'Valores Imóveis', tamanho da figura '14, 8', cor rosa
