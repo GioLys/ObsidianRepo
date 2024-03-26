@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opções de configurações Git.md",
+                "file": "Simbologia Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Opções de configurações Git.md",
+                "file": "Simbologia Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Opções de configurações Git.md",
+                "file": "Simbologia Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Opções de configurações Git.md"
+                "file": "Simbologia Git.md"
               }
             }
           },
@@ -217,9 +217,9 @@
   },
   "active": "25a4486b449c74ab",
   "lastOpenFiles": [
+    "Opções de configurações Git.md",
     "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
     "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-    "Opções de configurações Git.md",
     "Principais Comandos Git.md",
     "Simbologia Git.md",
     "Pandas.md",
