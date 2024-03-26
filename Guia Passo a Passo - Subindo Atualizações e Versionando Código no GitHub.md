@@ -10,12 +10,12 @@
 git add nome-do-arquivo ou git add .
 ```
 
-**Passo 3: Crie um repositório remoto no GitHub**
+**Passo 3: Faça o Commit das Alterações**
 
-- Crie o repositório e salve a URL do repositório, lembre-se que ela deve terminar com o sufixo .git
+- Faça o commit das alterações utilizando o comando `git commit -m` seguido de uma mensagem que descreva as alterações feitas:
 
 ```
-https://github.com/UserName/YourRepo.git
+git commit -m "Descrição das alterações"
 ```
 
 **Passo 4: Inicialize um Repositório Git**
