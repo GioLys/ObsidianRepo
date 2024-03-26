@@ -145,7 +145,11 @@ Foi criada a coluna Valor por mês, passando como dados a somatória dos dados c
 
 <span style="color:#ffc000">Criando colunas numéricas:</span>
 
-```bash
-dados['Descricao'] = dados['Tipo'] + dados['Bairro']
-dados.head()
 ```
+dados['Descricao'] = dados['Tipo'] + dados['Bairro']
+```
+
+Se dá da mesma forma que pela criação de colunas numéricas, porém haverá junção de strings!
+
+[[Pasted image 20240326154622.png]]
+
