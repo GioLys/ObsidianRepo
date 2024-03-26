@@ -112,4 +112,6 @@ dados.query('@imoveis_comerciais in Tipo')
 **.to_frame():** coverte uma series em um dataframe
 **.rename():** renomeia uma coluna
 
-
+```
+df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
+```
