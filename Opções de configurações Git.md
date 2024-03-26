@@ -1,4 +1,5 @@
-<span style="color:#7030a0"><span style="color:#7030a0"><span style="color:#ffc000">A escrita em git é composta por comandos, opções de configuração desses comandos e simbologias de apoio a essas configurações. É sempre necessário ler a documentação do Git para acessar todos os conteúdos disponíveis, mas estes são os principais e mais usados:</span></span></span>
+<span style="color:#7030a0">A escrita em git é composta por comandos, opções de configuração desses comandos e simbologias de apoio a essas configurações. É sempre necessário ler a documentação do Git para acessar todos os conteúdos disponíveis, mas estes são os principais e mais usados:
+</span>
 
 1. **-m, --message**:
     
