@@ -103,5 +103,11 @@ imoveis_comerciais = ['Conjunto Comercial/Sala',
                       'Box/Garagem', 'Chácara',
                       'Loteamento/Condomínio', 'Sítio',
                       'Pousada/Chalé', 'Hotel', 'Indústria']
-                                            
+
+dados.query('@imoveis_comerciais in Tipo')
 ```
+
+
+
+
+
