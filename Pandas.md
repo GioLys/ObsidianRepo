@@ -122,5 +122,6 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 **.isnull().sum():** retorna a quantidade de dados nulos
 **.fillna():** substitui os valores nulos pelo valor descrito entre parenteses, geralmente é 0
 **.drop():** é usado para remover linhas e colunas.
- 
+	Parâmetros:
+	axis: utlizado para especificar a remoção de linhas ou colunas, 1 para 
  
