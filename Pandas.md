@@ -107,7 +107,8 @@ imoveis_comerciais = ['Conjunto Comercial/Sala',
 dados.query('@imoveis_comerciais in Tipo')
 ```
 
-.value_counts(): conta quna
+**.value_counts():** conta quantas vezes o tipo de dado aparece no database. Retorna uma series
 
+**.value_counts(normalize=True)**
 
 
