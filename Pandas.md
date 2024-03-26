@@ -158,3 +158,5 @@ A partir da junção das strings é possível fazer o tratamento de dados para h
 ```
 dados['Descricao'] = dados['Tipo'] + ' em ' + dados['Bairro']
 ```
+
+![[Pasted image 20240326154840.png]]
