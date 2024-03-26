@@ -115,3 +115,5 @@ dados.query('@imoveis_comerciais in Tipo')
 ```
 df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 ```
+
+<span style="color:#7030a0">Tratando e filtrando dados</span>
