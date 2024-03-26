@@ -2,13 +2,12 @@
 
 - Faça as alterações necessárias nos arquivos do seu projeto localmente.
 
-**Passo 2: Configure o Git**
+**Passo 2: Adicionar e Comitar Alterações
 
-- Abra o terminal ou prompt de comando e configure seu nome de usuário e endereço de e-mail usando os seguintes comandos (substitua "seu_nome_de_usuario" pelo seu nome de usuário do GitHub e "seu_email@example.com" pelo seu e-mail associado à sua conta do GitHub):
+- Adicione as alterações ao stage usando o comando `git add` seguido do nome dos arquivos ou `.` para adicionar todos os arquivos modificados:
 
 ```
-git config --global user.name "seu_nome_de_usuario"
-git config --global user.email "seu_email@example.com"
+git add nome-do-arquivo ou git add .
 ```
 
 **Passo 3: Crie um repositório remoto no GitHub**
