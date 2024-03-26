@@ -118,4 +118,4 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 
 # <span style="color:#7030a0"> Tratando e filtrando dados</span>
 
-.isnull():
+**.isnull():** retorna true ou false para dados nulos
