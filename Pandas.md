@@ -135,4 +135,10 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 
 # <span style="color:#7030a0"> Manipulação de dados</span>
 
+<span style="color:#ffc000">Criando colunas numéricas:</span>
 
+```
+dados['Valor_por_mes'] = dados['Valor'] + dados['Condominio']
+```
+
+Foi criada a coluna Valor por mês
