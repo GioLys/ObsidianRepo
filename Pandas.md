@@ -123,5 +123,6 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 **.fillna():** substitui os valores nulos pelo valor descrito entre parenteses, geralmente é 0
 **.drop():** é usado para remover linhas e colunas.
 	Parâmetros:
-	axis: utlizado para especificar a remoção de linhas ou colunas, 1 para 
+	axis: utlizado para especificar a remoção de linhas ou colunas, 1 para colunas e 0 para linhas
+	inplace: especificar que as alterações serão aplicadas no dataframe, true ou false
  
