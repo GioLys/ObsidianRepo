@@ -120,4 +120,5 @@ df_exemplo.rename(columns={'Tipo': 'Percentuais'}, inplace=True)
 
 **.isnull():** retorna true ou false para dados nulos
 **.isnull().sum():** retorna a quantidade de dados nulos
+**.fillna():** substitui os valores nulos pelo valor descrito entre parenteses, geralmente é 0
  
