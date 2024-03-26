@@ -142,3 +142,10 @@ dados['Valor_por_mes'] = dados['Valor'] + dados['Condominio']
 ```
 
 Foi criada a coluna Valor por mês, passando como dados a somatória dos dados contidos nas colunas Valor e Condomínio
+
+<span style="color:#ffc000">Criando colunas numéricas:</span>
+
+```bash
+dados['Descricao'] = dados['Tipo'] + dados['Bairro']
+dados.head()
+```
