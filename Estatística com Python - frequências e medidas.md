@@ -34,4 +34,6 @@ A distribuição de frequências é uma forma de organizar dados estatísticos p
 
 3. **Organização dos dados**: Os valores únicos são geralmente organizados em ordem crescente ou decrescente, e suas frequências correspondentes são listadas ao lado deles.
 
+![[Pasted image 20240327153319.png]]
+
 
