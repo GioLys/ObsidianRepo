@@ -54,4 +54,5 @@ cor = { 0: 'Indígena',
         9: 'Sem declaração'}
 ```
 
-Utilizaremos 
+Utilizaremos **pd.crosstab()** para fazer uma tabulação cruzada de duas frequências, sendo elas cor e sexo:
+
