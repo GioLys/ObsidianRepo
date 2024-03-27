@@ -14,7 +14,7 @@ Os dados qualitativos descrevem qualidades ou características não numéricas d
 
 Os dados quantitativos são mensuráveis e expressos numericamente. Eles podem ser subcategorizados em:
 
-1. **Discretos**: Valores que são contáveis e geralmente inteiros. <span style="color:#00b0f0">Exemplo</span>s incluem número de filhos, número de carros em uma garagem, etc.
+1. **Discretos**: Valores que são contáveis e geralmente inteiros. <span style="color:#00b0f0">Exemplos</span> incluem número de filhos, número de carros em uma garagem, etc.
     
 2. **Contínuos**: Valores que podem assumir qualquer valor dentro de um intervalo específico. <span style="color:#00b0f0">Exemplos</span> incluem altura, peso, temperatura, etc.
     
