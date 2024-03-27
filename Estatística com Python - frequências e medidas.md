@@ -1,4 +1,6 @@
 
+# <span style="color:#7030a0">Tipos de dados</span>
+
 ### Dados Qualitativos:
 
 Os dados qualitativos descrevem qualidades ou características não numéricas de um objeto ou fenômeno. Eles são geralmente descritivos e não podem ser expressos em termos de quantidade. Os dados qualitativos são frequentemente divididos em várias subcategorias:
