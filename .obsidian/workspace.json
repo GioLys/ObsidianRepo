@@ -71,11 +71,9 @@
             "id": "25a4486b449c74ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Data Science - notes.md",
-                "mode": "source",
-                "source": false
+                "file": "src/Pasted image 20240324202253.png"
               }
             }
           }
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "src/Pasted image 20240324202253.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "src/Pasted image 20240324202253.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science - notes.md"
+                "file": "src/Pasted image 20240324202253.png"
               }
             }
           },
@@ -217,10 +215,11 @@
   },
   "active": "25a4486b449c74ab",
   "lastOpenFiles": [
-    "Pandas.md",
-    "Pasted image 20240326154840.png",
-    "Pasted image 20240326154700.png",
+    "src/Pasted image 20240326154700.png",
     "src/Pasted image 20240326154622.png",
+    "src/Pasted image 20240326154840.png",
+    "Data Science - notes.md",
+    "Pandas.md",
     "Simbologia Git.md",
     "Opções de configurações Git.md",
     "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
@@ -229,7 +228,6 @@
     "src/Pasted image 20240324202253.png",
     "src",
     "Simbologia Git",
-    "Data Science - notes.md",
     "Untitled.canvas",
     "2024-03-24.md"
   ]
