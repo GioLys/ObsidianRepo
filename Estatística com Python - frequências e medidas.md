@@ -62,3 +62,5 @@ frequencia = pd.crosstab(dados.Sexo, dados.Cor)
 
 ![[Pasted image 20240327154824.png]]
 
+Faremos o tratamento dos dados para renomear colunas e linhas e retornar a porcentagem das frequências:
+
