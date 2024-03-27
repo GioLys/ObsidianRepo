@@ -88,7 +88,7 @@ percentual
 
 ![[Pasted image 20240327155440.png]]
 
-Para isso foi utlizado o método de função agregadora que permite 
+Para isso foi utlizado o método de função agregadora que permite que você especifique uma função ou um dicionário de funções para aplicar a diferentes colunas do DataFrame.
 
 
 
