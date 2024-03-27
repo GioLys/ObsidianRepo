@@ -4,8 +4,8 @@ Estudo dirigido e introdutório para ciência de dados
 
 - [ ] Tableau
 - [ ] Inteligência de negócios (BI)
-- [ ] SQL
-- [ ] Python
+- [x] SQL
+- [x] Python
 - [ ] Starburst Enterprise (Trino)
 - [ ] Indicadores-chave de desempenho
 - [x] Visualização de dados
