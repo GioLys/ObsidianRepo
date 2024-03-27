@@ -30,5 +30,8 @@ A distribuição de frequências é uma forma de organizar dados estatísticos p
 1. **Identificação dos valores únicos**: Primeiro, os valores únicos presentes nos dados são identificados. Em conjuntos de dados numéricos, isso significa listar todos os diferentes valores únicos presentes.
 2. **Contagem de ocorrências**: Em seguida, a frequência de cada valor único é contada. Isso envolve contar quantas vezes cada valor ocorre nos dados.
 
-![[Pasted image 20240327153040.png]]
+![[Pasted image 20240327153133.png]]
+
+3. **Organização dos dados**: Os valores únicos são geralmente organizados em ordem crescente ou decrescente, e suas frequências correspondentes são listadas ao lado deles.
+
 
