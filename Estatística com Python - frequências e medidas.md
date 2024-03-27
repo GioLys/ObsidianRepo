@@ -36,4 +36,4 @@ A distribuição de frequências é uma forma de organizar dados estatísticos p
 
 ![[Pasted image 20240327153319.png]]
 
-
+4. **Apresentação visual**: Uma vez que os dados foram organizados e as frequências atribuídas a cada valor, muitas vezes é útil representar essa informação visualmente, através de histogramas, gráficos de barras, ou até mesmo tabelas.
