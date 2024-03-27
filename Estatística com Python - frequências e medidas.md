@@ -20,3 +20,6 @@ Os dados quantitativos são mensuráveis e expressos numericamente. Eles podem s
     
 
 Os dados quantitativos podem ser analisados usando técnicas estatísticas mais avançadas devido à sua natureza numérica, enquanto os dados qualitativos muitas vezes exigem métodos diferentes de análise, como análise de conteúdo, análise de discurso, etc.
+
+# <span style="color:#7030a0">Distribuição de frequência </span>
+
