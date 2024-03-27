@@ -86,6 +86,7 @@ percentual.rename(columns = cor, inplace = True)
 percentual
 ```
 
+![[Pasted image 20240327155440.png]]
 
 
 
