@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas.md",
+                "file": "Data Science - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pandas.md",
+                "file": "Data Science - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pandas.md",
+                "file": "Data Science - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pandas.md"
+                "file": "Data Science - notes.md"
               }
             }
           },
@@ -217,10 +217,10 @@
   },
   "active": "25a4486b449c74ab",
   "lastOpenFiles": [
+    "Pandas.md",
     "Pasted image 20240326154840.png",
     "Pasted image 20240326154700.png",
     "src/Pasted image 20240326154622.png",
-    "Pandas.md",
     "Simbologia Git.md",
     "Opções de configurações Git.md",
     "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
