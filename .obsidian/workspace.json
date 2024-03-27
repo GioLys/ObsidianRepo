@@ -76,9 +76,21 @@
                 "file": "src/Pasted image 20240324202253.png"
               }
             }
+          },
+          {
+            "id": "afe57b9bced8e31d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estatística com Python - frequências e medidas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Pasted image 20240324202253.png",
+                "file": "Estatística com Python - frequências e medidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Pasted image 20240324202253.png",
+                "file": "Estatística com Python - frequências e medidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Pasted image 20240324202253.png"
+                "file": "Estatística com Python - frequências e medidas.md"
               }
             }
           },
@@ -213,8 +225,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a4486b449c74ab",
+  "active": "afe57b9bced8e31d",
   "lastOpenFiles": [
+    "src/Pasted image 20240324202253.png",
+    "Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240326154700.png",
     "src/Pasted image 20240326154622.png",
     "src/Pasted image 20240326154840.png",
@@ -225,7 +239,6 @@
     "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
     "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "Principais Comandos Git.md",
-    "src/Pasted image 20240324202253.png",
     "src",
     "Simbologia Git",
     "Untitled.canvas",
