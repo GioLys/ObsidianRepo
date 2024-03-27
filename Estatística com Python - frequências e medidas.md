@@ -23,3 +23,4 @@ Os dados quantitativos podem ser analisados usando técnicas estatísticas mais 
 
 # <span style="color:#7030a0">Distribuição de frequência </span>
 
+A distribuição de frequências é uma forma de organizar dados estatísticos para que seja mais fácil entender sua estrutura e padrões. Em essência, ela mostra quantas vezes cada valor ocorre em um conjunto de dados. Este tipo de distribuição é amplamente utilizado em estatística descritiva para resumir grandes conjuntos de dados e para obter uma visão geral da distribuição dos valores.
