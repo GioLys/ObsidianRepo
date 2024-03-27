@@ -74,7 +74,7 @@ percentual.rename(columns = cor, inplace = True)
 
 ![[Pasted image 20240327155028.png]]
 
-<span style="color:#00b0f0">Exemplo: </span> UtilizarCalcular renda de acordo com sexo e cor a partir da tabela de percentuais
+<span style="color:#00b0f0">Exemplo: </span> Utilizar dados.Renda para calcular a renda média de acordo com sexo e cor a partir da tabela de percentuais
 
 
 
