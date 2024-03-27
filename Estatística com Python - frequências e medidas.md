@@ -42,3 +42,15 @@ A distribuição de frequências é uma forma de organizar dados estatísticos p
 
 #### 2º opção: Distribuição de frequências qualitativas
 
+```bash
+sexo = { 0: 'Masculino',
+        1: 'Feminino'}
+
+cor = { 0: 'Indígena',
+        2: 'Branca',
+        4: 'Preta',
+        6: 'Amarela',
+        8: 'Parda',
+        9: 'Sem declaração'}
+```
+
