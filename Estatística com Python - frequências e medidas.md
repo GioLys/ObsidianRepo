@@ -54,3 +54,4 @@ cor = { 0: 'Indígena',
         9: 'Sem declaração'}
 ```
 
+Utilizaremos 
