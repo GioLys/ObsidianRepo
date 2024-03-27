@@ -64,3 +64,16 @@ frequencia = pd.crosstab(dados.Sexo, dados.Cor)
 
 Faremos o tratamento dos dados para renomear colunas e linhas e retornar a porcentagem das frequências:
 
+```sql
+percentual = pd.crosstab(dados.Sexo,
+                         dados.Cor,
+                         normalize = True) * 100
+percentual.rename(index = sexo, inplace = True)
+percentual.rename(columns = cor, inplace = True)
+```
+
+![[Pasted image 20240327155028.png]]
+
+
+
+
