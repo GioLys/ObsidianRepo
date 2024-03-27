@@ -56,3 +56,9 @@ cor = { 0: 'Indígena',
 
 Utilizaremos **pd.crosstab()** para fazer uma tabulação cruzada de duas frequências, sendo elas cor e sexo:
 
+```
+frequencia = pd.crosstab(dados.Sexo, dados.Cor)
+```
+
+![[Pasted image 20240327154824.png]]
+
