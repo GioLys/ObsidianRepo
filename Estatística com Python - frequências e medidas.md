@@ -74,6 +74,7 @@ percentual.rename(columns = cor, inplace = True)
 
 ![[Pasted image 20240327155028.png]]
 
+Exemplo: Calcular
 
 
 
