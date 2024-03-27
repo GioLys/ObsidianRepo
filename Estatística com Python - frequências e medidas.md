@@ -76,6 +76,17 @@ percentual.rename(columns = cor, inplace = True)
 
 <span style="color:#00b0f0">Exemplo: </span> Utilizar dados.Renda para calcular a renda média de acordo com sexo e cor a partir da tabela de percentuais
 
+```sql
+percentual = pd.crosstab(dados.Sexo,
+                         dados.Cor,
+                         aggfunc = 'mean',
+                         values = dados.Renda)
+percentual.rename(index = sexo, inplace = True)
+percentual.rename(columns = cor, inplace = True)
+percentual
+```
+
+
 
 
 
