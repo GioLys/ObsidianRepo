@@ -3,9 +3,9 @@
 
 Os dados qualitativos descrevem qualidades ou características não numéricas de um objeto ou fenômeno. Eles são geralmente descritivos e não podem ser expressos em termos de quantidade. Os dados qualitativos são frequentemente divididos em várias subcategorias:
 
-1. **Nominais**: Esses dados representam categorias sem ordem ou hierarquia. Exemplos incluem cor dos olhos, gênero, raça, etc.
+1. **Nominais**: Esses dados representam categorias sem ordem ou hierarquia. <span style="color:#00b0f0">Exemplos</span> incluem cor dos olhos, gênero, raça, etc.
     
-2. **Ordinais**: Esses dados têm uma ordem específica, mas a diferença entre os valores não é necessariamente uniforme ou mensurável. Exemplos incluem nível de satisfação (baixo, médio, alto), classificação de filmes (bom, regular, ruim), etc.
+2. **Ordinais**: Esses dados têm uma ordem específica, mas a diferença entre os valores não é necessariamente uniforme ou mensurável. <span style="color:#00b0f0">Exemplos</span> incluem nível de satisfação (baixo, médio, alto), classificação de filmes (bom, regular, ruim), etc.
     
 
 ### Dados Quantitativos:
