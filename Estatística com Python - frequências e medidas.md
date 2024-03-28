@@ -109,4 +109,5 @@ Um histograma é um tipo de gráfico de barras utilizado na estatística para re
     
 - **Outliers**: Valores atípicos (outliers) podem ser identificados como observações que caem em compartimentos que estão significativamente afastados dos demais.
 
-##### Plotando Histogramas a partir do Seaborn
+##### Plotando Histogramas a partir do Seaborn as sns
+
