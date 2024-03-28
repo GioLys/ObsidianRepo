@@ -92,4 +92,19 @@ Para isso foi utlizado o método de função agregadora que permite que você es
 
 # <span style="color:#7030a0">Histograma </span>
 
+Um histograma é um tipo de gráfico de barras utilizado na estatística para representar a distribuição de frequências de um conjunto de dados contínuos ou discretos. Ele divide o intervalo de valores em compartimentos (também chamados de "bins" ou intervalos de classe) e mostra a frequência com que os dados caem em cada compartimento.
+### Como funciona:
 
+1. **Divisão em compartimentos**: O intervalo de valores é dividido em um número específico de compartimentos (bins), que são intervalos mutuamente exclusivos e coletivamente abrangentes que cobrem todo o intervalo de valores dos dados.
+    
+2. **Contagem de ocorrências**: O histograma conta quantas vezes os dados caem em cada compartimento. Isso significa contar quantas observações de dados estão dentro de cada intervalo.
+    
+3. **Construção do gráfico**: Os compartimentos são representados no eixo horizontal do gráfico, enquanto a frequência (ou densidade de frequência) é representada no eixo vertical. Normalmente, as barras do histograma não têm espaçamento entre elas, pois representam intervalos contínuos.
+
+### Principais características:
+
+- **Forma da distribuição**: O formato do histograma pode indicar a forma da distribuição dos dados, como simétrica, assimétrica (positiva ou negativa) ou bimodal.
+    
+- **Centralização e dispersão**: A localização central e a dispersão dos dados podem ser inferidas a partir do histograma. Por exemplo, a média ou mediana pode estar aproximadamente no centro do histograma, e a largura dos compartimentos pode indicar a dispersão dos dados.
+    
+- **Outliers**: Valores atípicos (outliers) podem ser identificados como observações que caem em compartimentos que estão significativamente afastados dos demais.
