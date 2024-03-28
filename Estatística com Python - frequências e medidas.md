@@ -90,5 +90,6 @@ percentual
 
 Para isso foi utlizado o método de função agregadora que permite que você especifique uma função ou um dicionário de funções para aplicar a diferentes colunas do DataFrame.
 
+# <span style="color:#7030a0">Histograma </span>
 
 
