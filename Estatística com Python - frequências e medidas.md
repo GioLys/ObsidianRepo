@@ -108,3 +108,4 @@ Um histograma é um tipo de gráfico de barras utilizado na estatística para re
 - **Centralização e dispersão**: A localização central e a dispersão dos dados podem ser inferidas a partir do histograma. Por exemplo, a média ou mediana pode estar aproximadamente no centro do histograma, e a largura dos compartimentos pode indicar a dispersão dos dados.
     
 - **Outliers**: Valores atípicos (outliers) podem ser identificados como observações que caem em compartimentos que estão significativamente afastados dos demais.
+
