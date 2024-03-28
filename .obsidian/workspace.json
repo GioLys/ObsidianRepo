@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md",
+                "file": "Data Science - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md",
+                "file": "Data Science - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md",
+                "file": "Data Science - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md"
+                "file": "Data Science - notes.md"
               }
             }
           },
@@ -225,11 +225,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9077e8dc45461cc1",
+  "active": "afe57b9bced8e31d",
   "lastOpenFiles": [
+    "Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240328161110.png",
     "Data Science - notes.md",
-    "Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240327155440.png",
     "src/Pasted image 20240327155028.png",
     "src/Pasted image 20240327154824.png",
@@ -239,7 +239,6 @@
     "Pasted image 20240327153040.png",
     "src/Pasted image 20240324202253.png",
     "src/Pasted image 20240326154700.png",
-    "src/Pasted image 20240326154622.png",
     "Pandas.md",
     "Simbologia Git.md",
     "Opções de configurações Git.md",
