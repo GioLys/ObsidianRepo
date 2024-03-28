@@ -117,10 +117,22 @@ Inicialmente, suprimiremos a função de densidade `kde` traçada junto com o 
 ax = sns.distplot(dados.Altura, kde = False)
 ```
 
-Criada a variável, começaremos a configurar alguns parâmetros em `ax` na mesma célula. Aplicaremos `.figure` com `.set_size_inches()` para configurarmos o tamanho do gráfico com 12 polegadas de largura e `6` de altura que queremos visualizar no notebook.
+Criada a variável, começaremos a configurar alguns parâmetros em `ax` na mesma célula. Aplicaremos `.figure` com `.set_size_inches()` para configurarmos o tamanho do gráfico com 12 polegadas de largura e 6 de altura que queremos visualizar no notebook.
 
 Em seguida, _setaremos_ o título `'Distribuição de Frequências - Altura'` e o `fontsize` como `18` dentro de `set_title()`.
 
 Em seguida, configuraremos o label do eixo `x` como `'Metros'` e o tamanho de fonte `14` dentro do método `.set_xlabel()`.
 
 Por fim, chamaremos `ax` para mostrarmos o gráfico de fato.
+
+```python
+ax = sns.distplot(dados.Altura, kde = False)
+
+ax.figure.set_size_inches(12, 6)
+ax.set_title('Distribuição de Frequências - Altura', fontsize=18)
+ax.set_xlabel('Metros', fontsize=14)
+```
+
+
+![[Pasted image 20240328161110.png]]
+
