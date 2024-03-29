@@ -140,3 +140,16 @@ ax.set_xlabel('Metros', fontsize=14)
 
 ### Média
 
+```scss
+df['Fulano'].mean()
+```
+
+```scss
+dados.Renda.mean()
+```
+
+### Mediana
+
+Quando "n" for **ímpar**, a posição do elemento mediano será obtido com:
+
+![[Pasted image 20240329131034.png]]
