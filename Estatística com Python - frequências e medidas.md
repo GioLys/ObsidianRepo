@@ -241,3 +241,10 @@ print("Percentil 25:", p25)
 print("Mediana (Percentil 50):", p50)
 print("Percentil 75:", p75)
 ```
+
+##### Você pode calcular os quartis usando também a função `numpy ou pandas.quantile()`:
+
+```python
+dados.Renda.quantile([i / 10 for i in range(1, 10)])
+```
+
