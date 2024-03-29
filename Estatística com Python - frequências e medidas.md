@@ -173,3 +173,5 @@ notas_fulano.loc[elemento_md - 1]
 ```scss
 notas_fulano.median()
 ```
+
+### Mediana
