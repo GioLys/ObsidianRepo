@@ -193,3 +193,29 @@ df.mode()
 
 # <span style="color:#7030a0">Medidas separatrizes</span>
 
+### Quartis:
+
+Os quartis dividem os dados em quatro partes iguais, onde:
+
+- O primeiro quartil (Q1) representa o valor abaixo do qual 25% dos dados estão.
+- O segundo quartil (Q2), também conhecido como mediana, divide os dados em duas partes iguais.
+- O terceiro quartil (Q3) representa o valor abaixo do qual 75% dos dados estão.
+
+Você pode calcular os quartis usando a função `numpy.percentile()`:
+
+```
+import numpy as np
+
+# Exemplo de dados
+dados = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+
+# Cálculo dos quartis
+q1 = np.percentile(dados, 25)
+q2 = np.percentile(dados, 50)  # mediana
+q3 = np.percentile(dados, 75)
+
+print("Q1:", q1)
+print("Mediana (Q2):", q2)
+print("Q3:", q3)
+
+```
