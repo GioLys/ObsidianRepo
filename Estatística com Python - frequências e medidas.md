@@ -182,4 +182,11 @@ df.mode()
 
 # <span style="color:#7030a0">Relação entre medidas de tendência central</span>
 
+
 ![[Pasted image 20240329134549.png]]
+
+1. A variável com **Simetria** é um padrão mais difícil de se encontrar, mas é o mais desejado, onde são iguais ou muito próximas e possuem uma distribuição simétrica.
+
+2. A **Assimetria à Direita** acontece quando há uma grande quantidade de valores que se afunilam de alguma forma, como no caso da pesquisa PNAD sobre a renda mensal, onde a maioria das pessoas é mais pobre justificando o pico em "moda", enquanto a minoria possui grandes rendimentos que aumentam o valor da média.
+
+3. Basicamente a mesma coisa acontece na **Assimetria à Esquerda**, mas a "força" que "puxa" os dados está na direção contrária.
