@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Estatística com Python - frequências e medidas.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Estatística com Python - frequências e medidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Estatística com Python - frequências e medidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science - notes.md"
+                "file": "Estatística com Python - frequências e medidas.md"
               }
             }
           },
@@ -227,9 +227,9 @@
   },
   "active": "afe57b9bced8e31d",
   "lastOpenFiles": [
+    "Data Science - notes.md",
     "Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240328161110.png",
-    "Data Science - notes.md",
     "src/Pasted image 20240327155440.png",
     "src/Pasted image 20240327155028.png",
     "src/Pasted image 20240327154824.png",
