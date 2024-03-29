@@ -174,4 +174,9 @@ notas_fulano.loc[elemento_md - 1]
 notas_fulano.median()
 ```
 
-### Mediana
+### Moda
+
+```scss
+df.mode()
+```
+
