@@ -165,8 +165,11 @@ notas_fulano = notas_fulano.sort_values()
 notas_fulano = notas_fulano.reset_index()
 n = notas_fulano.shape[0]
 elemento_md = (n + 1) / 2
-```
-```
+notas_fulano.loc[elemento_md - 1]
 ```
 
+##### * Mediana com pandas:
+
+```scss
+notas_fulano.median()
 ```
