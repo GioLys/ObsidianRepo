@@ -219,3 +219,9 @@ print("Mediana (Q2):", q2)
 print("Q3:", q3)
 ```
 
+##### Você pode calcular os quartis usando também a função `numpy ou pandas.quantile()`:
+
+```python
+dados.Renda.quantile([0.25, 0.5, 0.75])
+```
+
