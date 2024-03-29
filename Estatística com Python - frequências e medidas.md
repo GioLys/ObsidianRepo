@@ -248,3 +248,9 @@ print("Percentil 75:", p75)
 dados.Renda.quantile([i / 10 for i in range(1, 10)])
 ```
 
+### Decis:
+
+Os decis dividem os dados em dez partes iguais, onde o décimo decis (D1) representa o valor abaixo do qual 10% dos dados estão, e assim por diante.
+
+```
+```
