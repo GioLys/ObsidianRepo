@@ -245,12 +245,26 @@ print("Percentil 75:", p75)
 ##### Você pode calcular os quartis usando também a função `numpy ou pandas.quantile()`:
 
 ```python
-dados.Renda.quantile([i / 10 for i in range(1, 10)])
+dados.Renda.quantile([i / 100 for i in range(1, 100)])
 ```
 
 ### Decis:
 
 Os decis dividem os dados em dez partes iguais, onde o décimo decis (D1) representa o valor abaixo do qual 10% dos dados estão, e assim por diante.
 
+```python
+# Cálculo dos decis
+d1 = np.percentile(dados, 10)
+d2 = np.percentile(dados, 20)
+# E assim por diante, até d9
+
+print("Décimo decis (D1):", d1)
+print("Vigésimo decis (D2):", d2)
+# E assim por diante, até d9
 ```
+
+##### Você pode calcular os quartis usando também a função `numpy ou pandas.quantile()`:
+
+```python
+dados.Renda.quantile([i / 10 for i in range(1, 10)])
 ```
