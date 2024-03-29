@@ -225,3 +225,19 @@ print("Q3:", q3)
 dados.Renda.quantile([0.25, 0.5, 0.75])
 ```
 
+### Percentis:
+
+Os percentis dividem os dados em 100 partes iguais, onde o percentil k indica o valor abaixo do qual k% dos dados estão.
+
+Você pode calcular os percentis também usando `numpy.percentile()`:
+
+``` python
+# Cálculo dos percentis
+p25 = np.percentile(dados, 25)
+p50 = np.percentile(dados, 50)  # mediana
+p75 = np.percentile(dados, 75)
+
+print("Percentil 25:", p25)
+print("Mediana (Percentil 50):", p50)
+print("Percentil 75:", p75)
+```
