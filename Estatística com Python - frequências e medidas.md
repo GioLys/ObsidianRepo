@@ -153,3 +153,18 @@ dados.Renda.mean()
 Quando "n" for **ímpar**, a posição do elemento mediano será obtido com:
 
 ![[Pasted image 20240329131034.png]]
+
+Quando "n" for **par**, será com:
+
+![[Pasted image 20240329131054.png]]
+
+
+```
+notas_fulano = df.Fulano
+notas_fulano = notas_fulano.sort_values()
+notas_fulano = notas_fulano.reset_index()
+```
+
+```
+
+```
