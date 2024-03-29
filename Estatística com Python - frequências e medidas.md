@@ -180,3 +180,6 @@ notas_fulano.median()
 df.mode()
 ```
 
+# <span style="color:#7030a0">Relação entre medidas de tendência central</span>
+
+![[Pasted image 20240329134549.png]]
