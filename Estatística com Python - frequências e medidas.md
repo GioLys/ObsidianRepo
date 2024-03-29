@@ -201,9 +201,9 @@ Os quartis dividem os dados em quatro partes iguais, onde:
 - O segundo quartil (Q2), também conhecido como mediana, divide os dados em duas partes iguais.
 - O terceiro quartil (Q3) representa o valor abaixo do qual 75% dos dados estão.
 
-Você pode calcular os quartis usando a função `numpy.percentile()`:
+##### Você pode calcular os quartis usando a função `numpy.percentile()`:
 
-```
+``` python
 import numpy as np
 
 # Exemplo de dados
@@ -217,5 +217,5 @@ q3 = np.percentile(dados, 75)
 print("Q1:", q1)
 print("Mediana (Q2):", q2)
 print("Q3:", q3)
-
 ```
+
