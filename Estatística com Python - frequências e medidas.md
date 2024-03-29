@@ -136,4 +136,7 @@ ax.set_xlabel('Metros', fontsize=14)
 
 ![[Pasted image 20240328161110.png]]
 
-# <span style="color:#7030a0">Histograma </span>
+# <span style="color:#7030a0">Medidas de tendência central </span>
+
+### Média
+
