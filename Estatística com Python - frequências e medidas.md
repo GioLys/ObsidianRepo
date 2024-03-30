@@ -270,4 +270,5 @@ dados.Renda.quantile([i / 10 for i in range(1, 10)])
 ```
 
 
-### Boxplot
+## <span style="color:#ffc000">Boxplot</span>
+
