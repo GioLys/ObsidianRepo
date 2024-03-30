@@ -46,4 +46,8 @@ Podemos citar alguns SGBDs que mais se destacam atualmente: Oracle, SQL Server, 
 
 Existem muitos outros SGBDs, como o **Access** da Microsoft, que está integrado no pacote do Office, ideal para pequenas aplicações no ambiente Windows. Outro exemplo é o **Firebird**, gratuito e capaz de gerenciar desde bases pequenas até extensos volumes de dados, disponível para vários sistemas operacionais. Há, ainda, o DB2 da IBM, que perdeu muito mercado para os concorrentes, mas ainda é utilizado em sistemas que vão de celulares a _mainframes_.
 
-## <span style="color:#7030a0"></span> 
+## <span style="color:#7030a0">Modelagem de uma base de dados</span> 
+
+### Modelo de dados relacional:
+
+
