@@ -347,3 +347,6 @@ print("Variância populacional:", variancia_populacional)
 ```
 
 Isso calculará a variância amostral e populacional para a série de dados fornecida. O valor padrão de `ddof` é `1`, o que faz com que o método `.var()` calcule a variância amostral. Definindo `ddof=0`, você pode calcular a variância populacional.
+
+### Desvio Padrão:
+
