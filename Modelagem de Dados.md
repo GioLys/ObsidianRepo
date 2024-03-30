@@ -85,3 +85,6 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
     - **Processamento rápido de transações:** Os sistemas OLTP são otimizados para suportar a execução rápida e eficiente de transações, como inserções, atualizações e exclusões de registros.
     - **Suporte à concorrência:** Deve permitir que várias transações sejam processadas simultaneamente, mantendo a consistência e a integridade dos dados.
     - **Garantia de durabilidade:** As transações concluídas devem ser permanentemente registradas e armazenadas para garantir que não sejam perdidas, mesmo em caso de falha do sistema.
+
+![[Pasted image 20240330155006.png]]
+
