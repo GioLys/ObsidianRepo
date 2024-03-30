@@ -272,3 +272,7 @@ dados.Renda.quantile([i / 10 for i in range(1, 10)])
 
 ## <span style="color:#ffc000">Boxplot</span>
 
+Um box plot, também conhecido como diagrama de caixa ou gráfico de caixa e bigodes, é um tipo de gráfico utilizado na estatística para representar a distribuição dos dados e identificar a presença de valores atípicos (outliers). Ele fornece uma visualização compacta das medidas de tendência central, dispersão e forma da distribuição dos dados.
+
+![[Pasted image 20240329222222.png]]
+
