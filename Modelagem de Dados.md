@@ -70,3 +70,5 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 - **Elicitação**: são as conversas com os usuários do software com o objetivo de colher mais informações sobre os procedimentos realizados e que deverão estar presentes no software. 
 - **Elaboração**: criação de modelos para a formalização dos requisitos (aqui entra a nossa disciplina). Com o modelo é possível encontrar falhas ou esquecimentos dos clientes ou do próprio analista de sistemas. 
 - **Negociação**: com o modelo apresentado, os clientes podem querer mais itens, é necessário verificar as viabilidades das sugestões.
+### OLAP e OLTP:
+
