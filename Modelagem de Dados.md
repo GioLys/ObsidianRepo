@@ -54,7 +54,7 @@ O modelo relacional não é algo estático, ele evolui e se expande, assim como 
 
 ![[Pasted image 20240330154030.png]]
 
-Um modelo relacional é composto de muitas tabelas. Date (2003) descreve o modelo relacional como tendo três aspectos básicos: 
+<span style="color:#ffc000">Um modelo relacional é composto de muitas tabelas. O modelo relacional tem três aspectos básicos:</span> 
 
 - **Estrutural**: os dados inseridos no banco de dados são reconhecidos pelos usuários como tabelas. 
 
