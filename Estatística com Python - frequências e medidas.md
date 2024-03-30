@@ -322,3 +322,4 @@ O desvio médio absoluto (DMA), também conhecido como média de desvios absolut
 
 ### Variância:
 
+Diferençã
