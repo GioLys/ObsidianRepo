@@ -350,3 +350,7 @@ Isso calculará a variância amostral e populacional para a série de dados forn
 
 ### Desvio Padrão:
 
+O desvio padrão é uma medida de dispersão que indica o quanto os valores de um conjunto de dados variam em relação à média. Em outras palavras, ele quantifica a dispersão dos dados em torno da média. Um desvio padrão maior indica uma maior dispersão dos valores em relação à média, enquanto um desvio padrão menor indica uma menor dispersão.
+
+<span style="color:#ffc000">O desvio padrão é a raiz quadrada da variância. Portanto, se �2s2 é a variância, então o desvio padrão �s é calculado como:</span> 
+
