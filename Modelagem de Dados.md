@@ -110,3 +110,14 @@ Aqui estão os principais componentes de um modelo de entidade-relacionamento:
 
 ### Tipos de Entidades:
 
+- **Entidades Fortes**: são uma tabela autônoma que não depende de outra para sua existência. Alguns exemplos: Aluno, Curso, Cliente, Empresa, Paciente. Na análise de requisitos, são facilmente encontradas pois são substantivos fortes e significativos. 
+
+- **Entidades Fracas ou Dependentes**: são uma tabela que necessita de outra para realmente existir e somente existe por causa da Entidade Forte. Entidades fracas podem ser representadas por meio de retângulos com bordas duplas (na maioria dos modelos atuais ela é representada somente com o retângulo). Por exemplo: a tabela Dependente só existe por que existe a tabela Funcionário, pois, para que exista um dependente cadastrado, tem que existir um funcionário que “possui” esse dependente. Se não existisse a tabela Funcionário, certamente não existiria a tabela Dependente.
+
+- **Entidades Agregadas**: são criadas quando temos um conjunto de campos que se repetem em mais de uma entidade, por exemplo: Aluno e Professor têm dados de endereço; para evitar repetições, podemos criar uma nova entidade agregada chamada Endereço para guardar esse tipo de dado.
+
+- **Entidades Subordinadas**: representam uma especialização em que uma entidade supertipo possui várias entidades subordinadas que são especializadas com atributos específicos. Por exemplo, podemos ter dois tipos de clientes: Pessoa Física e Pessoa Jurídica. Os dois têm campos em comum que ficariam na entidade supertipo Cliente, e nas entidades Pessoa Física e Pessoa Jurídica somente estariam os campos específicos de cada tipo de cliente.
+
+- **Entidades Associativas**: somente existem em razão do tipo de relacionamento que existe entre as tabelas. O nome desse tipo de tabela deve ser algo significativo, como Contrato ou Histórico, e é comum podermos nomeá-la com a mistura de nomes entre duas tabelas (como veremos mais adiante). Nos requisitos de um bancode dados, esse tipo de tabela denota a um verbo ou tempo verbal, por exemplo: atender, contratar, prescrever, entre outras.
+
+### Grau de rela
