@@ -289,7 +289,6 @@ Um box plot, também conhecido como diagrama de caixa ou gráfico de caixa e big
 ### Visualização do box plot
 
 **Simétrico:**
-
 ```python
 ax = sns.boxplot( x = 'Altura', y = 'Sexo', data = dados, orient = 'h')
 ax.figure.set_size_inches(12, 4)
@@ -299,3 +298,13 @@ ax.set_xlabel('Metros', fontsize=14)
 
 ![[Pasted image 20240329222724.png]]
 
+**Desigual:**
+
+```python
+ax = sns.boxplot( x = 'Renda', data = dados, orient = 'h')
+ax.figure.set_size_inches(12, 4)
+ax.set_title('Renda', fontsize=18)
+ax.set_xlabel('R$', fontsize=14)
+```
+
+![[Pasted image 20240329222757.png]]
