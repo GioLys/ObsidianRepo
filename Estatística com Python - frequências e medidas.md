@@ -317,6 +317,6 @@ ax.set_xlabel('R$', fontsize=14)
 O desvio médio absoluto (DMA), também conhecido como média de desvios absolutos, é uma medida de dispersão que quantifica a variabilidade dos dados em torno da média. Ele é calculado como a média das diferenças absolutas entre cada valor dos dados e a média dos dados.
 
 ```python
-desvio_medio_absoluto = notas_fulano['Fulano'].mad()
+(df - df.mean()).abs().mean()
 ```
 
