@@ -88,3 +88,5 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 
 ![[Pasted image 20240330155006.png]]
 
+### MER:
+
