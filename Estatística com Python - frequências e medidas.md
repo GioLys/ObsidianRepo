@@ -268,3 +268,6 @@ print("Vigésimo decis (D2):", d2)
 ```python
 dados.Renda.quantile([i / 10 for i in range(1, 10)])
 ```
+
+
+### Boxplot
