@@ -88,6 +88,7 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 
 ![[Pasted image 20240330155006.png]]
 
+<span style="color:#7030a0"># Modelagem de dados através do modelo entidade-relacionamento</span>
 ### MER:
 
 Um <span style="color:#ffc000">Modelo de Entidade-Relacionamento (MER)</span> é uma técnica usada para modelar dados em um sistema de banco de dados. Ele descreve as entidades (objetos ou conceitos sobre os quais os dados são armazenados) e os relacionamentos entre essas entidades. O MER é uma <span style="color:#00b0f0">representação gráfica e visual </span>da estrutura de dados de um sistema, que pode ser usada como base para o design e implementação de um banco de dados.
