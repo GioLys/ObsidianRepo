@@ -103,3 +103,7 @@ Aqui estão os principais componentes de um modelo de entidade-relacionamento:
 4. **Chave Primária:** A chave primária é um atributo (ou conjunto de atributos) que identifica exclusivamente cada instância de uma entidade em uma tabela. Ela garante a unicidade das linhas em uma tabela. Por exemplo, o ISBN de um livro pode ser usado como chave primária na entidade Livro.
     
 5. **Chave Estrangeira:** Uma chave estrangeira é um atributo em uma tabela que estabelece uma relação com a chave primária de outra tabela. Ela é usada para vincular as tabelas em um relacionamento. Por exemplo, em uma tabela de empréstimos de livros, a chave estrangeira pode ser o ISBN do livro, referenciando a tabela de Livros.
+
+O Modelo de Entidade-Relacionamento é representado graficamente usando diagramas de entidade-relacionamento (DER), que mostram as entidades, atributos e relacionamentos, bem como as chaves primárias e estrangeiras. Esses diagramas são uma ferramenta valiosa no processo de design de banco de dados, ajudando os desenvolvedores a visualizar a estrutura de dados e as interações entre as entidades em um sistema.
+
+![[Pasted image 20240330165753.png]]
