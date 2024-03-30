@@ -50,4 +50,14 @@ Existem muitos outros SGBDs, como o **Access** da Microsoft, que está integra
 
 ### Modelo de dados relacional:
 
+O modelo relacional não é algo estático, ele evolui e se expande, assim como a própria matemática. A proposta do modelo relacional baseia-se na ideia de que as informações em uma base de dados podem ser representadas em tabelas cujas linhas apresentam as informações cadastradas. A teoria dos conjuntos se aplica no modelo relacional, pois as operações realizadas nas tabelas são baseadas na álgebra relacional, como seleção, união, junção, subtração, produto cartesiano e projeção.
 
+![[Pasted image 20240330154030.png]]
+
+Um modelo relacional é composto de muitas tabelas. Date (2003) descreve o modelo relacional como tendo três aspectos básicos: 
+
+- **Estrutural**: os dados inseridos no banco de dados são reconhecidos pelos usuários como tabelas. 
+
+- **De integridade**: as tabelas precisam satisfazer as restrições de integridades (será abordado na próxima unidade). 
+
+- **Manipulador**: são as operações que poderemos realizar com as tabelas, com a intenção de juntar, selecionar, excluir, entre outras operações.
