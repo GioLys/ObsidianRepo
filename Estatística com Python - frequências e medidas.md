@@ -320,3 +320,5 @@ O desvio médio absoluto (DMA), também conhecido como média de desvios absolut
 (df - df.mean()).abs().mean()
 ```
 
+### Variância:
+
