@@ -286,3 +286,5 @@ Um box plot, também conhecido como diagrama de caixa ou gráfico de caixa e big
     
 4. **Linha central (opcional)**: Algumas versões de box plots podem incluir uma linha vertical ou horizontal representando a média dos dados.
 
+### Visualização do box plot
+
