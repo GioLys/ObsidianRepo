@@ -10,3 +10,7 @@ Podemos afirmar que banco de dados é um conjunto de dados ou informações rela
 O SGBD é projetado para gerenciar grandes volumes de informações, chegando a 1.152.921.504.606.846.976 bytes ou exabyte. SGBD pode ser distribuído por diversos computadores, no mesmo local ou até em locais diferentes (espaços, cidades, países). <span style="color:#00b0f0">Caso o SGBD esteja em locais físicos diferentes, cada um passa a receber o nome de nó</span>, e uma operação realizada no banco de dados pode ser executada em um ou em mais nós.
 
 Outras funções que podemos destacar do SGBD são a proteção e a recuperação dos dados quando houver problemas de hardware ou software, a segurança a acessos indevidamente autorizados, a possibilidade de compartilhar dados, a administração da redundância e a restrição de integridade dos componentes do banco.
+
+O conjunto de requisitos de um SGBD recebe o nome de ACID dos termos em inglês:
+				**A**_tomicity_, **C**_onsistency_, **I**_solation_, **D**_urability_ 
+ou, respectivamente, **A**tomicidade, **C**onsistência, **I**solamento e **D**urabilidade.
