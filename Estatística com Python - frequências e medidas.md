@@ -320,3 +320,4 @@ O desvio médio absoluto (DMA), também conhecido como média de desvios absolut
 desvio_medio_absoluto = notas_fulano['Fulano'].mad()
 desvio_medio_absoluto
 ```
+
