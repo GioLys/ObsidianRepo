@@ -308,3 +308,8 @@ ax.set_xlabel('R$', fontsize=14)
 ```
 
 ![[Pasted image 20240329222757.png]]
+
+
+# <span style="color:#7030a0">Medidas de dispersão</span>
+
+### Desvio mé
