@@ -329,3 +329,21 @@ O desvio médio absoluto (DMA), também conhecido como média de desvios absolut
 2. **Finalidade**: A variância populacional é usada quando se tem acesso a todos os dados de uma população inteira, enquanto a variância amostral é usada quando se tem apenas uma amostra dos dados e deseja-se estimar a variância da população com base nessa amostra.
     
 3. **Estimação vs. Parâmetro**: A variância populacional é um parâmetro que descreve a variabilidade da população, enquanto a variância amostral é uma estimativa do parâmetro populacional com base em uma amostra.
+
+```python
+import pandas as pd
+
+# Exemplo de dados
+dados = pd.Series([1, 2, 3, 4, 5])
+
+# Calculando a variância amostral
+variancia_amostral = dados.var()
+
+# Calculando a variância populacional
+variancia_populacional = dados.var(ddof=0)
+
+print("Variância amostral:", variancia_amostral)
+print("Variância populacional:", variancia_populacional)
+```
+
+Isso calculará a variância amostral e populacional para a série de dados fornecida. O valor padrão de `ddof` é `1`, o que faz com que o método `.var()` calcule a variância amostral. Definindo `ddof=0`, você pode calcular a variância populacional.
