@@ -72,3 +72,16 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 - **Negociação**: com o modelo apresentado, os clientes podem querer mais itens, é necessário verificar as viabilidades das sugestões.
 ### OLAP e OLTP:
 
+1. **OLAP (Processamento Analítico Online):** OLAP é uma abordagem para responder a consultas complexas sobre dados, focada na análise de informações multidimensionais a partir de diferentes perspectivas. Principais características do OLAP incluem:
+    
+    - **Modelagem multidimensional:** Os dados são organizados em estruturas multidimensionais, como cubos, que permitem análise rápida e flexível de várias dimensões (por exemplo, tempo, produto, região).
+    - **Consultas analíticas:** Os usuários podem realizar análises complexas, como drill-down (detalhamento), roll-up (resumo), slice (filtragem) e dice (seleção), para explorar os dados de maneira eficiente.
+    - **Desempenho otimizado para análise:** Os sistemas OLAP são projetados para lidar com grandes volumes de dados e retornar resultados rapidamente, garantindo uma experiência de usuário eficiente.
+    
+    Exemplos de aplicativos OLAP incluem sistemas de Business Intelligence (BI), painéis de controle e ferramentas de análise de dados, que são amplamente utilizados para apoiar processos de tomada de decisão e descoberta de insights.
+    
+2. **OLTP (Processamento de Transações Online):** OLTP é uma abordagem de processamento de dados voltada para a execução eficiente de transações individuais em tempo real. Principais características do OLTP incluem:
+    
+    - **Processamento rápido de transações:** Os sistemas OLTP são otimizados para suportar a execução rápida e eficiente de transações, como inserções, atualizações e exclusões de registros.
+    - **Suporte à concorrência:** Deve permitir que várias transações sejam processadas simultaneamente, mantendo a consistência e a integridade dos dados.
+    - **Garantia de durabilidade:** As transações concluídas devem ser permanentemente registradas e armazenadas para garantir que não sejam perdidas, mesmo em caso de falha do sistema.
