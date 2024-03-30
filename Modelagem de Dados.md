@@ -120,4 +120,16 @@ Aqui estão os principais componentes de um modelo de entidade-relacionamento:
 
 - **Entidades Associativas**: somente existem em razão do tipo de relacionamento que existe entre as tabelas. O nome desse tipo de tabela deve ser algo significativo, como Contrato ou Histórico, e é comum podermos nomeá-la com a mistura de nomes entre duas tabelas (como veremos mais adiante). Nos requisitos de um bancode dados, esse tipo de tabela denota a um verbo ou tempo verbal, por exemplo: atender, contratar, prescrever, entre outras.
 
-### Grau de rela
+### Grau de relacionamento ou cardinalidade:
+
+Quando temos um relacionamento entre duas entidades, o número de ocorrências de uma entidade que está associada a ocorrências de outra entidade determina o **grau de relacionamento** ou de **cardinalidade** entre as tabelas (ABREU; MACHADO, 2009). O grau de relacionamento é a quantidade de entidades que estão ligadas ao relacionamento, podendo ser:
+
+- **Relacionamento unário (grau 1)**: uma entidade se relaciona com ela mesma. 
+
+- **Relacionamento binário (grau 2)**: é um relacionamento que liga dois tipos diferentes de entidades. É o evento mais comum dos tipos de relacionamentos. 
+
+- **Relacionamento ternário (grau 3)**: é um relacionamento em que três entidades estão conectadas. 
+
+- **Relacionamento quaternário (grau 4)**: é um relacionamento em que quatro tabelas estão conectadas. 
+
+- **Relacionamento n-ário**: é um relacionamento com mais de quatro tabelas envolvidas. Esse tipo de relacionamento é o menos aconselhável, visto que a possibilidade de redundâncias no banco pode ser maior.
