@@ -322,4 +322,10 @@ O desvio médio absoluto (DMA), também conhecido como média de desvios absolut
 
 ### Variância:
 
-Diferençã
+##### Diferenças entre variância populacional e variância amostral
+
+1. **Fórmula de cálculo**: A principal diferença está na fórmula de cálculo. A variância populacional usa a média e o tamanho da população, enquanto a variância amostral usa a média e o tamanho da amostra, com uma correção de Bessel.
+    
+2. **Finalidade**: A variância populacional é usada quando se tem acesso a todos os dados de uma população inteira, enquanto a variância amostral é usada quando se tem apenas uma amostra dos dados e deseja-se estimar a variância da população com base nessa amostra.
+    
+3. **Estimação vs. Parâmetro**: A variância populacional é um parâmetro que descreve a variabilidade da população, enquanto a variância amostral é uma estimativa do parâmetro populacional com base em uma amostra.
