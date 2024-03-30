@@ -31,3 +31,6 @@ A transação é o resultado da execução de um programa de usuário escrito em
 3. **Isolamento (Isolation):** Esse princípio garante que transações concorrentes sejam executadas de forma isolada umas das outras, como se estivessem sendo executadas sequencialmente. Isso evita problemas como "leitura suja", "leitura não repetível", "escrita fantasma", entre outros, que podem ocorrer quando múltiplas transações acessam os mesmos dados simultaneamente.
     
 4. **Durabilidade (Durability):** Implica que, uma vez que uma transação foi confirmada, as mudanças feitas por essa transação permanecem no banco de dados, mesmo em caso de falha do sistema. Em outras palavras, os dados persistem e não são perdidos, seja devido a um desligamento inesperado do sistema, falhas de hardware ou qualquer outro tipo de erro.
+
+## <span style="color:#7030a0">Tipos de SGBD</span> 
+
