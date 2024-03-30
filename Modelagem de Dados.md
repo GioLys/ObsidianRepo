@@ -61,3 +61,5 @@ O modelo relacional não é algo estático, ele evolui e se expande, assim como 
 - **De integridade**: as tabelas precisam satisfazer as restrições de integridades (será abordado na próxima unidade). 
 
 - **Manipulador**: são as operações que poderemos realizar com as tabelas, com a intenção de juntar, selecionar, excluir, entre outras operações.
+
+### Modelo de dados relacional:
