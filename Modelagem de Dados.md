@@ -88,7 +88,8 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 
 ![[Pasted image 20240330155006.png]]
 
-<span style="color:#7030a0"># Modelagem de dados através do modelo entidade-relacionamento</span>
+# <span style="color:#7030a0"> Modelagem de dados através do modelo entidade-relacionamento</span>
+
 ### MER:
 
 Um <span style="color:#ffc000">Modelo de Entidade-Relacionamento (MER)</span> é uma técnica usada para modelar dados em um sistema de banco de dados. Ele descreve as entidades (objetos ou conceitos sobre os quais os dados são armazenados) e os relacionamentos entre essas entidades. O MER é uma <span style="color:#00b0f0">representação gráfica e visual </span>da estrutura de dados de um sistema, que pode ser usada como base para o design e implementação de um banco de dados.
@@ -106,3 +107,6 @@ Aqui estão os principais componentes de um modelo de entidade-relacionamento:
 5. **Chave Estrangeira:** Uma chave estrangeira é um atributo em uma tabela que estabelece uma relação com a chave primária de outra tabela. Ela é usada para vincular as tabelas em um relacionamento. Por exemplo, em uma tabela de empréstimos de livros, a chave estrangeira pode ser o ISBN do livro, referenciando a tabela de Livros.
 
 ![[Pasted image 20240330165753.png]]
+
+### Tipos de Entidades:
+
