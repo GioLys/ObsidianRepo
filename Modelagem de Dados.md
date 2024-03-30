@@ -90,7 +90,7 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 
 ### MER:
 
-Um <span style="color:#ffc000">Modelo de Entidade-Relacionamento (MER)</span> é uma técnica usada para modelar dados em um sistema de banco de dados. Ele descreve as entidades (objetos ou conceitos sobre os quais os dados são armazenados) e os relacionamentos entre essas entidades. O MER é uma representação gráfica e visual da estrutura de dados de um sistema, que pode ser usada como base para o design e implementação de um banco de dados.
+Um <span style="color:#ffc000">Modelo de Entidade-Relacionamento (MER)</span> é uma técnica usada para modelar dados em um sistema de banco de dados. Ele descreve as entidades (objetos ou conceitos sobre os quais os dados são armazenados) e os relacionamentos entre essas entidades. O MER é uma <span style="color:#00b0f0">representação gráfica e visual </span>da estrutura de dados de um sistema, que pode ser usada como base para o design e implementação de um banco de dados.
 
 Aqui estão os principais componentes de um modelo de entidade-relacionamento:
 
@@ -103,7 +103,5 @@ Aqui estão os principais componentes de um modelo de entidade-relacionamento:
 4. **Chave Primária:** A chave primária é um atributo (ou conjunto de atributos) que identifica exclusivamente cada instância de uma entidade em uma tabela. Ela garante a unicidade das linhas em uma tabela. Por exemplo, o ISBN de um livro pode ser usado como chave primária na entidade Livro.
     
 5. **Chave Estrangeira:** Uma chave estrangeira é um atributo em uma tabela que estabelece uma relação com a chave primária de outra tabela. Ela é usada para vincular as tabelas em um relacionamento. Por exemplo, em uma tabela de empréstimos de livros, a chave estrangeira pode ser o ISBN do livro, referenciando a tabela de Livros.
-
-O Modelo de Entidade-Relacionamento é representado graficamente usando diagramas de entidade-relacionamento (DER), que mostram as entidades, atributos e relacionamentos, bem como as chaves primárias e estrangeiras. Esses diagramas são uma ferramenta valiosa no processo de design de banco de dados, ajudando os desenvolvedores a visualizar a estrutura de dados e as interações entre as entidades em um sistema.
 
 ![[Pasted image 20240330165753.png]]
