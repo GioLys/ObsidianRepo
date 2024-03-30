@@ -15,3 +15,5 @@ Outras funções que podemos destacar do SGBD são a proteção e a recuperaçã
 				**A**_tomicity_, **C**_onsistency_, **I**_solation_, **D**_urability_ 
 				
 ou, respectivamente: **A**tomicidade, **C**onsistência, **I**solamento e **D**urabilidade.
+
+<span style="color:#ffc000">O SGBD deve garantir várias propriedades durante uma transação.</span> 
