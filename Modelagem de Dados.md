@@ -23,3 +23,11 @@ ou, respectivamente: **A**tomicidade, **C**onsistência, **I**solamento e **
 A transação é o resultado da execução de um programa de usuário escrito em uma linguagem de manipulação de alto nível ou em uma linguagem de programação, como Java, C# ou SQL, entre outras.
 
 ## <span style="color:#7030a0">Requisitos de um SGBD</span> 
+
+1. **Atomicidade (Atomicity):** Significa que uma transação é considerada como uma unidade atômica de trabalho. Isso implica que todas as operações dentro da transação são realizadas com sucesso ou nenhuma delas é realizada de forma alguma. Se uma parte da transação falhar, todas as operações devem ser revertidas, deixando o banco de dados em um estado consistente.
+    
+2. **Consistência (Consistency):** Refere-se ao fato de que o banco de dados deve passar de um estado válido para outro estado válido após a conclusão de uma transação. Em outras palavras, qualquer alteração no banco de dados deve seguir todas as restrições e regras definidas, mantendo a integridade dos dados.
+    
+3. **Isolamento (Isolation):** Esse princípio garante que transações concorrentes sejam executadas de forma isolada umas das outras, como se estivessem sendo executadas sequencialmente. Isso evita problemas como "leitura suja", "leitura não repetível", "escrita fantasma", entre outros, que podem ocorrer quando múltiplas transações acessam os mesmos dados simultaneamente.
+    
+4. **Durabilidade (Durability):** Implica que, uma vez que uma transação foi confirmada, as mudanças feitas por essa transação permanecem no banco de dados, mesmo em caso de falha do sistema. Em outras palavras, os dados persistem e não são perdidos, seja devido a um desligamento inesperado do sistema, falhas de hardware ou qualquer outro tipo de erro.
