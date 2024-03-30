@@ -312,4 +312,5 @@ ax.set_xlabel('R$', fontsize=14)
 
 # <span style="color:#7030a0">Medidas de dispersão</span>
 
-### Desvio mé
+### Desvio médio absoluto:
+O desvio médio absoluto (DMA), também conhecido como média de desvios absolutos, é uma medida de dispersão que quantifica a variabilidade dos dados em torno da média. Ele é calculado como a média das diferenças absolutas entre cada valor dos dados e a média dos dados.
