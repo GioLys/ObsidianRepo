@@ -90,3 +90,16 @@ A fase inicial do projeto de banco de dados, segundo Korth, Silberschatz e Sudar
 
 ### MER:
 
+Um <span style="color:#ffc000">Modelo de Entidade-Relacionamento (MER)</span> é uma técnica usada para modelar dados em um sistema de banco de dados. Ele descreve as entidades (objetos ou conceitos sobre os quais os dados são armazenados) e os relacionamentos entre essas entidades. O MER é uma representação gráfica e visual da estrutura de dados de um sistema, que pode ser usada como base para o design e implementação de um banco de dados.
+
+Aqui estão os principais componentes de um modelo de entidade-relacionamento:
+
+1. **Entidade:** Uma entidade é um objeto ou conceito do mundo real que pode ser diferenciado de outros objetos. No contexto de um banco de dados, uma entidade geralmente corresponde a uma tabela. Por exemplo, em um sistema de gestão de biblioteca, as entidades podem incluir Livro, Autor e Editora.
+    
+2. **Atributo:** Um atributo é uma característica ou propriedade que descreve uma entidade. Em termos de banco de dados, um atributo corresponde a uma coluna em uma tabela. Por exemplo, os atributos de uma entidade Livro podem incluir Título, ISBN e Ano de Publicação.
+    
+3. **Relacionamento:** Um relacionamento é uma associação entre duas ou mais entidades. Ele descreve como as entidades estão conectadas ou interagem entre si. Os relacionamentos podem ser de vários tipos, como um-para-um, um-para-muitos e muitos-para-muitos. Por exemplo, em um sistema de gestão de biblioteca, pode haver um relacionamento "Autor escreve Livro", onde um autor pode escrever vários livros e um livro pode ser escrito por um ou mais autores.
+    
+4. **Chave Primária:** A chave primária é um atributo (ou conjunto de atributos) que identifica exclusivamente cada instância de uma entidade em uma tabela. Ela garante a unicidade das linhas em uma tabela. Por exemplo, o ISBN de um livro pode ser usado como chave primária na entidade Livro.
+    
+5. **Chave Estrangeira:** Uma chave estrangeira é um atributo em uma tabela que estabelece uma relação com a chave primária de outra tabela. Ela é usada para vincular as tabelas em um relacionamento. Por exemplo, em uma tabela de empréstimos de livros, a chave estrangeira pode ser o ISBN do livro, referenciando a tabela de Livros.
