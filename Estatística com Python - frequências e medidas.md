@@ -357,4 +357,18 @@ O desvio padrão é uma medida de dispersão que indica o quanto os valores de u
 No Pandas, assim como fizemos com a variância, você pode calcular o desvio padrão utilizando o método `.std()`. O padrão é calcular o desvio padrão da amostra, mas você pode especificar `ddof=0` para calcular o desvio padrão populacional.
 
 ```python
+import pandas as pd
+
+# Exemplo de dados
+dados = pd.Series([1, 2, 3, 4, 5])
+
+# Calculando o desvio padrão amostral
+desvio_padrao_amostral = dados.std()
+
+# Calculando o desvio padrão populacional
+desvio_padrao_populacional = dados.std(ddof=0)
+
+print("Desvio padrão amostral:", desvio_padrao_amostral)
+print("Desvio padrão populacional:", desvio_padrao_populacional)
+
 ```
