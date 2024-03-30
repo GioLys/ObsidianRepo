@@ -274,5 +274,15 @@ dados.Renda.quantile([i / 10 for i in range(1, 10)])
 
 Um box plot, também conhecido como diagrama de caixa ou gráfico de caixa e bigodes, é um tipo de gráfico utilizado na estatística para representar a distribuição dos dados e identificar a presença de valores atípicos (outliers). Ele fornece uma visualização compacta das medidas de tendência central, dispersão e forma da distribuição dos dados.
 
-![[Pasted image 20240329222222.png]]
+![[Pasted image 20240329222455.png]]
+
+### Componentes do box plot:
+
+1. **Caixa (box)**: A caixa do box plot representa o intervalo interquartil (IQR), que é a distância entre o primeiro quartil (Q1) e o terceiro quartil (Q3). A linha no interior da caixa representa a mediana (Q2).
+    
+2. **Bigodes (whiskers)**: Os bigodes se estendem a partir da caixa até os valores extremos dos dados que não são considerados outliers. A maneira como os bigodes são desenhados pode variar dependendo da implementação, mas geralmente seguem regras específicas relacionadas à dispersão dos dados.
+    
+3. **Outliers**: Pontos individuais fora dos bigodes são considerados outliers. Eles são valores que estão além de um certo limite definido em relação à dispersão dos dados.
+    
+4. **Linha central (opcional)**: Algumas versões de box plots podem incluir uma linha vertical ou horizontal representando a média dos dados.
 
