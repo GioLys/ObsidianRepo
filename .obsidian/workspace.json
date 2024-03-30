@@ -81,16 +81,36 @@
             "id": "afe57b9bced8e31d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "src/Pasted image 20240329222222.png"
+              }
+            }
+          },
+          {
+            "id": "a85976ba14cc9eda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "src/Pasted image 20240329222455.png"
+              }
+            }
+          },
+          {
+            "id": "c2f905fac730d998",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md",
+                "file": "Modelagem de Dados.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -156,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md",
+                "file": "Modelagem de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md",
+                "file": "Modelagem de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estatística com Python - frequências e medidas.md"
+                "file": "Modelagem de Dados.md"
               }
             }
           },
@@ -225,21 +245,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afe57b9bced8e31d",
+  "active": "c2f905fac730d998",
   "lastOpenFiles": [
-    "Pasted image 20240329222757.png",
-    "Pasted image 20240329222724.png",
-    "Pasted image 20240329222455.png",
-    "Pasted image 20240329222222.png",
-    "src/Pasted image 20240329134549.png",
+    "src/Pasted image 20240329222455.png",
+    "Modelagem de Dados.md",
+    "src/Pasted image 20240329222222.png",
     "Estatística com Python - frequências e medidas.md",
+    "src/Pasted image 20240329222757.png",
+    "src/Pasted image 20240329222724.png",
+    "src/Pasted image 20240329134549.png",
     "src/Pasted image 20240329131054.png",
     "src/Pasted image 20240329131034.png",
     "Data Science - notes.md",
     "src/Pasted image 20240328161110.png",
     "src/Pasted image 20240327155440.png",
     "src/Pasted image 20240327155028.png",
-    "src/Pasted image 20240327154824.png",
     "Pandas.md",
     "Simbologia Git.md",
     "Opções de configurações Git.md",
