@@ -21,3 +21,5 @@ ou, respectivamente: **A**tomicidade, **C**onsistência, **I**solamento e **
 <span style="color:#ffc000">Transação</span> é um processo ou um determinado programa que pode incluir vários bancos de dados ou somente uma parte do banco de dados, realizando atividades como consultas, alterações e até exclusão de informações da base de dados.
 
 A transação é o resultado da execução de um programa de usuário escrito em uma linguagem de manipulação de alto nível ou em uma linguagem de programação, como Java, C# ou SQL, entre outras.
+
+## <span style="color:#7030a0">Requisitos de um SGBD</span> 
