@@ -133,3 +133,11 @@ Quando temos um relacionamento entre duas entidades, o número de ocorrências d
 - **Relacionamento quaternário (grau 4)**: é um relacionamento em que quatro tabelas estão conectadas. 
 
 - **Relacionamento n-ário**: é um relacionamento com mais de quatro tabelas envolvidas. Esse tipo de relacionamento é o menos aconselhável, visto que a possibilidade de redundâncias no banco pode ser maior.
+
+# <span style="color:#7030a0"> Diagrama entidade-relacionamento</span>
+
+Conforme afirmam Coronel e Rob (2011), há duas abordagens clássicas tradicionais que podem ser adotadas como estratégia de modelagem em um diagrama de entidade-relacionamentos:
+
+-   **Estratégia** **_top-down_**: inicializa-se identificando os conjuntos de dados e, em seguida, são definidos os elementos de cada um desses conjuntos. O processo envolve a identificação de diferentes tipos de entidades e a definição de cada atributo. Esta técnica é utilizada em banco de dados maiores.
+
+-   **Estratégia** **_bottom-up_**: primeiramente são identificados os elementos de dados, ou seja, os itens, e então eles são agrupados em conjuntos de dados. Neste caso, os atributos são identificados primeiro e, ao agrupá-los, teremos as tabelas. Geralmente, esta técnica é utilizada em banco de dados pequenos.

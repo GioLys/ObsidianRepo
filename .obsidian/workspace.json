@@ -8,96 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6af18d35f178d83d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science - notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aebc8e56b324606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/Pyhton - Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e3a393cf60fb05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "040de8957096d40b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bac89fd19d61cfb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25a4486b449c74ab",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/Pasted image 20240324202253.png"
-              }
-            }
-          },
-          {
-            "id": "afe57b9bced8e31d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/Pasted image 20240329222222.png"
-              }
-            }
-          },
-          {
-            "id": "a85976ba14cc9eda",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "src/Pasted image 20240329222455.png"
-              }
-            }
-          },
-          {
             "id": "c2f905fac730d998",
             "type": "leaf",
             "state": {
@@ -109,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,27 +156,28 @@
   },
   "active": "c2f905fac730d998",
   "lastOpenFiles": [
+    "src/Pasted image 20240329222455.png",
+    "src/Pasted image 20240329222222.png",
+    "src/Pasted image 20240324202253.png",
+    "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "python/Pyhton - Pandas.md",
+    "Data Science - notes.md",
+    "Modelagem de Dados.md",
     "python",
     "python/Estatística com Python - frequências e medidas.md",
-    "Modelagem de Dados.md",
     "git/Principais Comandos Git.md",
     "git/Opções de configurações Git.md",
     "src/Pasted image 20240330135145.png",
     "git",
-    "Data Science - notes.md",
     "src/Pasted image 20240330165753.png",
     "src/Pasted image 20240330155006.png",
     "src/Pasted image 20240330154030.png",
     "Pasted image 20240330135135.png",
-    "src/Pasted image 20240329222455.png",
-    "src/Pasted image 20240329222222.png",
     "src/Pasted image 20240329222757.png",
     "src/Pasted image 20240329222724.png",
     "src/Pasted image 20240329134549.png",
     "git/Simbologia Git.md",
     "git/Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
-    "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "src",
     "Simbologia Git",
     "Untitled.canvas",
