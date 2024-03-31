@@ -168,3 +168,12 @@ Algumas normas precisam ser adotadas durante a criação do modelo lógico do ba
 - **Em casos de relacionamento 1 para N:** a chave primária do lado 1 sempre deverá estar na tabela do lado N como uma chave estrangeira.
 - **Em casos de relacionamento N para N:** o relacionamento passa a ser implementado como tabela própria que possui campos específicos relacionados entre as duas tabelas que deram origem a esta nova tabela, chamada tabela associativa.
 - As tabelas devem ter o **número reduzido de chaves primárias ao mínimo possível**, ou seja, sempre que possível, uma tabela deverá ter somente um identificador único, evitando chaves alternativas.
+
+### Dicionário de dados
+
+Cada empresa de desenvolvimento de software possui o seu próprio padrão de dicionário de dados. Um dicionário de dados deve ter várias informações, como as seguintes:
+
+-  Descrição dos nomes das tabelas, relações e atributos.
+-  Tipos dos dados (domínio) e seus respectivos tamanhos.
+-  Descrição detalhada das chaves utilizadas.
+-  Nomes dos usuários com suas permissões sobre a tabela.
