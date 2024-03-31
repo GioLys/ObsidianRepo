@@ -150,7 +150,7 @@ Há duas abordagens clássicas tradicionais que podem ser adotadas como estraté
 
 A <span style="color:#00b0f0">modelagem conceitua</span>l em um projeto de banco de dados   é considerada de alto nível, pois possui como finalidade a fácil compreensão entre os usuários envolvidos na modelagem,  como ressaltam Korth, Silberschatz e Sudarshan (2012). O foco da modelagem conceitual é detalhar e discutir o funcionamento do negócio do cliente e não o uso de determinada tecnologia, descartando dados de como as informações serão armazenadas e depois recuperadas em banco de dados.
 
-Assim que o modelo lógico começar a ser implementado, o modelo conceitual servirá de apoio à construção do esquema do banco de dados. Navathe e Ramez (2005) afirmam que durante ou mesmo ao término do esquema conceitual, as operações básicas do modelo de dados podem ser usadas para especificar as operações de alto nível do usuário e servem para verificar se o modelo possui todos os requisitos listados pelo cliente.
+Assim que o<span style="color:#00b0f0"> modelo lógico</span> começar a ser implementado, o modelo conceitual servirá de apoio à construção do esquema do banco de dados. Navathe e Ramez (2005) afirmam que durante ou mesmo ao término do esquema conceitual, as operações básicas do modelo de dados podem ser usadas para especificar as operações de alto nível do usuário e servem para verificar se o modelo possui todos os requisitos listados pelo cliente.
 
 Para criar um modelo lógico e mais coeso do banco de dados, são necessárias várias revisões na descrição do modelo conceitual (de alto nível) e, desta forma, encontrar:
 
