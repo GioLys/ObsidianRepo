@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pandas.md",
+                "file": "python/Pyhton - Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
+                "file": "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
+                "file": "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
+                "file": "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Principais Comandos Git.md",
+                "file": "python/Pyhton - Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Principais Comandos Git.md",
+                "file": "python/Pyhton - Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Principais Comandos Git.md",
+                "file": "python/Pyhton - Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Principais Comandos Git.md"
+                "file": "python/Pyhton - Pandas.md"
               }
             }
           },
@@ -247,26 +247,27 @@
   },
   "active": "9077e8dc45461cc1",
   "lastOpenFiles": [
-    "Pandas.md",
+    "python",
+    "python/Estatística com Python - frequências e medidas.md",
+    "python/Pyhton - Pandas.md",
+    "Modelagem de Dados.md",
+    "git/Principais Comandos Git.md",
     "git/Opções de configurações Git.md",
     "src/Pasted image 20240330135145.png",
     "git",
     "Data Science - notes.md",
-    "Modelagem de Dados.md",
     "src/Pasted image 20240330165753.png",
     "src/Pasted image 20240330155006.png",
     "src/Pasted image 20240330154030.png",
     "Pasted image 20240330135135.png",
     "src/Pasted image 20240329222455.png",
     "src/Pasted image 20240329222222.png",
-    "Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240329222757.png",
     "src/Pasted image 20240329222724.png",
     "src/Pasted image 20240329134549.png",
     "git/Simbologia Git.md",
-    "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
-    "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-    "git/Principais Comandos Git.md",
+    "git/Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
+    "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "src",
     "Simbologia Git",
     "Untitled.canvas",
