@@ -136,8 +136,10 @@ Quando temos um relacionamento entre duas entidades, o número de ocorrências d
 
 # <span style="color:#7030a0"> Diagrama entidade-relacionamento</span>
 
-Conforme afirmam Coronel e Rob (2011), há duas abordagens clássicas tradicionais que podem ser adotadas como estratégia de modelagem em um diagrama de entidade-relacionamentos:
+Há duas abordagens clássicas tradicionais que podem ser adotadas como estratégia de modelagem em um diagrama de entidade-relacionamentos:
 
--   **Estratégia** **_top-down_**: inicializa-se identificando os conjuntos de dados e, em seguida, são definidos os elementos de cada um desses conjuntos. O processo envolve a identificação de diferentes tipos de entidades e a definição de cada atributo. Esta técnica é utilizada em banco de dados maiores.
+-   **Estratégia** **_top-down_**: <span style="color:#00b0f0">inicializa-se identificando os conjuntos de dados</span> e, em seguida, são definidos os elementos de cada um desses conjuntos. O processo envolve a identificação de diferentes tipos de entidades e a definição de cada atributo. Esta técnica é utilizada em banco de dados maiores.
 
--   **Estratégia** **_bottom-up_**: primeiramente são identificados os elementos de dados, ou seja, os itens, e então eles são agrupados em conjuntos de dados. Neste caso, os atributos são identificados primeiro e, ao agrupá-los, teremos as tabelas. Geralmente, esta técnica é utilizada em banco de dados pequenos.
+-   **Estratégia** **_bottom-up_**: <span style="color:#00b0f0">primeiramente são identificados os elementos de dados</span>, ou seja, os itens, e então eles são agrupados em conjuntos de dados. Neste caso, os atributos são identificados primeiro e, ao agrupá-los, teremos as tabelas. Geralmente, esta técnica é utilizada em banco de dados pequenos.
+
+> As abordagens _top-down_ e _bottom-up_ acabam se complementando, pois muitas vezes um analista ou projetista aplica as duas técnicas no mesmo banco de dados a ser modelado, surgindo então uma abordagem mista, denominada _middle-up-down_.
