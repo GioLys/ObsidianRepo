@@ -9,7 +9,7 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Starburst Enterprise (Trino)
 - [ ] Indicadores-chave de desempenho
 - [x] Visualização de dados
-- [ ] Modelagem de dados
+- [x] Modelagem de dados
 - [ ] Produtos de dados
 - [ ] Amazon S3
 - [ ] Amazon Athena
