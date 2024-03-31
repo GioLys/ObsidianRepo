@@ -143,3 +143,9 @@ Há duas abordagens clássicas tradicionais que podem ser adotadas como estraté
 -   **Estratégia** **_bottom-up_**: <span style="color:#00b0f0">primeiramente são identificados os elementos de dados</span>, ou seja, os itens, e então eles são agrupados em conjuntos de dados. Neste caso, os atributos são identificados primeiro e, ao agrupá-los, teremos as tabelas. Geralmente, esta técnica é utilizada em banco de dados pequenos.
 
 > As abordagens _top-down_ e _bottom-up_ acabam se complementando, pois muitas vezes um analista ou projetista aplica as duas técnicas no mesmo banco de dados a ser modelado, surgindo então uma abordagem mista, denominada _middle-up-down_.
+
+### Modelagem conceitual x Modelagem lógica
+
+![[Pasted image 20240331140628.png]]
+
+A modelagem conceitual em um projeto de banco de dados   é considerada de alto nível, pois possui como finalidade a fácil compreensão entre os usuários envolvidos na modelagem,  como ressaltam Korth, Silberschatz e Sudarshan (2012). O foco da modelagem conceitual (Quadro abaixo) é detalhar e discutir o funcionamento do negócio do cliente e não o uso de determinada tecnologia, descartando dados de como as informações serão armazenadas e depois recuperadas em banco de dados.
