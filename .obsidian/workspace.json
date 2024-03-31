@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0257eaaffb99d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Lakehouse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Data Lakehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Data Lakehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science - notes.md"
+                "file": "Data Lakehouse.md"
               }
             }
           },
@@ -154,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2f905fac730d998",
+  "active": "b0257eaaffb99d8a",
   "lastOpenFiles": [
+    "Data Science - notes.md",
+    "Data Lakehouse.md",
     "src/Pasted image 20240331140628.png",
     "Modelagem de Dados.md",
     "src/Pasted image 20240331145305.png",
@@ -165,7 +180,6 @@
     "src/Pasted image 20240324202253.png",
     "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "python/Pyhton - Pandas.md",
-    "Data Science - notes.md",
     "python",
     "python/Estatística com Python - frequências e medidas.md",
     "git/Principais Comandos Git.md",
