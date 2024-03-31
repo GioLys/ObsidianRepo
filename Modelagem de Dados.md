@@ -165,6 +165,6 @@ Para criar um modelo lógico e mais coeso do banco de dados, são necessárias v
 
 Algumas normas precisam ser adotadas durante a criação do modelo lógico do banco de dados, na criação do diagrama de entidade-relacionamentos. Estão elencadas abaixo as principais regras que norteiam os fundamentos da modelagem de dados, conforme adaptado de Heuser (2011):
 
-- Em casos de relacionamento 1 para N: a chave primária do lado 1 sempre deverá estar na tabela do lado N como uma chave estrangeira.
-- Em casos de relacionamento N para N: o relacionamento passa a ser implementado como tabela própria que possui campos específicos relacionados entre as duas tabelas que deram origem a esta nova tabela, chamada tabela associativa.
-- As tabelas devem ter o número reduzido de chaves primárias ao mínimo possível, ou seja, sempre que possível, uma tabela deverá ter somente um identificador único, evitando chaves alternativas.
+- **Em casos de relacionamento 1 para N:** a chave primária do lado 1 sempre deverá estar na tabela do lado N como uma chave estrangeira.
+- **Em casos de relacionamento N para N:** o relacionamento passa a ser implementado como tabela própria que possui campos específicos relacionados entre as duas tabelas que deram origem a esta nova tabela, chamada tabela associativa.
+- As tabelas devem ter o **número reduzido de chaves primárias ao mínimo possível**, ou seja, sempre que possível, uma tabela deverá ter somente um identificador único, evitando chaves alternativas.
