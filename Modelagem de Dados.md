@@ -173,7 +173,10 @@ Algumas normas precisam ser adotadas durante a criação do modelo lógico do ba
 
 Cada empresa de desenvolvimento de software possui o seu próprio padrão de dicionário de dados. Um dicionário de dados deve ter várias informações, como as seguintes:
 
--  Descrição dos nomes das tabelas, relações e atributos.
--  Tipos dos dados (domínio) e seus respectivos tamanhos.
--  Descrição detalhada das chaves utilizadas.
--  Nomes dos usuários com suas permissões sobre a tabela.
+-  **Descrição dos nomes das tabelas, relações e atributos.**
+-  **Tipos dos dados (domínio) e seus respectivos tamanhos.**
+-  **Descrição detalhada das chaves utilizadas.**
+-  **Nomes dos usuários com suas permissões sobre a tabela.**
+
+![[Pasted image 20240331145305.png]]
+
