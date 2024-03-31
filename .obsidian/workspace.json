@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelagem de Dados.md",
+                "file": "git/Principais Comandos Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelagem de Dados.md",
+                "file": "git/Principais Comandos Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelagem de Dados.md",
+                "file": "git/Principais Comandos Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelagem de Dados.md"
+                "file": "git/Principais Comandos Git.md"
               }
             }
           },
@@ -245,28 +245,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2f905fac730d998",
+  "active": "9077e8dc45461cc1",
   "lastOpenFiles": [
-    "Pasted image 20240330165753.png",
-    "Pasted image 20240330155006.png",
-    "Pasted image 20240330154030.png",
-    "Opções de configurações Git.md",
-    "Pasted image 20240330135145.png",
-    "Pasted image 20240330135135.png",
+    "Pandas.md",
+    "git/Opções de configurações Git.md",
+    "src/Pasted image 20240330135145.png",
+    "git",
+    "Data Science - notes.md",
     "Modelagem de Dados.md",
+    "src/Pasted image 20240330165753.png",
+    "src/Pasted image 20240330155006.png",
+    "src/Pasted image 20240330154030.png",
+    "Pasted image 20240330135135.png",
     "src/Pasted image 20240329222455.png",
     "src/Pasted image 20240329222222.png",
     "Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240329222757.png",
     "src/Pasted image 20240329222724.png",
     "src/Pasted image 20240329134549.png",
-    "src/Pasted image 20240329131054.png",
-    "Data Science - notes.md",
-    "Pandas.md",
-    "Simbologia Git.md",
+    "git/Simbologia Git.md",
     "Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
     "Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-    "Principais Comandos Git.md",
+    "git/Principais Comandos Git.md",
     "src",
     "Simbologia Git",
     "Untitled.canvas",
