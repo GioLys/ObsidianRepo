@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Pyhton - Pandas.md",
+                "file": "Modelagem de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Pyhton - Pandas.md",
+                "file": "Modelagem de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Pyhton - Pandas.md",
+                "file": "Modelagem de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Pyhton - Pandas.md"
+                "file": "Modelagem de Dados.md"
               }
             }
           },
@@ -245,11 +245,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9077e8dc45461cc1",
+  "active": "c2f905fac730d998",
   "lastOpenFiles": [
+    "python/Pyhton - Pandas.md",
     "python",
     "python/Estatística com Python - frequências e medidas.md",
-    "python/Pyhton - Pandas.md",
     "Modelagem de Dados.md",
     "git/Principais Comandos Git.md",
     "git/Opções de configurações Git.md",
