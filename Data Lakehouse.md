@@ -6,4 +6,5 @@
 
 O conceito de "<span style="color:#00b0f0">data lakehouse</span>" combina aspectos desses dois modelos. Ele propõe uma abordagem híbrida que combina a escalabilidade e a flexibilidade de um data lake com as capacidades de processamento e análise de um data warehouse. Assim, um data lakehouse busca unificar a capacidade de armazenamento de dados brutos e não processados de um data lake com a capacidade de executar análises sofisticadas e consultas complexas em dados estruturados, como em um data warehouse.
 
-## Plataforma Databricks
+## <span style="color:#ffc000">Plataforma Databricks</span> 
+
