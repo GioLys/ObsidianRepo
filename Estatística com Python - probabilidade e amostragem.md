@@ -12,3 +12,5 @@
 **Distribuição de Probabilidade Binomial:*
 
 Um **Evento Binomial** é caracterizado pela possibilidade de ocorrência de apenas **duas categorias**; ou é sim ou é não, verdadeiro e falso, sucesso ou fracasso e etc. A soma dessas duas categorias é o **Espaço Amostral**, ou seja, o total de eventos possíveis dentro de um experimento.
+
+![[Pasted image 20240401162351.png]]
