@@ -9,3 +9,4 @@
 
 ### Distribuições de Probabilidade
 
+**Distribuição de Probabilidade Binomial:** 
