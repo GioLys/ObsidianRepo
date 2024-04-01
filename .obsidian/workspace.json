@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69b1539f2ec61db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelagem de Dados.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelagem de Dados.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelagem de Dados.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -167,13 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9077e8dc45461cc1",
+  "active": "69b1539f2ec61db6",
   "lastOpenFiles": [
+    "Modelagem de Dados.md",
+    "Untitled.md",
     "Untitled",
     "Data Science - notes.md",
     "Data Lakehouse.md",
     "src/Pasted image 20240331140628.png",
-    "Modelagem de Dados.md",
     "src/Pasted image 20240331145305.png",
     "src/Pasted image 20240331141111.png",
     "src/Pasted image 20240329222455.png",
