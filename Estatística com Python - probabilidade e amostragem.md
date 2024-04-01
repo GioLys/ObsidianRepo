@@ -72,4 +72,4 @@ probabilidade = 1 / combinacoes
 print('%0.15f' % probabilidade)
 ```
 
- A chance de ganharmos na Mega Sena é bem pequena, cerca de <span style="color:#ffc000">0,0000000199%</span>.
+ A chance de ganharmos na Mega Sena é bem pequena, cerca de<span style="color:#ffff00"> 0,0000000199%</span>.
