@@ -45,9 +45,7 @@ O desvio padrão é o produto entre o número de experimentos, a probabilidade d
 from scipy.special import comb
 ```
 
-## Exemplo: Mega Sena
-
----
+Exemplo: Mega Sena
 
 Em um volante de loteria da Mega Sena temos um total de **60 números** para escolher onde a aposta mínima é de **seis números**. Você que é curiosa(o) resolve calcular a probabilidade de se acertar na Mega Sena com apenas **um jogo**. Para isso precisamos saber quantas **combinações de seis números podem ser formadas com os 60 números disponíveis**.
 
