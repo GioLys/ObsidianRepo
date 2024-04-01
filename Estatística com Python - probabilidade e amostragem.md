@@ -14,3 +14,9 @@
 Um **Evento Binomial** é caracterizado pela possibilidade de ocorrência de apenas **duas categorias**; ou é sim ou é não, verdadeiro e falso, sucesso ou fracasso e etc. A soma dessas duas categorias é o **Espaço Amostral**, ou seja, o total de eventos possíveis dentro de um experimento.
 
 ![[Pasted image 20240401162351.png]]
+
+Exemplos: 
+
+O lançamento de uma moeda pode ter a face "cara" ou a "coroa", e esse é o Espaço Amostral com duas possibilidades.
+
+Um lançamento de dado de seis faces, só poderemos ter seis resultados possíveis: 1, 2, 3, 4, 5, ou 6.
