@@ -19,3 +19,12 @@ Um **Evento Binomial** é caracterizado pela possibilidade de ocorrência de a
 
 - O lançamento de uma moeda pode ter a face "cara" ou a "coroa", e esse é o Espaço Amostral com duas possibilidades.
 - Um lançamento de dado de seis faces, só poderemos ter seis resultados possíveis: 1, 2, 3, 4, 5, ou 6.
+
+### Experimento Binomial
+
+1. Realização de n ensaios idênticos.
+2. Os ensaios são independentes.
+
+3. Somente dois resultados são possíveis, exemplo: Verdadeiro ou falso; Cara ou coroa; Sucesso ou fracasso.
+    
+4. A probabilidade de sucesso é representada por p e a de fracasso por 1−p=q. Estas probabilidades não se modificam de ensaio para ensaio.
