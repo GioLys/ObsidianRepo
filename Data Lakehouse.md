@@ -27,3 +27,16 @@ Quanto ao "data lakehouse" especificamente, a Databricks oferece recursos e func
 Delta Lake é uma tecnologia desenvolvida pela Databricks que estende o Apache Spark para lidar com problemas comuns encontrados em ambientes de big data, como garantir a integridade dos dados, escalabilidade e confiabilidade em operações de ingestão, atualização e exclusão de dados.
 
 A Delta Lake adiciona funcionalidades como controle de transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade) para operações de leitura e gravação, gerenciamento de metadados para rastrear versões e esquemas de dados, suporte para otimização de consultas e atualizações incrementais. Isso permite que os usuários mantenham dados de alta qualidade e consistentes em seus data lakes.
+
+### Photon
+
+Photon é um motor de consulta vetorizado nativo da Databricks de alto desempenho que executa suas cargas de trabalho SQL e chamadas de API DataFrame de maneira mais rápida para reduzir seu custo total por carga de trabalho.
+
+Aqui estão as principais características e vantagens de usar o Photon:
+
+- Suporte para SQL e operações equivalentes de DataFrame com tabelas Delta e Parquet.
+- Consultas aceleradas que processam dados mais rapidamente e incluem agregações e junções.
+- Melhor desempenho quando os dados são acessados repetidamente do cache de disco.
+- Desempenho robusto de varredura em tabelas com muitas colunas e muitos arquivos pequenos.
+- Escrita mais rápida em Delta e Parquet usando UPDATE, DELETE, MERGE INTO, INSERT e CREATE TABLE AS SELECT, incluindo tabelas amplas que contêm milhares de colunas.
+- Substitui junções de classificação e mesclagem por junções de hash.
