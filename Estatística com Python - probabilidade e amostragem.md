@@ -41,3 +41,7 @@ O desvio padrão é o produto entre o número de experimentos, a probabilidade d
 
 ## <span style="color:#ffc000"></span> <span style="color:#ffc000">Cálculo de probabilidades usando Python</span>
 
+```python
+from scipy.special import comb
+```
+
