@@ -15,8 +15,7 @@ Um **Evento Binomial** é caracterizado pela possibilidade de ocorrência de a
 
 ![[Pasted image 20240401162351.png]]
 
-Exemplos: 
+<span style="color:#00b0f0">Exemplos: </span>
 
-O lançamento de uma moeda pode ter a face "cara" ou a "coroa", e esse é o Espaço Amostral com duas possibilidades.
-
-Um lançamento de dado de seis faces, só poderemos ter seis resultados possíveis: 1, 2, 3, 4, 5, ou 6.
+- O lançamento de uma moeda pode ter a face "cara" ou a "coroa", e esse é o Espaço Amostral com duas possibilidades.
+- Um lançamento de dado de seis faces, só poderemos ter seis resultados possíveis: 1, 2, 3, 4, 5, ou 6.
