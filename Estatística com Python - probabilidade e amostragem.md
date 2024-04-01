@@ -24,7 +24,15 @@ Um **Evento Binomial** é caracterizado pela possibilidade de ocorrência de a
 
 1. Realização de n ensaios idênticos.
 2. Os ensaios são independentes.
-
 3. Somente dois resultados são possíveis, exemplo: Verdadeiro ou falso; Cara ou coroa; Sucesso ou fracasso.
-    
 4. A probabilidade de sucesso é representada por p e a de fracasso por 1−p=q. Estas probabilidades não se modificam de ensaio para ensaio.
+
+### Média da distribuição binomial
+
+O valor esperado ou a média da distribuição binomial é igual ao número de experimentos realizados multiplicado pela chance de ocorrência do evento.
+
+_keyboard_arrow_down_
+
+# 
+
+μ=n×p
