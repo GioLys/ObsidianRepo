@@ -9,3 +9,15 @@ O conceito de "<span style="color:#00b0f0">data lakehouse</span>" combina aspect
 ## <span style="color:#ffc000">Plataforma Databricks</span> 
 
 A plataforma Databricks é uma plataforma de análise de dados na nuvem que é construída sobre o Apache Spark, uma poderosa estrutura de processamento de big data. Ela fornece um ambiente unificado para análise de dados, permitindo que equipes de dados trabalhem em colaboração usando linguagens como SQL, Python, Scala e R.
+
+A Databricks fornece suporte para construção e gerenciamento de Data Lakes e Data Warehouses, além de funcionalidades avançadas de machine learning e processamento de dados em tempo real.
+
+Quanto ao "data lakehouse" especificamente, a Databricks oferece recursos e funcionalidades que podem ser utilizados para implementar uma arquitetura de data lakehouse. Isso inclui:
+
+1. **Armazenamento de dados**: A Databricks pode ser usada para armazenar dados brutos em seu formato nativo em um data lake, geralmente utilizando serviços de armazenamento na nuvem como o Azure Data Lake Storage ou o Amazon S3.
+    
+2. **Processamento de dados**: A plataforma Databricks permite o processamento distribuído e paralelo de grandes volumes de dados usando o Apache Spark. Isso possibilita a realização de transformações, limpeza e preparação de dados em escala.
+    
+3. **Consulta e análise**: Com a capacidade de executar consultas SQL, análises e machine learning em larga escala, a Databricks permite que os usuários realizem análises complexas e gerem insights a partir dos dados armazenados no data lakehouse.
+    
+4. **Gerenciamento de metadados e governança**: A Databricks oferece recursos para o gerenciamento de metadados, controle de acesso e governança de dados, ajudando a garantir a qualidade e a segurança dos dados em todo o ciclo de vida.
