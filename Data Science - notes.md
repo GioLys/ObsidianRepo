@@ -17,7 +17,7 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Migração de dados
 - [ ] Amazon Redshift
 - [ ] Governança de dados
-- [ ] Data lake
+- [x] Data lake
 - [ ] PostgreSQL
 - [ ] ETL (Extração, transformação e carregamento)
 - [ ] Orquestração de dados

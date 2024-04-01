@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Lakehouse.md",
+                "file": "Data Science - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Lakehouse.md",
+                "file": "Data Science - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Lakehouse.md",
+                "file": "Data Science - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Lakehouse.md"
+                "file": "Data Science - notes.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "b0257eaaffb99d8a",
   "lastOpenFiles": [
-    "Data Science - notes.md",
     "Data Lakehouse.md",
+    "Data Science - notes.md",
     "src/Pasted image 20240331140628.png",
     "Modelagem de Dados.md",
     "src/Pasted image 20240331145305.png",
