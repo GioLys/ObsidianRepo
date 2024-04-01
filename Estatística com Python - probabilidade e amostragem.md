@@ -59,6 +59,8 @@ Em um volante de loteria da Mega Sena temos um total de **60 números** para e
 combinacoes = comb(60, 6)
 ```
 
-Para calcularmos a probabilidade de ganharmos o prêmio com apenas um bilhete, criaremos a variável `probabilidade` sendo igual a `1` dividido pela operação anterior.
+Para calcularmos a <span style="color:#92d050">probabilidade</span> de ganharmos o prêmio com apenas um bilhete, criaremos a variável `probabilidade` sendo igual a `1` dividido pela operação anterior.
 
-Em seguida, exibiremos o resultado chamando `probabilidade`.
+```python
+probabilidade = 1 / combinacoes
+```
