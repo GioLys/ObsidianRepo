@@ -64,3 +64,12 @@ Para calcularmos a <span style="color:#92d050">probabilidade</span> de ganharmos
 ```python
 probabilidade = 1 / combinacoes
 ```
+
+Como será um valor muito pequeno, formataremos o retorno com `print()` recebendo `'%0.15f'` entre aspas simples para quinze casas decimais seguido de `%` e `probabilidade` para plotarmos em percentual.
+
+```python
+probabilidade = 1 / combinacoes
+print('%0.15f' % probabilidade)
+```
+
+ A chance de ganharmos na Mega Sena é bem pequena, cerca de <span style="color:#ffc000">0,0000000199%</span>.
