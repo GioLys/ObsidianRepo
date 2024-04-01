@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estatística com Python - probabilidade e amostragem.md",
+                "file": "Data Science - notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estatística com Python - probabilidade e amostragem.md",
+                "file": "Data Science - notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estatística com Python - probabilidade e amostragem.md",
+                "file": "Data Science - notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estatística com Python - probabilidade e amostragem.md"
+                "file": "Data Science - notes.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "69b1539f2ec61db6",
   "lastOpenFiles": [
-    "Data Science - notes.md",
     "Estatística com Python - probabilidade e amostragem.md",
+    "Data Science - notes.md",
     "Pasted image 20240401172144.png",
     "Pasted image 20240401172134.png",
     "Pasted image 20240401163009.png",
