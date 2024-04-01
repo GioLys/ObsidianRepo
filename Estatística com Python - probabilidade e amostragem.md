@@ -31,8 +31,8 @@ Um **Evento Binomial** é caracterizado pela possibilidade de ocorrência de a
 
 O valor esperado ou a média da distribuição binomial é igual ao número de experimentos realizados multiplicado pela chance de ocorrência do evento.
 
-_keyboard_arrow_down_
+**μ=n×p**
 
-# 
+### Desvio padrão da distribuição binomial
 
-μ=n×p
+O desvio padrão é o produto entre o número de experimentos, a probabilidade de sucesso e a probabilidade de fracasso.
