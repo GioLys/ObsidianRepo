@@ -21,3 +21,9 @@ Quanto ao "data lakehouse" especificamente, a Databricks oferece recursos e func
 3. **Consulta e análise**: Com a capacidade de executar consultas SQL, análises e machine learning em larga escala, a Databricks permite que os usuários realizem análises complexas e gerem insights a partir dos dados armazenados no data lakehouse.
     
 4. **Gerenciamento de metadados e governança**: A Databricks oferece recursos para o gerenciamento de metadados, controle de acesso e governança de dados, ajudando a garantir a qualidade e a segurança dos dados em todo o ciclo de vida.
+
+### DeltaLake
+
+Delta Lake é uma tecnologia desenvolvida pela Databricks que estende o Apache Spark para lidar com problemas comuns encontrados em ambientes de big data, como garantir a integridade dos dados, escalabilidade e confiabilidade em operações de ingestão, atualização e exclusão de dados.
+
+A Delta Lake adiciona funcionalidades como controle de transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade) para operações de leitura e gravação, gerenciamento de metadados para rastrear versões e esquemas de dados, suporte para otimização de consultas e atualizações incrementais. Isso permite que os usuários mantenham dados de alta qualidade e consistentes em seus data lakes.
