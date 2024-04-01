@@ -36,3 +36,7 @@ O valor esperado ou a média da distribuição binomial é igual ao número de e
 ### Desvio padrão da distribuição binomial
 
 O desvio padrão é o produto entre o número de experimentos, a probabilidade de sucesso e a probabilidade de fracasso.
+
+![[Pasted image 20240401163009.png]]
+
+## <span style="color:#ffc000"></span> 
