@@ -8,3 +8,4 @@ O conceito de "<span style="color:#00b0f0">data lakehouse</span>" combina aspect
 
 ## <span style="color:#ffc000">Plataforma Databricks</span> 
 
+A plataforma Databricks é uma plataforma de análise de dados na nuvem que é construída sobre o Apache Spark, uma poderosa estrutura de processamento de big data. Ela fornece um ambiente unificado para análise de dados, permitindo que equipes de dados trabalhem em colaboração usando linguagens como SQL, Python, Scala e R.
