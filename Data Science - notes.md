@@ -10,6 +10,7 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Indicadores-chave de desempenho
 - [x] Visualização de dados
 - [x] Modelagem de dados
+- [ ] Governança de dados
 - [ ] Produtos de dados
 - [ ] Amazon S3
 - [ ] Amazon Athena
