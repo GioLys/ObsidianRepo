@@ -90,6 +90,11 @@ Sim. O candidato tem duas possibilidades, ACERTA ou ERRAR uma questão.
 
 **Qual a probabilidade de sucesso (p)?**
 
+```makefile
+numero_de_alternativas_por_questao = 3
+p = 1 / numero_de_alternativas_por_questao
+```
+
 **Qual a probabilidade de fracasso (q)?**
 
 **Qual o total de eventos que se deseja obter sucesso (k)?**
