@@ -23,11 +23,9 @@
             "id": "b0257eaaffb99d8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "python/Estatística com Python - probabilidade e amostragem.md",
-                "mode": "source",
-                "source": false
+                "file": "src/Pasted image 20240402115419.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Estatística com Python - probabilidade e amostragem.md",
+                "file": "src/Pasted image 20240402115419.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Estatística com Python - probabilidade e amostragem.md",
+                "file": "src/Pasted image 20240402115419.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Estatística com Python - probabilidade e amostragem.md"
+                "file": "src/Pasted image 20240402115419.png"
               }
             }
           },
@@ -167,23 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0257eaaffb99d8a",
+  "active": "9077e8dc45461cc1",
   "lastOpenFiles": [
-    "Pasted image 20240402181352.png",
-    "Pasted image 20240402180644.png",
-    "Pasted image 20240402180559.png",
-    "Pasted image 20240402180524.png",
-    "Pasted image 20240402180450.png",
+    "python/Estatística com Python - probabilidade e amostragem.md",
+    "src/Pasted image 20240402181352.png",
+    "src/Pasted image 20240402180644.png",
+    "src/Pasted image 20240402180559.png",
+    "src/Pasted image 20240402180524.png",
+    "src/Pasted image 20240402180450.png",
     "python/Estatística com Python - frequências e medidas.md",
     "Modelagem de Dados.md",
-    "python/Estatística com Python - probabilidade e amostragem.md",
-    "Pasted image 20240402151156.png",
-    "Pasted image 20240402151139.png",
-    "Pasted image 20240402150844.png",
-    "Pasted image 20240402115419.png",
+    "src/Pasted image 20240402151156.png",
+    "src/Pasted image 20240402151139.png",
+    "src/Pasted image 20240402150844.png",
+    "src/Pasted image 20240402115419.png",
     "Data Science - notes.md",
     "src/Pasted image 20240401162351.png",
-    "src/Pasted image 20240401163009.png",
     "Untitled",
     "Data Lakehouse.md",
     "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
