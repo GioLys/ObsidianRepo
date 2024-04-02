@@ -123,3 +123,8 @@ probabilidade = binom.pmf(k, n, p)
 print('%0.8f' % probabilidade)
 ```
 
+### <span style="color:#92d050">-> Obter a probabilidade do candidato passar</span> 
+
+![[Pasted image 20240402115419.png]]
+
+Opção 1
