@@ -236,3 +236,9 @@ Para obter a área acima basta calcular a integral da função para os intervalo
 Maneira mais simplificada de calcular a área da curva
 
 ![[Pasted image 20240402181352.png]]
+
+Onde:
+
+x = variável normal com média μ e desvio padrão σ
+σ = desvio padrão
+μ = média
