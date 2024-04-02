@@ -97,5 +97,9 @@ p = 1 / numero_de_alternativas_por_questao
 
 **Qual a probabilidade de fracasso (q)?**
 
+```makefile
+q = 1 - p
+```
+
 **Qual o total de eventos que se deseja obter sucesso (k)?**
 
