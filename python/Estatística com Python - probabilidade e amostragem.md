@@ -80,3 +80,6 @@ Em um concurso para preencher uma vaga de cientista de dados temos um total de 
 
 n = 10
 
+**Os ensaios são independentes?**
+
+ Sim. A opção escolhida em uma questão não influencia em nada a opção escolhida em outra questão.
