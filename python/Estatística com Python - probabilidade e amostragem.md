@@ -90,4 +90,5 @@ Sim. O candidato tem duas possibilidades, ACERTA ou ERRAR uma questão.
 
 **Qual a probabilidade de sucesso (p)?**
 
-Qual a probabilidade de fracasso (q)?
+**Qual a probabilidade de fracasso (q)?**
+
