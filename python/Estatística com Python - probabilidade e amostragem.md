@@ -225,3 +225,9 @@ x = variável normal
 
 <span style="color:#92d050">A probabilidade é obtida a partir da área sob a curva, delimitada pelos limites inferior e superior especificados. Um exemplo pode ser visto na figura abaixo.</span> 
 
+![[Pasted image 20240402180559.png]]
+
+Para obter a área acima basta calcular a integral da função para os intervalos determinados. Conforme equação abaixo:
+
+![[Pasted image 20240402180644.png]]
+
