@@ -92,3 +92,5 @@ Sim. O candidato tem duas possibilidades, ACERTA ou ERRAR uma questão.
 
 **Qual a probabilidade de fracasso (q)?**
 
+**Qual o total de eventos que se deseja obter sucesso (k)?**
+
