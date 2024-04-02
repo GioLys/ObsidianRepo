@@ -146,4 +146,8 @@ binom.sf(4, n, p)
 ```
 
 
-## <span style="color:#ffc000"></span> <span style="color:#ffc000">Cálculo de probabilidades usando Python</span>
+## <span style="color:#ffc000"></span> <span style="color:#ffc000">Distribuição de Poisson</span>
+
+É empregada para descrever o número de ocorrências em um intervalo de tempo ou espaço específico. Os eventos são caracterizados pela possibilidade de contagem dos sucessos, mas a não possibilidade de contagem dos fracassos.
+
+Como exemplos de processos onde podemos aplicar a distribuição de Poisson temos a determinação do número de clientes que entram em uma loja em determinada hora, o número de carros que chegam em um drive-thru de uma lanchonete na hora do almoço, a determinação do número de acidentes registrados em um trecho de estrada etc.
