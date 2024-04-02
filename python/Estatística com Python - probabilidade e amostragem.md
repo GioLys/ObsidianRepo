@@ -103,3 +103,12 @@ q = 1 - p
 
 **Qual o total de eventos que se deseja obter sucesso (k)?**
 
+k = 5
+
+### <span style="color:#92d050">Solução 1</span> 
+
+```python
+probabilidade = (comb(n, k)) * (p ** k) * (q ** (n - k))
+print('%0.8f' % probabilidade)
+```
+
