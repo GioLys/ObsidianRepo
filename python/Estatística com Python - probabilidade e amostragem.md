@@ -178,11 +178,11 @@ Um restaurante recebe em média **20 pedidos por hora**. Qual a chance de que, 
 
 **Qual o número médio de ocorrências por hora (μ)?**
 
-
+media = 20
 
 **Qual o número de ocorrências que queremos obter no período (k)?**
 
-
+k = 15
 
 ### <span style="color:#92d050">Solução 1</span> 
 
