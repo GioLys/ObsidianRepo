@@ -146,3 +146,4 @@ binom.sf(4, n, p)
 ```
 
 
+## <span style="color:#ffc000"></span> <span style="color:#ffc000">Cálculo de probabilidades usando Python</span>
