@@ -188,5 +188,7 @@ Um restaurante recebe em média **20 pedidos por hora**. Qual a chance de que, 
 
 
 
-### <span style="color:#92d050">Solução 2 com bibliotecas python</span
+### <span style="color:#92d050">Solução 2 com bibliotecas python</span>
+
+
 
