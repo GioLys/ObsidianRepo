@@ -127,4 +127,18 @@ print('%0.8f' % probabilidade)
 
 ![[Pasted image 20240402115419.png]]
 
-Opção 1
+**Opção 1:**
+
+```python
+binom.pmf(5, n, p) + binom.pmf(6, n, p) + binom.pmf(7, n, p) + binom.pmf(8, n, p) + binom.pmf(9, n, p) + binom.pmf(10, n, p)
+```
+
+**Opção 2:**
+
+```python
+binom.pmf([5, 6, 7, 8, 9, 10], n, p).sum()
+```
+
+**Opção 3:**
+
+
