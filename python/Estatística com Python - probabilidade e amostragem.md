@@ -186,7 +186,7 @@ k = 15
 
 ### <span style="color:#92d050">Solução 1</span> 
 
-probabilidade = (np.e ** (-media)) * 
+probabilidade = (np.e ** (-media)) * ((media ** k) / ())
 
 ### <span style="color:#92d050">Solução 2 com bibliotecas python</span>
 
