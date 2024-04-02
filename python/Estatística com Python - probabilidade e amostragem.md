@@ -151,3 +151,13 @@ binom.sf(4, n, p)
 É empregada para descrever o número de ocorrências em um intervalo de tempo ou espaço específico. Os eventos são caracterizados pela possibilidade de contagem dos sucessos, mas a não possibilidade de contagem dos fracassos.
 
 Como exemplos de processos onde podemos aplicar a distribuição de Poisson temos a determinação do número de clientes que entram em uma loja em determinada hora, o número de carros que chegam em um drive-thru de uma lanchonete na hora do almoço, a determinação do número de acidentes registrados em um trecho de estrada etc.
+
+![[Pasted image 20240402150844.png]]
+
+**Onde:**
+
+**e = constante cujo valor aproximado é 2,718281828459045**
+
+**μ = representa o número médio de ocorrências em um determinado intervalo de tempo ou espaço**
+
+**k = número de sucessos no intervalo desejado**
