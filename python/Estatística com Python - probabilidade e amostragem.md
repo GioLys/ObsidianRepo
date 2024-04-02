@@ -172,4 +172,10 @@ Como exemplos de processos onde podemos aplicar a distribuição de Poisson temo
 
 ![[Pasted image 20240402151156.png]]
 
-### Exempl
+### Exemplo: Delivery
+
+Um restaurante recebe em média **20 pedidos por hora**. Qual a chance de que, em determinada hora escolhida ao acaso, o restaurante receba **15 pedidos**?
+
+**Qual o número médio de ocorrências por hora (μ)?**
+
+**Qual o número de ocorrências que queremos obter no período (k)?**
