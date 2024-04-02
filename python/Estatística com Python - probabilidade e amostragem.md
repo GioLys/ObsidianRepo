@@ -231,3 +231,8 @@ Para obter a área acima basta calcular a integral da função para os intervalo
 
 ![[Pasted image 20240402180644.png]]
 
+### Tabelas Padronizadas
+
+Maneira mais simplificada de calcular a área da curva
+
+![[Pasted image 20240402181352.png]]
