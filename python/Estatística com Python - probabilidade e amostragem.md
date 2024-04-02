@@ -161,3 +161,9 @@ Como exemplos de processos onde podemos aplicar a distribuição de Poisson temo
 **μ = representa o número médio de ocorrências em um determinado intervalo de tempo ou espaço**
 
 **k = número de sucessos no intervalo desejado**
+
+### Experimento Poisson
+
+1. A probabilidade de uma ocorrência é a mesma em todo o intervalo observado.
+2. O número de ocorrências em determinado intervalo é independente do número de ocorrências em outros intervalos.
+3. A probabilidade de uma ocorrência é a mesma em intervalos de igual comprimento.
