@@ -190,6 +190,9 @@ probabilidade = (np.e ** (-media)) * (media ** k) / (np.match.factorial(k))
 
 ### <span style="color:#92d050">Solução 2 com bibliotecas python</span>
 
-```javascript
+```python
 from scipy.stats import poisson
+
+probabilidade = poisson.pmf(k, media)
+print('%0.8f' % probabilidade)
 ```
