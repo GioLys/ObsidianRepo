@@ -141,4 +141,8 @@ binom.pmf([5, 6, 7, 8, 9, 10], n, p).sum()
 
 **Opção 3:**
 
+```python
+binom.sf(4, n, p)
+```
+
 
