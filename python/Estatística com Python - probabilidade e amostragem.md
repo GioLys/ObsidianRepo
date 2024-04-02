@@ -146,7 +146,7 @@ binom.sf(4, n, p)
 ```
 
 
-## <span style="color:#ffc000"></span> <span style="color:#ffc000">Distribuição de Poisson</span>
+##  <span style="color:#ffc000">Distribuição de Poisson</span>
 
 É empregada para descrever o número de ocorrências em um intervalo de tempo ou espaço específico. Os eventos são caracterizados pela possibilidade de contagem dos sucessos, mas a não possibilidade de contagem dos fracassos.
 
@@ -196,3 +196,9 @@ from scipy.stats import poisson
 probabilidade = poisson.pmf(k, media)
 print('%0.8f' % probabilidade)
 ```
+
+##  <span style="color:#ffc000">Distribuição Normal</span>
+
+A distribuição normal é uma das mais utilizadas em estatística. É uma distribuição contínua, onde a distribuição de frequências de uma variável quantitativa apresenta a forma de sino e é simétrica em relação a sua média.
+
+![[Pasted image 20240402180450.png]]
