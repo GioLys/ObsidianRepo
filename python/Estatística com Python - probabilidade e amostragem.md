@@ -112,3 +112,14 @@ probabilidade = (comb(n, k)) * (p ** k) * (q ** (n - k))
 print('%0.8f' % probabilidade)
 ```
 
+### <span style="color:#92d050">Solução 2 com a biblioteca scipy</span>
+
+```python
+from scipy.stats import binom
+```
+
+```python
+probabilidade = binom.pmf(k, n, p)
+print('%0.8f' % probabilidade)
+```
+
