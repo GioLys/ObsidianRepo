@@ -172,3 +172,4 @@ Como exemplos de processos onde podemos aplicar a distribuição de Poisson temo
 
 ![[Pasted image 20240402151156.png]]
 
+### <span style="color:#92d050">Solução 2 com a biblioteca scipy</span>
