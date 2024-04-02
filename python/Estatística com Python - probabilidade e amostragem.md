@@ -202,3 +202,26 @@ print('%0.8f' % probabilidade)
 A distribuição normal é uma das mais utilizadas em estatística. É uma distribuição contínua, onde a distribuição de frequências de uma variável quantitativa apresenta a forma de sino e é simétrica em relação a sua média.
 
 ![[Pasted image 20240402180450.png]]
+
+### Características importantes
+
+1. É simétrica em torno da média;
+2. A área sob a curva corresponde à proporção 1 ou 100%;
+3. As medidas de tendência central (média, mediana e moda) apresentam o mesmo valor;
+4. Os extremos da curva tendem ao infinito em ambas as direções e, teoricamente, jamais tocam o eixo x;
+5. O desvio padrão define o achatamento e largura da distribuição. Curvas mais largas e mais achatadas apresentam valores maiores de desvio padrão;
+6. A distribuição é definida por sua média e desvio padrão;
+7. A probabilidade sempre será igual à área sob a curva, delimitada pelos limites inferior e superior.
+
+![[Pasted image 20240402180524.png]]
+
+Onde:
+
+x = variável normal
+
+σ = desvio padrão
+
+μ = média
+
+<span style="color:#92d050">A probabilidade é obtida a partir da área sob a curva, delimitada pelos limites inferior e superior especificados. Um exemplo pode ser visto na figura abaixo.</span> 
+
