@@ -83,3 +83,11 @@ n = 10
 **Os ensaios são independentes?**
 
  Sim. A opção escolhida em uma questão não influencia em nada a opção escolhida em outra questão.
+ 
+**Somente dois resultados são possíveis em cada ensaio?**
+
+Sim. O candidato tem duas possibilidades, ACERTA ou ERRAR uma questão.
+
+**Qual a probabilidade de sucesso (p)?**
+
+Qual a probabilidade de fracasso (q)?
