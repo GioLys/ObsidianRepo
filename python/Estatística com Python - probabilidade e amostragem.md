@@ -167,3 +167,8 @@ Como exemplos de processos onde podemos aplicar a distribuição de Poisson temo
 1. A probabilidade de uma ocorrência é a mesma em todo o intervalo observado.
 2. O número de ocorrências em determinado intervalo é independente do número de ocorrências em outros intervalos.
 3. A probabilidade de uma ocorrência é a mesma em intervalos de igual comprimento.
+
+![[Pasted image 20240402151139.png]]
+
+![[Pasted image 20240402151156.png]]
+
