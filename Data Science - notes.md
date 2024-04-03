@@ -3,8 +3,8 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-- [ ] Starburst Enterprise (Trino)
-- [ ] Indicadores-chave de desempenho
+
+- [ ] 
 - [x] Visualização de dados
 - [x] Modelagem de dados
 - [x] Governança de dados
@@ -53,3 +53,4 @@ Processos e metodologias
 Softwares
 
 - [ ] Tableau
+- [ ]  Starburst Enterprise (Trino)
