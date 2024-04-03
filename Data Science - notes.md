@@ -44,4 +44,4 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Pipeline de dados
 - [ ] Matillion
 
-Ferramentas
+Softwares
