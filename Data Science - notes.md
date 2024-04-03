@@ -3,8 +3,6 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-- [x] SQL
-- [x] Python
 - [ ] Starburst Enterprise (Trino)
 - [ ] Indicadores-chave de desempenho
 - [x] Visualização de dados
@@ -42,6 +40,11 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Keras
 - [ ] Pipeline de dados
 - [ ] Matillion
+
+Ferramentas
+
+- [x] SQL
+- [x] Python
 
 Processos e metodologias
 
