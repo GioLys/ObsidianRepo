@@ -43,3 +43,5 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Keras
 - [ ] Pipeline de dados
 - [ ] Matillion
+
+Ferramenta
