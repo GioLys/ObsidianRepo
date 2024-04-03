@@ -4,14 +4,14 @@ Estudo dirigido e introdutório para ciência de dados
 
 Ferramentas
 
-- [x] SQL
-- [x] Python
-- [ ] PostgreSQL
-- [ ] Sklearn
-- [ ] Kubernetes
-- [ ] Docker
-- [ ] Keras
-
+- **[x] SQL**
+- **[x] Python**
+- **[ ] PostgreSQL**
+- **[ ] Sklearn**
+- **[ ] Kubernetes**
+- **[ ] Docker**
+- **[ ] Keras****
+**
 Processos e metodologias
 
 - [ ] Inteligência de negócios (BI)
