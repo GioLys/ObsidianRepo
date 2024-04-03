@@ -3,8 +3,8 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-- [ ] ETL (Extração, transformação e carregamento)
-- [ ] Orquestração de dados
+- [ ] 
+- [ ] 
 - [ ] Dynamo
 - [ ] Amazon Simple Notification Service (SNS)
 - [ ] Harness
@@ -43,6 +43,8 @@ Processos e metodologias
 - [ ] Produtos de dados
 - [ ] Migração de dados
 - [x] Governança de dados
+- [ ] ETL (Extração, transformação e carregamento)
+- [ ] Orquestração de dados
 
 Softwares
 
