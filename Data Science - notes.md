@@ -2,7 +2,7 @@ Estudo dirigido e introdutório para ciência de dados
 
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
-- [ ] Harness
+- [ ] 
 - [ ] AWS Lambda
 - [ ] Sklearn
 - [ ] Amazon Elastic MapReduce (EMR)
@@ -52,3 +52,4 @@ Softwares
 - [ ] Amazon DynamoDB
 - [ ] Amazon Simple Notification Service (SNS)
 - [ ] Data lake
+- [ ] Harness
