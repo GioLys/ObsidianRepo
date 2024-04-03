@@ -3,9 +3,6 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-- [ ] 
-- [ ] 
-- [ ] Dynamo
 - [ ] Amazon Simple Notification Service (SNS)
 - [ ] Harness
 - [ ] AWS Lambda
