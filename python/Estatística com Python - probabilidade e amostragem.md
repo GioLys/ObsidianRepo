@@ -265,3 +265,5 @@ z = 1
 ![[Pasted image 20240403151625.png]]
 
 <span style="color:#92d050">A probabilidade é igual a 0.8413!</span> 
+
+
