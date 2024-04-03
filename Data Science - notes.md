@@ -3,9 +3,9 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 - [ ] 
-- [ ] AWS Lambda
-- [ ] Sklearn
-- [ ] Amazon Elastic MapReduce (EMR)
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] Airflow
 - [ ] Amazon SQS
 - [ ] Kubernetes
@@ -27,6 +27,7 @@ Ferramentas
 - [x] SQL
 - [x] Python
 - [ ] PostgreSQL
+- [ ] Sklearn
 
 Processos e metodologias
 
@@ -51,5 +52,6 @@ Softwares
 - [ ] Amazon Redshift
 - [ ] Amazon DynamoDB
 - [ ] Amazon Simple Notification Service (SNS)
+- [ ] AWS Lambda
 - [ ] Data lake
 - [ ] Harness
