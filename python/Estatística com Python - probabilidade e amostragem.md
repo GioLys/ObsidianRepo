@@ -252,3 +252,6 @@ Em um estudo sobre as alturas dos moradores de uma cidade verificou-se que o con
 > **B.** probabilidade de uma pessoa, selecionada ao acaso, ter entre 1,60 metros e 1,80 metros.
 
 > **C.** probabilidade de uma pessoa, selecionada ao acaso, ter mais de 1,90 metros.
+
+![[Pasted image 20240403151206.png]]
+
