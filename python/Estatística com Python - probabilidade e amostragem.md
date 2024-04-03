@@ -255,3 +255,5 @@ Em um estudo sobre as alturas dos moradores de uma cidade verificou-se que o con
 
 ![[Pasted image 20240403151206.png]]
 
+media = 1.7
+desvio_padrao = 0.1
