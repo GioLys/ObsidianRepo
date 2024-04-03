@@ -2,8 +2,6 @@ Estudo dirigido e introdutório para ciência de dados
 
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
-
-- [ ] Amazon Simple Notification Service (SNS)
 - [ ] Harness
 - [ ] AWS Lambda
 - [ ] Sklearn
@@ -51,5 +49,6 @@ Softwares
 - [ ] Amazon Athena
 - [ ] Amazon SageMaker
 - [ ] Amazon Redshift
-- [ ] Data lake
 - [ ] Amazon DynamoDB
+- [ ] Amazon Simple Notification Service (SNS)
+- [ ] Data lake
