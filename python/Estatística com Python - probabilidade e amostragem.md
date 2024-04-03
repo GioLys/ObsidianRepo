@@ -242,3 +242,13 @@ Onde:
 x = variável normal com média μ e desvio padrão σ
 σ = desvio padrão
 μ = média
+
+### Exemplo: Qual sua altura?
+
+Em um estudo sobre as alturas dos moradores de uma cidade verificou-se que o conjunto de dados segue uma **distribuição aproximadamente normal**, com **média 1,70** e **desvio padrão de 0,1**. Com estas informações obtenha o seguinte conjunto de probabilidades:
+
+> **A.** probabilidade de uma pessoa, selecionada ao acaso, ter menos de 1,80 metros.
+
+> **B.** probabilidade de uma pessoa, selecionada ao acaso, ter entre 1,60 metros e 1,80 metros.
+
+> **C.** probabilidade de uma pessoa, selecionada ao acaso, ter mais de 1,90 metros.
