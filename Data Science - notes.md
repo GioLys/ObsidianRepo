@@ -7,8 +7,8 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] Terraform
-- [ ] Apache Spark
+- [ ] 
+- [ ] 
 - [ ] PySpark
 - [ ] Data warehouse
 - [ ] Alteryx
@@ -56,4 +56,4 @@ Softwares
 - [ ] Data lake
 - [ ] Harness
 - [ ] Apache Airflow
-- [ ] 
+- [ ] Terraform
