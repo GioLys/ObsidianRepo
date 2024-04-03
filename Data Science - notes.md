@@ -2,17 +2,17 @@ Estudo dirigido e introdutório para ciência de dados
 
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
-Ferramentas
+<span style="color:#ffc000">Ferramentas</span>
 
-- **[x] SQL**
-- **[x] Python**
-- **[ ] PostgreSQL**
-- **[ ] Sklearn**
-- **[ ] Kubernetes**
-- **[ ] Docker**
-- **[ ] Keras****
-**
-Processos e metodologias
+- [x] SQL
+- [x] Python
+- [ ] PostgreSQL
+- [ ] Sklearn
+- [ ] Kubernetes
+- [ ] Docker
+- [ ] Keras
+---
+<span style="color:#00b0f0">Processos e metodologias</span>
 
 - [ ] Inteligência de negócios (BI)
 - [ ] Indicadores-chave de desempenho
