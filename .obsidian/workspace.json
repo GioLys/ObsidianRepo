@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "python/Estatística com Python - probabilidade e amostragem.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "python/Estatística com Python - probabilidade e amostragem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "python/Estatística com Python - probabilidade e amostragem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science - notes.md"
+                "file": "python/Estatística com Python - probabilidade e amostragem.md"
               }
             }
           },
@@ -169,19 +169,19 @@
   },
   "active": "b0257eaaffb99d8a",
   "lastOpenFiles": [
-    "Modelagem de Dados.md",
-    "src/Pasted image 20240402115419.png",
+    "python/Estatística com Python - frequências e medidas.md",
     "python/Estatística com Python - probabilidade e amostragem.md",
+    "Modelagem de Dados.md",
+    "Data Science - notes.md",
+    "src/Pasted image 20240402115419.png",
     "src/Pasted image 20240402181352.png",
     "src/Pasted image 20240402180644.png",
     "src/Pasted image 20240402180559.png",
     "src/Pasted image 20240402180524.png",
     "src/Pasted image 20240402180450.png",
-    "python/Estatística com Python - frequências e medidas.md",
     "src/Pasted image 20240402151156.png",
     "src/Pasted image 20240402151139.png",
     "src/Pasted image 20240402150844.png",
-    "Data Science - notes.md",
     "src/Pasted image 20240401162351.png",
     "Untitled",
     "Data Lakehouse.md",
