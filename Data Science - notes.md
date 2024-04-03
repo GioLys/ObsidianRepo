@@ -3,12 +3,6 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-
-- [ ] 
-- [x] Visualização de dados
-- [x] Modelagem de dados
-- [x] Governança de dados
-- [ ] Produtos de dados
 - [ ] Amazon S3
 - [ ] Amazon Athena
 - [ ] Amazon SageMaker
@@ -49,6 +43,11 @@ Ferramentas
 Processos e metodologias
 
 - [ ] Inteligência de negócios (BI)
+- [ ] Indicadores-chave de desempenho
+- [x] Visualização de dados
+- [x] Modelagem de dados
+- [x] Governança de dados
+- [ ] Produtos de dados
 
 Softwares
 
