@@ -3,9 +3,7 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-- [ ] Amazon S3
-- [ ] Amazon Athena
-- [ ] Amazon SageMaker
+- [ ] 
 - [ ] Migração de dados
 - [ ] Amazon Redshift
 - [ ] Governança de dados
@@ -53,3 +51,6 @@ Softwares
 
 - [ ] Tableau
 - [ ]  Starburst Enterprise (Trino)
+- [ ] Amazon S3
+- [ ] Amazon Athena
+- [ ] Amazon SageMaker
