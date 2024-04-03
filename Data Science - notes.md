@@ -12,7 +12,7 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] Glue
+- [ ] 
 - [ ] Keras
 - [ ] Pipeline de dados
 - [ ] Matillion
@@ -54,9 +54,11 @@ Softwares
 - [ ] Amazon SQS
 - [ ] AWS Lambda
 - [ ] AWS Step Functions
+- [ ] AWS Glue
 - [ ] Data lake
 - [ ] Harness
 - [ ] Apache Airflow
 - [ ] Terraform
 - [ ] Apache Spark
 - [ ] Data warehouse
+- [ ] Alteryx
