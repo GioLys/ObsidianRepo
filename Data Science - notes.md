@@ -1,8 +1,6 @@
-Estudo dirigido e introdutório para ciência de dados
+**<span style="color:#ffff00">Tópicos de estudo para o Programa de Estágio - Inter:</span>**
 
--> Tópicos de estudo para o Programa de Estágio - Inter:
-
-<span style="color:#ffc000">Ferramentas</span>
+<span style="font-weight:bold; font-weight:bold; font-weight:bold; color:#ffc000">Ferramentas</span>
 
 - [x] SQL
 - [x] Python
@@ -27,8 +25,8 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] MLOps
 - [ ] PySpark
 - [ ] Pipeline de dados
-
-Softwares
+---
+<span style="color:#92d050">Softwares</span>
 
 - [ ] Tableau
 - [ ]  Starburst Enterprise (Trino)
