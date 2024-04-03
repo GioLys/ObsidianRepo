@@ -3,12 +3,6 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] Governança de dados
-- [x] Data lake
-- [ ] PostgreSQL
 - [ ] ETL (Extração, transformação e carregamento)
 - [ ] Orquestração de dados
 - [ ] Dynamo
@@ -37,6 +31,7 @@ Ferramentas
 
 - [x] SQL
 - [x] Python
+- [ ] PostgreSQL
 
 Processos e metodologias
 
@@ -47,6 +42,7 @@ Processos e metodologias
 - [x] Governança de dados
 - [ ] Produtos de dados
 - [ ] Migração de dados
+- [x] Governança de dados
 
 Softwares
 
@@ -56,3 +52,4 @@ Softwares
 - [ ] Amazon Athena
 - [ ] Amazon SageMaker
 - [ ] Amazon Redshift
+- [ ] Data lake
