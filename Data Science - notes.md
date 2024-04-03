@@ -2,21 +2,6 @@ Estudo dirigido e introdutório para ciência de dados
 
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] Keras
-- [ ] Pipeline de dados
-- [ ] Matillion
-
 Ferramentas
 
 - [x] SQL
@@ -25,6 +10,7 @@ Ferramentas
 - [ ] Sklearn
 - [ ] Kubernetes
 - [ ] Docker
+- [ ] Keras
 
 Processos e metodologias
 
@@ -40,6 +26,7 @@ Processos e metodologias
 - [ ] Orquestração de dados
 - [ ] MLOps
 - [ ] PySpark
+- [ ] Pipeline de dados
 
 Softwares
 
@@ -62,3 +49,4 @@ Softwares
 - [ ] Apache Spark
 - [ ] Data warehouse
 - [ ] Alteryx
+- [ ] Matillion
