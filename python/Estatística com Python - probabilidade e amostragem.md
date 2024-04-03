@@ -288,3 +288,16 @@ Z_superior = (350 - media) / desvio_padrao
 probabilidade = norm.cdf(Z_superior) - norm.cdf(Z_inferior)
 print("{0:.2%}".format(probabilidade))
 ```
+
+**2)**
+```python
+from scipy.stats import norm
+
+media = 300
+desvio_padrao = 50
+Z_inferior = (400 - media) / desvio_padrao
+Z_superior = (500 - media) / desvio_padrao
+
+probabilidade = norm.cdf(Z_superior) - norm.cdf(Z_inferior)
+print("{0:.2%}".format(probabilidade))
+```
