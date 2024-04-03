@@ -266,4 +266,25 @@ z = 1
 
 <span style="color:#92d050">A probabilidade é igual a 0.8413!</span> 
 
+### Exemplo: Faturamento diário
 
+O faturamento diário de um motorista de aplicativo segue uma distribuição aproximadamente normal, com média R$ 300,00 e desvio padrão igual a R$ 50,00. Obtenha as probabilidades de que, em um dia aleatório, o motorista ganhe:
+
+**1)** Entre R$ 250,00 e R$ 350,00
+
+**2)** Entre R$ 400,00 e R$ 500,00
+
+Os códigos abaixo exemplificam a solução do problema:
+
+**1)** 
+```python
+from scipy.stats import norm
+
+media = 300
+desvio_padrao = 50
+Z_inferior = (250 - media) / desvio_padrao
+Z_superior = (350 - media) / desvio_padrao
+
+probabilidade = norm.cdf(Z_superior) - norm.cdf(Z_inferior)
+print("{0:.2%}".format(probabilidade))
+```
