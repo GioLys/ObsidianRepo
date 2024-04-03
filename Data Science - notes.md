@@ -3,11 +3,6 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] Airflow
-- [ ] Amazon SQS
 - [ ] Kubernetes
 - [ ] Docker
 - [ ] MLOps
@@ -52,6 +47,8 @@ Softwares
 - [ ] Amazon Redshift
 - [ ] Amazon DynamoDB
 - [ ] Amazon Simple Notification Service (SNS)
+- [ ] Amazon SQS
 - [ ] AWS Lambda
 - [ ] Data lake
 - [ ] Harness
+- [ ] Apache Airflow
