@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Data Lakehouse.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Data Lakehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Science - notes.md",
+                "file": "Data Lakehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Science - notes.md"
+                "file": "Data Lakehouse.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "b0257eaaffb99d8a",
   "lastOpenFiles": [
+    "Data Science - notes.md",
     "python/Estatística com Python - probabilidade e amostragem.md",
     "Pasted image 20240403151625.png",
     "Pasted image 20240403151206.png",
     "python/Estatística com Python - frequências e medidas.md",
     "Modelagem de Dados.md",
-    "Data Science - notes.md",
     "src/Pasted image 20240402115419.png",
     "src/Pasted image 20240402181352.png",
     "src/Pasted image 20240402180644.png",

@@ -55,3 +55,4 @@ Softwares
 - [ ] Amazon SageMaker
 - [ ] Amazon Redshift
 - [ ] Data lake
+- [ ] Amazon DynamoDB
