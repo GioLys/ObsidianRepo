@@ -6,7 +6,7 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] AWS Step Functions
+- [ ] 
 - [ ] Terraform
 - [ ] Apache Spark
 - [ ] PySpark
@@ -23,6 +23,8 @@ Ferramentas
 - [x] Python
 - [ ] PostgreSQL
 - [ ] Sklearn
+- [ ] Kubernetes
+- [ ] Docker
 
 Processos e metodologias
 
@@ -50,8 +52,8 @@ Softwares
 - [ ] Amazon Simple Notification Service (SNS)
 - [ ] Amazon SQS
 - [ ] AWS Lambda
+- [ ] AWS Step Functions
 - [ ] Data lake
 - [ ] Harness
 - [ ] Apache Airflow
-- [ ] Kubernetes
-- [ ] Docker
+- [ ] 
