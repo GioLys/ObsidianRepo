@@ -1,6 +1,6 @@
-**<span style="color:#ffff00">Tópicos de estudo para o Programa de Estágio - Inter:</span>**
+**Tópicos de estudo para o Programa de Estágio - Inter:**
 
-<span style="font-weight:bold; font-weight:bold; font-weight:bold; color:#ffc000">Ferramentas</span>
+<span style="font-weight:bold; color:#ffc000">Ferramentas</span>
 
 - [x] SQL
 - [x] Python
