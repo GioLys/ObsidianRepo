@@ -3,9 +3,9 @@ Estudo dirigido e introdutório para ciência de dados
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
 - [ ] 
-- [ ] Kubernetes
-- [ ] Docker
-- [ ] MLOps
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] AWS Step Functions
 - [ ] Terraform
 - [ ] Apache Spark
@@ -36,6 +36,7 @@ Processos e metodologias
 - [x] Governança de dados
 - [ ] ETL (Extração, transformação e carregamento)
 - [ ] Orquestração de dados
+- [ ] MLOps
 
 Softwares
 
@@ -52,3 +53,5 @@ Softwares
 - [ ] Data lake
 - [ ] Harness
 - [ ] Apache Airflow
+- [ ] Kubernetes
+- [ ] Docker
