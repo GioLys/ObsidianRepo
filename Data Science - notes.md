@@ -4,8 +4,8 @@ Estudo dirigido e introdutório para ciência de dados
 
 
 - [ ] 
-- [ ] Migração de dados
-- [ ] Amazon Redshift
+- [ ] 
+- [ ] 
 - [ ] Governança de dados
 - [x] Data lake
 - [ ] PostgreSQL
@@ -46,6 +46,7 @@ Processos e metodologias
 - [x] Modelagem de dados
 - [x] Governança de dados
 - [ ] Produtos de dados
+- [ ] Migração de dados
 
 Softwares
 
@@ -54,3 +55,4 @@ Softwares
 - [ ] Amazon S3
 - [ ] Amazon Athena
 - [ ] Amazon SageMaker
+- [ ] Amazon Redshift
