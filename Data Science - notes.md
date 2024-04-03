@@ -2,7 +2,7 @@ Estudo dirigido e introdutório para ciência de dados
 
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
-- [ ] Inteligência de negócios (BI)
+
 - [x] SQL
 - [x] Python
 - [ ] Starburst Enterprise (Trino)
@@ -43,7 +43,9 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Pipeline de dados
 - [ ] Matillion
 
+Processos e metodologias
 
+- [ ] Inteligência de negócios (BI)
 
 Softwares
 
