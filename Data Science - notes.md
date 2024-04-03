@@ -2,7 +2,6 @@ Estudo dirigido e introdutório para ciência de dados
 
 -> Tópicos de estudo para o Programa de Estágio - Inter:
 
-- [ ] Tableau
 - [ ] Inteligência de negócios (BI)
 - [x] SQL
 - [x] Python
@@ -44,4 +43,8 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] Pipeline de dados
 - [ ] Matillion
 
+
+
 Softwares
+
+- [ ] Tableau
