@@ -258,3 +258,10 @@ Em um estudo sobre as alturas dos moradores de uma cidade verificou-se que o con
 media = 1.7
 desvio_padrao = 0.1
 z = (1.8 - media) / desvio padrão
+z = 1
+
+* Na tabela apresentada para pesquisa é necessário pegar o valor refente ao 1
+
+![[Pasted image 20240403151625.png]]
+
+<span style="color:#92d050">A probabilidade é igual a 0.8413!</span> 
