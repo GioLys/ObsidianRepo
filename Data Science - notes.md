@@ -9,9 +9,9 @@ Estudo dirigido e introdutório para ciência de dados
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] PySpark
-- [ ] Data warehouse
-- [ ] Alteryx
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] Glue
 - [ ] Keras
 - [ ] Pipeline de dados
@@ -39,6 +39,7 @@ Processos e metodologias
 - [ ] ETL (Extração, transformação e carregamento)
 - [ ] Orquestração de dados
 - [ ] MLOps
+- [ ] PySpark
 
 Softwares
 
@@ -57,3 +58,5 @@ Softwares
 - [ ] Harness
 - [ ] Apache Airflow
 - [ ] Terraform
+- [ ] Apache Spark
+- [ ] Data warehouse
