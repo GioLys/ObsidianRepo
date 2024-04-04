@@ -301,3 +301,7 @@ Z_superior = (500 - media) / desvio_padrao
 probabilidade = norm.cdf(Z_superior) - norm.cdf(Z_inferior)
 print("{0:.2%}".format(probabilidade))
 ```
+
+## <span style="color:#ffc000">Técnicas de Amostragem</span> 
+
+Amostras, em um contexto geral, referem-se a uma parte representativa de um todo maior, que é selecionada para estudo, análise ou experimentação. Essa prática é comum em uma variedade de campos, incluindo ciência, estatística, pesquisa de mercado, entre outros.
