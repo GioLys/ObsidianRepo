@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "python/Estatística com Python - probabilidade e amostragem.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "python/Estatística com Python - probabilidade e amostragem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "python/Estatística com Python - probabilidade e amostragem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "python/Estatística com Python - probabilidade e amostragem.md"
               }
             }
           },
@@ -154,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9077e8dc45461cc1",
+  "active": "b0257eaaffb99d8a",
   "lastOpenFiles": [
-    "Data Lakehouse.md",
+    "python/Estatística com Python - frequências e medidas.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
+    "Data Lakehouse.md",
     "python/Estatística com Python - probabilidade e amostragem.md",
     "Pasted image 20240403151625.png",
     "Pasted image 20240403151206.png",
-    "python/Estatística com Python - frequências e medidas.md",
     "Modelagem de Dados.md",
     "src/Pasted image 20240402115419.png",
     "src/Pasted image 20240402181352.png",
