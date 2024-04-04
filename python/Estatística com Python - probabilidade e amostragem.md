@@ -319,3 +319,6 @@ Existem diferentes tipos de amostras, cada uma adequada para diferentes propósi
 5. **Amostra de Conveniência**: Os elementos são selecionados com base em sua acessibilidade e conveniência para o pesquisador. Embora seja fácil de implementar, essa abordagem pode introduzir vieses na amostra, pois os elementos podem não ser representativos da população.
     
 6. **Amostra por Cotas**: A população é dividida em grupos com características específicas (quotas) e, em seguida, os elementos são selecionados de cada grupo até que a cota seja preenchida. Isso é frequentemente usado em pesquisas de opinião e pesquisa de mercado.
+
+### Amostra Aleatória Simples
+
