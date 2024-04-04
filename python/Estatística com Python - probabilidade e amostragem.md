@@ -305,3 +305,17 @@ print("{0:.2%}".format(probabilidade))
 ## <span style="color:#ffc000">Técnicas de Amostragem</span> 
 
 Amostras, em um contexto geral, referem-se a uma parte representativa de um todo maior, que é selecionada para estudo, análise ou experimentação. Essa prática é comum em uma variedade de campos, incluindo ciência, estatística, pesquisa de mercado, entre outros.
+
+Existem diferentes tipos de amostras, cada uma adequada para diferentes propósitos e situações. Aqui estão alguns dos tipos mais comuns:
+
+1. **Amostra Aleatória Simples**: Cada membro da população tem a mesma probabilidade de ser selecionado. Isso é frequentemente alcançado usando métodos como sorteio aleatório ou geradores de números aleatórios.
+    
+2. **Amostra Estratificada**: A população é dividida em subgrupos ou estratos com características semelhantes e, em seguida, uma amostra aleatória simples é selecionada de cada estrato. Isso ajuda a garantir que cada subgrupo seja representado na amostra final.
+    
+3. **Amostra Sistemática**: Os elementos são selecionados de acordo com um padrão sistemático, por exemplo, a cada k-ésimo elemento. Isso é útil quando uma lista ordenada dos elementos da população está disponível.
+    
+4. **Amostra por Conglomerados**: A população é dividida em grupos ou conglomerados e, em seguida, alguns desses grupos são selecionados aleatoriamente para formar a amostra. Isso é especialmente útil quando uma lista completa dos elementos individuais da população não está disponível.
+    
+5. **Amostra de Conveniência**: Os elementos são selecionados com base em sua acessibilidade e conveniência para o pesquisador. Embora seja fácil de implementar, essa abordagem pode introduzir vieses na amostra, pois os elementos podem não ser representativos da população.
+    
+6. **Amostra por Cotas**: A população é dividida em grupos com características específicas (quotas) e, em seguida, os elementos são selecionados de cada grupo até que a cota seja preenchida. Isso é frequentemente usado em pesquisas de opinião e pesquisa de mercado.
