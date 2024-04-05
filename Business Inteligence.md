@@ -24,3 +24,9 @@ OLTP processa dados em sistemas informáticos, focado em operações CRUD. Não 
 Dados externos são dados que não podem ser encontrados nos sistemas OLTP, mas são necessários e importantes para melhorar a qualidade das informações geradas pelo BI. Exemplos, pesquisas sobre o mercado, informações sobre ações na bolsa, informações vindas do cadastro positivo etc.
 
 **Staging Area (SA)**
+
+A Staging Area é uma área de trabalho que recebe os dados das Fontes Internas e Externas. Os Modelos de dados contidos em uma SA não precisam ser modelados seguindo uma técnica = específica. Os dados são armazenados muito próximo ao seu formato original, pois não serão utilizados para consulta e análises, mas sim como área de cópia, limpeza e transformações feitas pelo ETL.
+
+**Operational Data Store (ODS)**
+  
+Os bancos de dados operacionais são normalizados e podem ser usados em soluções de BI para análises específicas. Uma Operacional Data Store (ODS) armazena dados atuais ou quase atuais para suportar decisões operacionais diárias, oferecendo uma visão detalhada dos dados de forma corporativa. É orientado ao assunto, integrado e volátil, permitindo atualizações. Os dados vêm de várias fontes, como sistemas ERP, CRM, CMS, etc.
