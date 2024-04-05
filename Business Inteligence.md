@@ -63,4 +63,7 @@ A linguagem de consulta SQL (Structured Query Language) é muito utilizada para 
 
 ### OLAP (Processamento Analítico On-Line)
 
-É a capacidade de manipular e analisar um grande volume dos dados através de múltiplas perspectivas e assim monitorar os fatos e indicadores mais relevantes da
+É a capacidade de manipular e analisar um grande volume dos dados através de múltiplas perspectivas e assim monitorar os fatos e indicadores mais relevantes da organização, por meio dos painéis de controle e relatórios executivos desenvolvidos para facilitar a visualização, o entendimento dos fatos e a tomada de decisões. Utiliza técnicas específicas como ranking, comparações, pivot tables, drill down e roll up, slice e dice, entre outras.
+
+**Os cubos em OLAP podem ser implementados de quatro formas diferentes:**
+
