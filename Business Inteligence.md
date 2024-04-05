@@ -56,3 +56,11 @@ Extract Transform Load (Extração Transformação Carga) é o processo de extra
 • **Carga** – Inserção dos dados transformados na SA em bases de dados do DW.
 
 ## <span style="color:#ffc000">Análise de Dados</span>
+
+### SQL
+
+A linguagem de consulta SQL (Structured Query Language) é muito utilizada para extrair de um banco de dados todas as tuplas que atendem a um conjunto específico de critérios utilizados na consulta.
+
+### OLAP (Processamento Analítico On-Line)
+
+É a capacidade de manipular e analisar um grande volume dos dados através de múltiplas perspectivas e assim monitorar os fatos e indicadores mais relevantes da
