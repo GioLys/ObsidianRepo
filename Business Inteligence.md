@@ -11,3 +11,4 @@ Por sua vez, <span style="color:#92d050">Business Analytics está focado em ajud
 
 ## <span style="color:#ffc000">Composição de um BI</span>
 
+![[Pasted image 20240405151412.png]]
