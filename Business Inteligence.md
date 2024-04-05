@@ -54,3 +54,5 @@ Extract Transform Load (Extração Transformação Carga) é o processo de extra
 • **Transformação** – Limpeza dos dados extraídos, aplicação das regras de negócio e validação dos dados na SA como preparação para carga.
 
 • **Carga** – Inserção dos dados transformados na SA em bases de dados do DW.
+
+## <span style="color:#ffc000">Análise de Dados</span>
