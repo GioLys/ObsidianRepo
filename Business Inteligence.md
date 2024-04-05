@@ -39,4 +39,7 @@ Inmon, considerado o pai do Data Warehouse, define DW como um conjunto de dados 
   
 Data Marts são subconjuntos dos dados corporativos, focados em assuntos específicos e de valor para um departamento, unidade corporativa ou conjunto de usuários. Geralmente são considerados como parte de um Data Warehouse e definidos pelo escopo funcional que atendem, não pelo tamanho. São uma evolução dos conceitos do Data Warehousing, permitindo a construção mais rápida e direcionada de soluções analíticas. Na metodologia de construção de Data Warehouses, abordagens como Top-Down (Inmon) e Bottom-Up (Kimball) diferem na abordagem de desenvolvimento. Kimball defende a construção incremental a partir de Data Marts, enquanto Inmon preconiza a construção do Data Warehouse como um todo primeiro. A abordagem de Kimball é mais aceita atualmente devido ao tempo de construção menor e retorno de investimento mais rápido.
 
-## <span style="color:#ffc000">Proce</span>
+## <span style="color:#ffc000">Processamento do BI</span>
+
+![[Pasted image 20240405165634.png]]
+
