@@ -322,4 +322,6 @@ Existem diferentes tipos de amostras, cada uma adequada para diferentes propósi
 
 ## <span style="color:#ffc000">Teorema do limite central</span>
 
+O Teorema do Limite Central é um dos resultados mais fundamentais da teoria estatística e desempenha um papel crucial em muitas áreas, incluindo inferência estatística e análise de dados. Este teorema afirma que, sob certas condições, a distribuição de médias amostrais de uma população qualquer tende a se aproximar de uma distribuição normal, à medida que o tamanho da amostra aumenta, independentemente da distribuição da população original.
 
+Em outras palavras, mesmo que a população original não siga uma distribuição normal, a média das amostras de tamanho suficientemente grande extraídas dessa população se aproximará de uma distribuição normal.
