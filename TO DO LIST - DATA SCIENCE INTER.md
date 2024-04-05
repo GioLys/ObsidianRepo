@@ -1,5 +1,8 @@
 **Tópicos de estudo para o Programa de Estágio - Inter:**
 
+JIRA
+KAFKA
+
 <span style="font-weight:bold; color:#ffc000">Ferramentas</span>
 
 - [x] SQL
