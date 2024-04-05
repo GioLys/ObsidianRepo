@@ -45,14 +45,12 @@ Data Marts são subconjuntos dos dados corporativos, focados em assuntos especí
 
 ## <span style="color:#ffc000">Modelagem de Dados</span>
 
-**ETL**
+### ETL
 
 Extract Transform Load (Extração Transformação Carga) é o processo de extração, transformação e carga dos dados, oriundos das fontes diversas, em modelos dimensionais no DW, para que os usuários finais possam realizar consultas e tomar decisões.
 
-• Extração – Obtenção dos dados brutos, das fontes internas e externas para a
-SA e para o ODS (quando existente).
-No exemplo que utilizamos anteriormente, este passo será o responsável por
-buscar o valor de cada item da NF.
-• Transformação – Limpeza dos dados extraídos, aplicação das regras de
-negócio e validação dos dados na SA como preparação para carga.
-• Carga – Inserção dos dados transformados na SA em bases de dados do DW.
+• **Extração** – Obtenção dos dados brutos, das fontes internas e externas para a SA e para o ODS (quando existente). No exemplo que utilizamos anteriormente, este passo será o responsável por buscar o valor de cada item da NF.
+
+• **Transformação** – Limpeza dos dados extraídos, aplicação das regras de negócio e validação dos dados na SA como preparação para carga.
+
+• **Carga** – Inserção dos dados transformados na SA em bases de dados do DW.
