@@ -67,3 +67,12 @@ A linguagem de consulta SQL (Structured Query Language) é muito utilizada para 
 
 **Os cubos em OLAP podem ser implementados de quatro formas diferentes:**
 
+• **ROLAP (Relational On-Line Analytical Processing):** Os dados são armazenados em banco de dados relacionais e cada ação de Slice/Dice é equivalente a adicionar uma condição na cláusula WHERE em uma query SQL. Implementação contida nas figuras deste documento.
+
+• MOLAP (Multidimensional On-Line Analytical Processing): Os dados são armazenados em cubos dimensionais, em formatos proprietários das ferramentas, e não em banco de dados relacionais. O usuário monta os cubos e manipula os dados diretamente no servidor OLAP.
+
+• HOLAP (Hybrid On-Line Analytical Processing): Combina as vantagens de MOLAP e ROLAP. Para informações do tipo síntese, HOLAP utiliza cubos dimensionais para um retorno do resultado mais rápido. Quando a análise requer mais informação, o HOLAP pode complementar o cubo multidimensional buscando dados no banco de dados relacional.
+
+• DOLAP (Desktop On-Line Analytical Processing): Ferramentas que disparam
+uma consulta de uma estação cliente para o servidor, que por sua vez retorna
+enviando um cubo de volta, para que possa ser analisado pelo usuário.
