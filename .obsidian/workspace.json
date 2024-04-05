@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Modelagem de Dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a699e93b32ed4858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Inteligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Business Inteligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Business Inteligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Business Inteligence.md"
               }
             }
           },
@@ -154,15 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0257eaaffb99d8a",
+  "active": "a699e93b32ed4858",
   "lastOpenFiles": [
+    "Modelagem de Dados.md",
+    "Business Inteligence.md",
+    "TO DO LIST - DATA SCIENCE INTER.md",
     "src/Pasted image 20240403151206.png",
     "python/Estatística com Python - probabilidade e amostragem.md",
     "python/Estatística com Python - frequências e medidas.md",
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "Data Lakehouse.md",
     "src/Pasted image 20240403151625.png",
-    "Modelagem de Dados.md",
     "src/Pasted image 20240402115419.png",
     "src/Pasted image 20240402181352.png",
     "src/Pasted image 20240402180644.png",
