@@ -43,3 +43,4 @@ Data Marts são subconjuntos dos dados corporativos, focados em assuntos especí
 
 ![[Pasted image 20240405165634.png]]
 
+## <span style="color:#ffc000">Processamento do BI</span>
