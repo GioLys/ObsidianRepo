@@ -65,14 +65,20 @@ A linguagem de consulta SQL (Structured Query Language) é muito utilizada para 
 
 É a capacidade de manipular e analisar um grande volume dos dados através de múltiplas perspectivas e assim monitorar os fatos e indicadores mais relevantes da organização, por meio dos painéis de controle e relatórios executivos desenvolvidos para facilitar a visualização, o entendimento dos fatos e a tomada de decisões. Utiliza técnicas específicas como ranking, comparações, pivot tables, drill down e roll up, slice e dice, entre outras.
 
-**Os cubos em OLAP podem ser implementados de quatro formas diferentes:**
+<span style="color:#92d050">Os cubos em OLAP podem ser implementados de quatro formas diferentes:</span>
 
 • **ROLAP (Relational On-Line Analytical Processing):** Os dados são armazenados em banco de dados relacionais e cada ação de Slice/Dice é equivalente a adicionar uma condição na cláusula WHERE em uma query SQL. Implementação contida nas figuras deste documento.
 
-• MOLAP (Multidimensional On-Line Analytical Processing): Os dados são armazenados em cubos dimensionais, em formatos proprietários das ferramentas, e não em banco de dados relacionais. O usuário monta os cubos e manipula os dados diretamente no servidor OLAP.
+• **MOLAP (Multidimensional On-Line Analytical Processing):** Os dados são armazenados em cubos dimensionais, em formatos proprietários das ferramentas, e não em banco de dados relacionais. O usuário monta os cubos e manipula os dados diretamente no servidor OLAP.
 
-• HOLAP (Hybrid On-Line Analytical Processing): Combina as vantagens de MOLAP e ROLAP. Para informações do tipo síntese, HOLAP utiliza cubos dimensionais para um retorno do resultado mais rápido. Quando a análise requer mais informação, o HOLAP pode complementar o cubo multidimensional buscando dados no banco de dados relacional.
+• **HOLAP (Hybrid On-Line Analytical Processing):** Combina as vantagens de MOLAP e ROLAP. Para informações do tipo síntese, HOLAP utiliza cubos dimensionais para um retorno do resultado mais rápido. Quando a análise requer mais informação, o HOLAP pode complementar o cubo multidimensional buscando dados no banco de dados relacional.
 
-• DOLAP (Desktop On-Line Analytical Processing): Ferramentas que disparam
+• **DOLAP (Desktop On-Line Analytical Processing):** Ferramentas que disparam
 uma consulta de uma estação cliente para o servidor, que por sua vez retorna
 enviando um cubo de volta, para que possa ser analisado pelo usuário.
+
+### Data Mining
+
+Esta é uma técnica de análise para fazer descobertas automáticas sobre padrões ocultos e relacionamentos desconhecidos de similaridade ou discordância entre dados, dentro de um grande volume de dados.
+
+O Data Mining utiliza algoritmos complexos e técnicas de inteligência artificial para fazer tais descobertas e transformá-las em informações úteis para a tomada de decisão e/ou avaliação de resultados. Atualmente, um emprego muito comum desta técnica é seu uso na prevenção de fraude, segmentação de clientes e previsão de comportamento.
