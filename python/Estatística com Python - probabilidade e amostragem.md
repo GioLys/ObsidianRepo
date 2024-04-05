@@ -320,5 +320,4 @@ Existem diferentes tipos de amostras, cada uma adequada para diferentes propósi
     
 6. **Amostra por Cotas**: A população é dividida em grupos com características específicas (quotas) e, em seguida, os elementos são selecionados de cada grupo até que a cota seja preenchida. Isso é frequentemente usado em pesquisas de opinião e pesquisa de mercado.
 
-### Amostra Aleatória Simples
-
+## <span style="color:#ffc000">Teorema do limit</span>
