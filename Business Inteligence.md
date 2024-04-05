@@ -18,3 +18,9 @@ Por sua vez, <span style="color:#92d050">Business Analytics está focado em ajud
 **Fontes OLTP**
   
 OLTP processa dados em sistemas informáticos, focado em operações CRUD. Não é voltado para BI, mas é uma fonte importante de dados para ele. BI inclui análise de mercado, perfis de clientes, resultados de campanhas, rentabilidade e risco. Fontes de dados incluem ERP, CRM, CMS, SCM, planilhas, arquivos e sistemas departamentais.
+
+**Fontes Externas**
+
+Dados externos são dados que não podem ser encontrados nos sistemas OLTP, mas são necessários e importantes para melhorar a qualidade das informações geradas pelo BI. Exemplos, pesquisas sobre o mercado, informações sobre ações na bolsa, informações vindas do cadastro positivo etc.
+
+**Staging Area (SA)**
