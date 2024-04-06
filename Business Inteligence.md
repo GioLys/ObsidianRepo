@@ -197,3 +197,5 @@ Um projeto de software CRM, considerado como bem-sucedido, gera uma visão clara
 
 > Atualmente, considera-se um novo tipo de CRM ainda não muito bem documentado ou estabelecido, intitulado CRM Social que retrata o relacionamento com o cliente através das mídias sociais, incluindo dados disponibilizados pelos próprios clientes em seus perfis.
 
+
+## <span style="color:#ffc000">CRM - Customer Relationship Management</span>
