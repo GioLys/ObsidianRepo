@@ -113,3 +113,5 @@ estratégia ERP. Essas organizações podem obter benefícios da integração en
 • Possibilita a gestão integrada do negócio.
 • Provê a capacidade de planejar a operação.
 
+![[Pasted image 20240406002323.png]]
+
