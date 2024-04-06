@@ -259,6 +259,9 @@ Tabelas dimensionais não são normalizadas e são constituídas por atributos q
 
 **Surrogate Keys:**
 
+Sk ou Surrogate key é uma chave substituta para a chave primária natural dos dados de origem. Uma sk deve ser um identificador único, numérico do tipo inteiro e sequencial, gerado para cada linha de uma entidade dimensional. Em geral, a primeira linha deve ser preenchida com o valor 1, a segunda com o valor 2 e assim por diante.
 
+**Natural Keys:**
 
+Note que as chaves naturais não foram descartadas, elas são trazidas durante a carga, em conjunto com os demais campos das dimensões e recebem o sufixo nk. As chaves naturais são importantes, pois possibilitam a rastreabilidade entre origem e destino dos dados, bem como, podem ser usadas como filtros, quando reconhecidas pelo usuário que se acostumou a pesquisá-las no sistema OLTP de origem.
 
