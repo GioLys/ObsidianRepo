@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Business Inteligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Business Inteligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Business Inteligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Business Inteligence.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "a699e93b32ed4858",
   "lastOpenFiles": [
+    "TO DO LIST - DATA SCIENCE INTER.md",
     "Business Inteligence.md",
     "Pasted image 20240405233917.png",
     "src/Pasted image 20240405151343.png",
     "src/Pasted image 20240405165634.png",
     "src/Pasted image 20240405151412.png",
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "Modelagem de Dados.md",
     "src/Pasted image 20240403151206.png",
     "python/Estatística com Python - probabilidade e amostragem.md",
