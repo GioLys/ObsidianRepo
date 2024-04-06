@@ -161,11 +161,10 @@ Já a customização, como comentamos, pode ser muito problemática e custosa. U
 
 É um sistema simples e prático que auxilia uma empresa a adotar uma posição estratégica em um determinado ambiente.
 
-**Exemplo:**
-
+**Exemplo: Desenvolver um ERP caseiro**
 
 | <span style="color:#ffff00">Superação tecnológica<br>Riscos na sustentação de novos negócios<br>ou novos requisitos<br>Pouca visão sobre as práticas do mercado<br>Dependência de treinamentos específicos<br>para colaboradores</span><br><br><br><br><br> | <span style="color:#ff0000">Adequação plena às necessidades da<br>empresa<br>Liberdade de criação e de diferenciação<br>(possível vantagem competitiva)</span> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Custos mais baixos<br>Software sob medida, customização plena                                                                                                                                                                                               | <span style="color:#ffc000">Dependência de equipe de<br>desenvolvimento interna ou terceirizada<br>Risco de processos desalinhados com o<br>mercado ou com imposições legais</span>               |
+| <span style="color:#92d050">Custos mais baixos<br>Software sob medida, customização plena</span><br>                                                                                                                                                        | <span style="color:#ffc000">Dependência de equipe de<br>desenvolvimento interna ou terceirizada<br>Risco de processos desalinhados com o<br>mercado ou com imposições legais</span>               |
 
 
