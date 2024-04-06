@@ -275,5 +275,7 @@ Com os nossos olhos novamente sobre o modelo, podemos identificar um atributo qu
 
 O sufixo corresponde ao conceito de Dimensão Degenerada, que, de forma simplificada, é uma dimensão que não possui atributos descritivos relevantes para análise, apenas uma chave natural, absorvida pela tabela Fato.
 
-#### Keys:
+#### Star Schema, Cubes, OLAP, ROLAP e MOLAP
+
+OLAP (Processamento Analítico On-Line) é a capacidade de manipular e analisar um grande volume de dados através de múltiplas perspectivas e, assim, monitorar os fatos e indicadores mais relevantes da organização para a tomada de decisões.
 
