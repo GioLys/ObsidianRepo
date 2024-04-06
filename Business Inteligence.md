@@ -120,3 +120,17 @@ estratégia ERP. Essas organizações podem obter benefícios da integração en
 O ERP pode melhorar a qualidade e eficiência do negócio ao manter os processos de negócios de uma empresa funcionando de maneira segura, integrada e monitorada. O ERP oferece suporte ao gerenciamento ágil, fornecendo informações praticamente em tempo real, para a tomada de decisões.
 
 Como um dos principais pilares de um ERP é uma <span style="color:#92d050">base de dados comum</span>, essas soluções oferecem maiores oportunidades de colaboração. Dados, documentos, formulários, áudio e vídeo podem ser armazenados e compartilhados e em alguns casos, através de mecanismos específicos de colaboração.
+
+**Podemos elencar como algumas vantagens do uso de um ERP:**
+
+- Otimização dos processos operacionais e administrativos.
+- Redistribuição de funções.
+- Redução do estoque e de custos.
+- Integração e maior colaboração entre as áreas.
+- Redução de retrabalhos.
+- Monitoramento das operações do início ao fim.
+- Geração de informações para tomada de decisões.
+- Aumento da agilidade na tomada de decisões.
+- Segurança dos dados.
+- Solução flexível (novos módulos podem ser adquiridos).
+- Aquisição de conhecimento sobre as “Boas Práticas” do segmento.
