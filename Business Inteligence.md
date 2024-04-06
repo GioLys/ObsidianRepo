@@ -83,4 +83,6 @@ Esta é uma técnica de análise para fazer descobertas automáticas sobre padr�
 
 O Data Mining utiliza algoritmos complexos e técnicas de inteligência artificial para fazer tais descobertas e transformá-las em informações úteis para a tomada de decisão e/ou avaliação de resultados. Atualmente, um emprego muito comum desta técnica é seu uso na prevenção de fraude, segmentação de clientes e previsão de comportamento.
 
-## <span style="color:#ffc000">Análise de Dados</span>
+## <span style="color:#ffc000">ERP - Enterprise Resource Planning</span>
+
+A sigla ERP significa “Planejamento de Recursos Empresariais”. Um ERP (Enterprise Resource Planning) é um sistema modular, integrado através de um banco de dados comum. Os módulos atendem praticamente todas as áreas e departamentos de uma empresa, de forma que um único evento que tenha dado origem à execução de um processo de um departamento, seja trabalhado pelas demais áreas que tenham alguma responsabilidade paralela ou sequencial sobre ele.
