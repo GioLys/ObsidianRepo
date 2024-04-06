@@ -236,3 +236,6 @@ Na maioria dos casos, as medidas, também conhecidas como métricas são aditiva
 
 3) **Dimensões:**
 
+São tabelas que fornecem a base para filtramos e analisarmos as medidas da tabela Fato, permitindo a visualização por aspectos diferentes.
+
+As dimensões normalmente respondem às questões do tipo “Quem?”, “O quê?”, “Quando?”, “Onde?” e “Por quê?”. Elas são os parâmetros ou filtros sobre os quais queremos realizar Online Analytical Processing (OLAP). Por exemplo, <span style="color:#92d050">em um modelo dimensional para a análise de vendas, dimensões comuns são: data, produto, cliente, loja, promoção, vendedor.</span> 
