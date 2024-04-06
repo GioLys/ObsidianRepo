@@ -159,3 +159,7 @@ Já a customização, como comentamos, pode ser muito problemática e custosa. U
 <span style="color:#ff0000">Opportunities (Oportunidades)</span>
 <span style="color:#ffff00">Threats (Ameaças)</span> 
 
+É um sistema simples e prático que auxilia uma empresa a adotar uma posição estratégica em um determinado ambiente.
+
+**Exemplo:**
+
