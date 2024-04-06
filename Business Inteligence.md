@@ -267,5 +267,5 @@ Note que as chaves naturais não foram descartadas, elas são trazidas durante a
 
 **Smart Keys:**
 
-Voltando a nossa atenção para a consulta feita na dimensão Data, podemos perceber outra característica diferente, note que o valor da chave primária é formado
+Voltando a nossa atenção para a consulta feita na dimensão Data, podemos perceber outra característica diferente, note que o valor da chave primária é formado pela própria data invertida. Esse é um exemplo de chave inteligente, pois ela garante unicidade e ainda aporta um significado real, a própria data a que a linha da tabela corresponde.
 
