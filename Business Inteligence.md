@@ -116,3 +116,7 @@ estratégia ERP. Essas organizações podem obter benefícios da integração en
 ![[Pasted image 20240406002323.png]]
 
 ### Vantagens com a implementação do ERP
+
+O ERP pode melhorar a qualidade e eficiência do negócio ao manter os processos de negócios de uma empresa funcionando de maneira segura, integrada e monitorada. O ERP oferece suporte ao gerenciamento ágil, fornecendo informações praticamente em tempo real, para a tomada de decisões.
+
+Como um dos principais pilares de um ERP é uma <span style="color:#92d050">base de dados comum</span>, essas soluções oferecem maiores oportunidades de colaboração. Dados, documentos, formulários, áudio e vídeo podem ser armazenados e compartilhados e em alguns casos, através de mecanismos específicos de colaboração.
