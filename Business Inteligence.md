@@ -255,3 +255,5 @@ Tabelas dimensionais não são normalizadas e são constituídas por atributos q
 
 ![[Pasted image 20240406174713.png]]
 
+<span style="color:#92d050">Surrogate Key é a substituta da chave primária no modelo dimensional</span> 
+
