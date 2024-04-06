@@ -102,7 +102,8 @@ Se concentra nos aspectos administrativos do ERP, principalmente financeiros, ge
 As organizações que realizam fabricação, distribuição, varejo etc. (referidas como indústrias centradas em produtos) muito provavelmente estenderão sua estratégia de adoção de um ERP para além das funções administrativas, cobrindo áreas operacionais, como gerenciamento de pedidos, fabricação e cadeia de suprimentos, para maximizar a eficiência operacional. Além disso, organizações com recursos intensivos podem incluir operações e manutenção de ativos em sua
 estratégia ERP. Essas organizações podem obter benefícios da integração entre as capacidades administrativas e operacionais, por exemplo, onde as transações operacionais que têm impacto financeiro são refletidas e administradas diretamente nos módulos financeiros.
 
-Podemos citar como características de um ERP:
+**Podemos citar como características de um ERP:**
+
 • Um sistema integrado e parametrizável que opera em tempo real ou próximo.
 • Possui banco de dados comum que oferece suporte e integração a todos os módulos.
 • Oferta uma aparência (UX) consistente em todos os módulos.
