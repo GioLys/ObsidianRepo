@@ -226,4 +226,4 @@ Fato é uma <span style="color:#92d050">coleção de dados relacionados que repr
 
 Como exemplo, em um modelo que abrange o processo de Vendas, a tabela Fato pode receber o nome de FATO_VENDAS e deve possuir em cada linha, um item de uma venda, armazenado principalmente em atributos numéricos conhecidos como medidas. Neste exemplo, o item de venda é chamado de grão.
 
-Segundo Kimball (2011), definir o grão é o passo fundamental de um design dimensional. O grão deve estabelecer exatamente o nível de detalhe que será armazenado em uma linha da Tabela Fato. Portanto, o grão deve ser definido antes de escolhermos as dimensões e deve ser o mais atômico possível (Falaremos sobre grão mais à frente).
+Segundo Kimball (2011), definir o grão é o passo fundamental de um design dimensional. <span style="color:#92d050">O grão deve estabelecer exatamente o nível de detalhe que será armazenado em uma linha da Tabela Fato.</span> Portanto, o grão deve ser definido antes de escolhermos as dimensões e deve ser o mais atômico possível (Falaremos sobre grão mais à frente).
