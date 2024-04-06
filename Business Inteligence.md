@@ -86,3 +86,8 @@ O Data Mining utiliza algoritmos complexos e técnicas de inteligência artifici
 ## <span style="color:#ffc000">ERP - Enterprise Resource Planning</span>
 
 A sigla ERP significa “Planejamento de Recursos Empresariais”. Um ERP (Enterprise Resource Planning) é um sistema modular, integrado através de um banco de dados comum. Os módulos atendem praticamente todas as áreas e departamentos de uma empresa, de forma que um único evento que tenha dado origem à execução de um processo de um departamento, seja trabalhado pelas demais áreas que tenham alguma responsabilidade paralela ou sequencial sobre ele.
+
+![[Pasted image 20240405233917.png]]
+
+### Características e Módulos Principais de um ERP
+
