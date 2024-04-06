@@ -143,5 +143,11 @@ levantamento, documentação e treinamentos, geralmente criando restrições por
 Já a customização, como comentamos, pode ser muito problemática e custosa. Um ERP personalizado custa mais caro e, certamente, custará muito mais caro do que soluções sob medida, menos integradas e menos abrangentes.
 
 **Podemos elencar como algumas desvantagens do uso de um ERP:**
-• Custos elevados (hardware, infraestrutura, licença de software, treinamento e consultoria).
-• Alteração nos processos funcionais para adequação às boas práticas.
+
+- Custos elevados (hardware, infraestrutura, licença de software, treinamento e consultoria).
+- Alteração nos processos funcionais para adequação às boas práticas.
+- Possível perda de capacidade criativa e vantagens competitivas.
+- Impactos sobre os colaboradores.
+- Impacto de customizações (quando necessárias).
+- Projeto de implementação complexo.
+- Problemas no cumprimento de prazos.
