@@ -211,3 +211,6 @@ Inmon, considerado o pai do Data Warehouse, define DW como um conjunto de dados 
 - Orientado ao assunto: possui dados que fornecem informações sobre um assunto específico em vez de fazê-lo sobre as operações em curso de uma empresa.
 
 A <span style="color:#92d050">Modelagem de Dados</span> é, por necessidade, parte fundamental da estrutura e do processamento de uma solução DW, pois o modelo deve ser capaz de comportar o armazenamento de todos os dados relevantes, para apoio à tomada de decisões, bem como, prover alto desempenho de acesso, requisito fundamental para processamentos analíticos complexos.
+
+### Sobre o Modelo Dimensional:
+
