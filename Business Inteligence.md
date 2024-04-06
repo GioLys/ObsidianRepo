@@ -275,3 +275,5 @@ Com os nossos olhos novamente sobre o modelo, podemos identificar um atributo qu
 
 O sufixo corresponde ao conceito de Dimensão Degenerada, que, de forma simplificada, é uma dimensão que não possui atributos descritivos relevantes para análise, apenas uma chave natural, absorvida pela tabela Fato.
 
+#### Keys:
+
