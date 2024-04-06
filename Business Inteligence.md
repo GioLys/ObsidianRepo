@@ -167,4 +167,4 @@ Já a customização, como comentamos, pode ser muito problemática e custosa. U
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <span style="color:#92d050">Custos mais baixos<br>Software sob medida, customização plena</span><br>                                                                                                                                                        | <span style="color:#ffc000">Dependência de equipe de<br>desenvolvimento interna ou terceirizada<br>Risco de processos desalinhados com o<br>mercado ou com imposições legais</span>               |
 
-
+## <span style="color:#ffc000">CRM - </span>
