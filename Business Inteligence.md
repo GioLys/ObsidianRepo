@@ -214,4 +214,6 @@ A <span style="color:#92d050">Modelagem de Dados</span> é, por necessidade, par
 
 ### Sobre o Modelo Dimensional:
 
-A abordagem dimensional tem como objetivos criar bancos de dados para suporte a decisão que apresentem os dados de uma maneira padronizada, intuitiva e quepermitam acesso de alto desempenho.
+A abordagem dimensional tem como objetivos criar bancos de dados para suporte a decisão que apresentem os dados de uma maneira padronizada, intuitiva e que permitam acesso de alto desempenho.
+
+A modelagem dimensional é amplamente aceita como abordagem preferida em soluções DW, porque atende dois requisitos importantes: a entrega de dados compreensíveis para os usuários; e a provisão de desempenho em consultas.
