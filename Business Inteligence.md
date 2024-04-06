@@ -154,7 +154,8 @@ Já a customização, como comentamos, pode ser muito problemática e custosa. U
 
 ### SWOT como Ferramenta de Decisão
 
-SWOT ou Strengths (Forças)
-Weaknesses (Fraquezas)
-Opportunities (Oportunidades)
-Threats (Ameaças)
+<span style="color:#92d050">Strengths (Forças)</span>
+<span style="color:#ffc000">Weaknesses (Fraquezas)</span>
+<span style="color:#ff0000">Opportunities (Oportunidades)</span>
+<span style="color:#ffff00">Threats (Ameaças)</span> 
+
