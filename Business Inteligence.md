@@ -134,3 +134,6 @@ Como um dos principais pilares de um ERP é uma <span style="color:#92d050">base
 - Segurança dos dados.
 - Solução flexível (novos módulos podem ser adquiridos).
 - Aquisição de conhecimento sobre as “Boas Práticas” do segmento.
+
+### Desvantagens com a implementação do ERP
+
