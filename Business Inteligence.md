@@ -214,3 +214,4 @@ A <span style="color:#92d050">Modelagem de Dados</span> é, por necessidade, par
 
 ### Sobre o Modelo Dimensional:
 
+A abordagem dimensional tem como objetivos criar bancos de dados para suporte a decisão que apresentem os dados de uma maneira padronizada, intuitiva e quepermitam acesso de alto desempenho.
