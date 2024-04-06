@@ -176,17 +176,15 @@ Um projeto de software CRM, considerado como bem-sucedido, gera uma visão clara
 
 **Os maiores esforços devem se centrar em três tópicos:**
 
-• Automatizar a gestão de marketing.
-• Automatizar a gestão comercial, de canais e de força de vendas.
-• Automatizar a gestão de serviços aos clientes.
-Nesse contexto, as seguintes características de um software CRM são
-destacadas, por uma das principais empresas fornecedoras de CRM no mundo:
-• Capacidade de rastrear ativamente e gerenciar as informações dos clientes.
-• Capacidade de conectar toda a sua equipe em qualquer dispositivo.
-• Consegue capturar informações de forma inteligente dos e-mails dos
-clientes.
-• É capaz de simplificar tarefas repetitivas para que a empresa possa fazer
-um acompanhamento de leads mais efetivo.
-• Deve fornecer recomendações e insights instantâneos.
-• Deve ser capaz de expandir e se personalizar, conforme o crescimento da
-empresa.
+- Automatizar a gestão de marketing.
+- Automatizar a gestão comercial, de canais e de força de vendas.
+- Automatizar a gestão de serviços aos clientes.
+
+**Nesse contexto, as seguintes características de um software CRM são destacadas, por uma das principais empresas fornecedoras de CRM no mundo:**
+
+- Capacidade de rastrear ativamente e gerenciar as informações dos clientes.
+- Capacidade de conectar toda a sua equipe em qualquer dispositivo.
+- Consegue capturar informações de forma inteligente dos e-mails dos clientes.
+- É capaz de simplificar tarefas repetitivas para que a empresa possa fazer um acompanhamento de leads mais efetivo.
+- Deve fornecer recomendações e insights instantâneos.
+- Deve ser capaz de expandir e se personalizar, conforme o crescimento da empresa.
