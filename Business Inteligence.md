@@ -265,3 +265,7 @@ Sk ou Surrogate key é uma chave substituta para a chave primária natural dos d
 
 Note que as chaves naturais não foram descartadas, elas são trazidas durante a carga, em conjunto com os demais campos das dimensões e recebem o sufixo nk. As chaves naturais são importantes, pois possibilitam a rastreabilidade entre origem e destino dos dados, bem como, podem ser usadas como filtros, quando reconhecidas pelo usuário que se acostumou a pesquisá-las no sistema OLTP de origem.
 
+**Smart Keys:**
+
+Voltando a nossa atenção para a consulta feita na dimensão Data, podemos perceber outra característica diferente, note que o valor da chave primária é formado
+
