@@ -169,7 +169,5 @@ Já a customização, como comentamos, pode ser muito problemática e custosa. U
 
 ## <span style="color:#ffc000">CRM - Customer Relationship Management</span>
 
-É um sistema
-integrado de gestão com foco no cliente, constituído por um conjunto de
-procedimentos, processos e estratégias, organizados e integrados em um modelo de
-gestão.
+É um sistema integrado de gestão com foco no cliente, constituído por um conjunto de
+procedimentos, processos e estratégias, organizados e integrados em um modelo de gestão.
