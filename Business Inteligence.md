@@ -194,3 +194,6 @@ Um projeto de software CRM, considerado como bem-sucedido, gera uma visão clara
 - CRM Operacional: visa à criação de canais de relacionamento com o cliente.
 - CRM Analítico: visa obter uma visão consistente do cliente, usando os dados recolhidos pelo CRM operacional para obter conhecimento que permita otimizar e gerar negócios.
 - CRM Colaborativo: foca na obtenção do valor do cliente por meio de colaboração inteligente, baseada em conhecimento.
+
+> Atualmente, considera-se um novo tipo de CRM ainda não muito bem documentado ou estabelecido, intitulado CRM Social que retrata o relacionamento com o cliente através das mídias sociais, incluindo dados disponibilizados pelos próprios clientes em seus perfis.
+
