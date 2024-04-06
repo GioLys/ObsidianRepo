@@ -233,3 +233,6 @@ Segundo Kimball (2011), definir o grão é o passo fundamental de um design dime
 <span style="color:#92d050">Uma medida é um atributo numérico de um fato.</span> Por exemplo, em um processo de Vendas, cada item vendido deve ser armazenado em uma linha na tabela Fato e as medidas comuns para esse evento de negócio são: a quantidade vendida, o preço unitário, o custo unitário, o desconto concedido, o valor total, o custo total, o desconto total, o lucro bruto, o valor de imposto, entre outros.
 
 Na maioria dos casos, as medidas, também conhecidas como métricas são aditivas, ou seja, nelas podem ser aplicadas as operações de soma, subtração e média, cruzando-se a seleção por qualquer dimensão.
+
+3) **Dimensões:**
+
