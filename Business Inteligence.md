@@ -239,3 +239,11 @@ Na maioria dos casos, as medidas, também conhecidas como métricas são aditiva
 São tabelas que fornecem a base para filtramos e analisarmos as medidas da tabela Fato, permitindo a visualização por aspectos diferentes.
 
 As dimensões normalmente respondem às questões do tipo “Quem?”, “O quê?”, “Quando?”, “Onde?” e “Por quê?”. Elas são os parâmetros ou filtros sobre os quais queremos realizar Online Analytical Processing (OLAP). Por exemplo, <span style="color:#92d050">em um modelo dimensional para a análise de vendas, dimensões comuns são: data, produto, cliente, loja, promoção, vendedor.</span> 
+
+Tabelas dimensionais não são normalizadas e são constituídas por atributos que podem ser arranjados em hierarquias. Uma hierarquia, quando aplicada em uma dimensão, se prevalece da não normalização para facilitar a vida do usuário, que, por natureza, está acostumado com o conceito de agrupamento hierárquico.
+
+<span style="color:#ffff00">Dois exemplos muito comuns são hierarquias de datas e endereços:</span>
+
+- Datas: ano, semestre, trimestre, bimestre, mês, semana e dia da semana.
+- Endereço: região, estado, cidade, zona, bairro e endereço.
+
