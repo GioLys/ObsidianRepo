@@ -247,3 +247,6 @@ Tabelas dimensionais não são normalizadas e são constituídas por atributos q
 - Datas: ano, semestre, trimestre, bimestre, mês, semana e dia da semana.
 - Endereço: região, estado, cidade, zona, bairro e endereço.
 
+Exemplo: Consulta da dimensão Data
+
+![[Pasted image 20240406174549.png]]
