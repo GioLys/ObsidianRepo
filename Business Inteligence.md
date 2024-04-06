@@ -282,3 +282,4 @@ O sufixo corresponde ao conceito de Dimensão Degenerada, que, de forma simplifi
 Modelos dimensionais implementados em SGDBs relacionais são conhecidos como modelos estrela, pela semelhança que vimos com o formato de uma estrela. Como o armazenamento dos dados é feito em um banco relacional, esse tipo de implementação leva o nome de <span style="color:#92d050">ROLAP (Relational On-Line Analytical Processing).</span>
 
 Os modelos dimensionais implementados em banco de dados multidimensionais são conhecidos como cubos <span style="color:#92d050">MOLAP (Multidimensional On-Line Analytical Processing).</span> 
+
