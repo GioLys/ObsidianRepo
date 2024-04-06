@@ -251,4 +251,7 @@ Tabelas dimensionais não são normalizadas e são constituídas por atributos q
 
 ![[Pasted image 20240406174549.png]]
 
-Exemplo de um modelo 
+<span style="color:#00b0f0">Exemplo de um modelo dimensional:</span>
+
+![[Pasted image 20240406174713.png]]
+
