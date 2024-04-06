@@ -200,4 +200,20 @@ Um projeto de software CRM, considerado como bem-sucedido, gera uma visão clara
 
 ## <span style="color:#ffc000">Modelagem de Dados - Modelagem Dimensional - Data Warehouse</span>
 
-Sobre o Data Warehouse:
+### Sobre o Data Warehouse:
+
+Inmon, considerado o pai do Data Warehouse, define DW como um conjunto de dados de apoio às decisões gerenciais, integrado, não volátil, variável em relação
+ao tempo e baseado em assuntos.
+• Integrado: os dados são coletados a partir de uma variedade de fontes e
+fundidos em um todo coerente.
+• Não volátil: nenhum dado pode ser alterado ou excluído no DW. Qualquer
+consulta a um dado relativo a um período de tempo sempre produzirá o
+mesmo resultado; nenhum dado será excluído enquanto não se tornar
+obsoleto para o negócio. Em soluções de BI específicas para alguns tipos
+de negócio, isso pode ocorrer.
+• Variável em relação ao tempo: todos os dados no data warehouse são
+identificados com um período de tempo particular. O DW é focado na
+manutenção do histórico.
+• Orientado ao assunto: possui dados que fornecem informações sobre um
+assunto específico em vez de fazê-lo sobre as operações em curso de
+uma empresa.
