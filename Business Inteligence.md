@@ -269,3 +269,11 @@ Note que as chaves naturais não foram descartadas, elas são trazidas durante a
 
 Voltando a nossa atenção para a consulta feita na dimensão Data, podemos perceber outra característica diferente, note que o valor da chave primária é formado pela própria data invertida. Esse é um exemplo de chave inteligente, pois ela garante unicidade e ainda aporta um significado real, a própria data a que a linha da tabela corresponde.
 
+### Dimensões degeneradas:
+
+Com os nossos olhos novamente sobre o modelo, podemos identificar um atributo que faz parte da chave composta da tabela Fato, não é uma FK dimensional
+e possui um sufixo diferente, dd.
+O sufixo corresponde ao conceito de Dimensão Degenerada, que, de forma
+simplificada, é uma dimensão que não possui atributos descritivos relevantes para
+análise, apenas uma chave natural, absorvida pela tabela Fato.
+
