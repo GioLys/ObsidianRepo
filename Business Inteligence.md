@@ -115,3 +115,4 @@ estratégia ERP. Essas organizações podem obter benefícios da integração en
 
 ![[Pasted image 20240406002323.png]]
 
+### Vantagens com a implementação do ERP
