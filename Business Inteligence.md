@@ -151,3 +151,10 @@ Já a customização, como comentamos, pode ser muito problemática e custosa. U
 - Impacto de customizações (quando necessárias).
 - Projeto de implementação complexo.
 - Problemas no cumprimento de prazos.
+
+### SWOT como Ferramenta de Decisão
+
+SWOT ou Strengths (Forças)
+Weaknesses (Fraquezas)
+Opportunities (Oportunidades)
+Threats (Ameaças)
