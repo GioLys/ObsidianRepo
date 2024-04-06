@@ -93,3 +93,14 @@ A sigla ERP significa “Planejamento de Recursos Empresariais”. Um ERP (Enter
 
 ### Características e Módulos Principais de um ERP
 
+**Estratégia administrativa:**
+
+Se concentra nos aspectos administrativos do ERP, principalmente financeiros, gerenciamento de capital humano e compras indiretas. Algumas indústrias não necessitam de recursos operacionais, tais como fabricação ou distribuição, de modo que elas devem concentrar a estratégia de emprego de um ERP nas funções administrativas são geralmente caracterizadas como indústrias centradas em serviços.
+
+Estratégia operacional:
+
+As organizações que realizam fabricação, distribuição, varejo etc. (referidas como indústrias centradas em produtos) muito provavelmente estenderão sua estratégia de adoção de um ERP para além das funções administrativas, cobrindo áreas operacionais, como gerenciamento de pedidos, fabricação e cadeia de suprimentos, para maximizar a eficiência operacional. Além disso, organizações com recursos intensivos podem incluir operações e manutenção de ativos em sua
+estratégia ERP. Essas organizações podem obter benefícios da integração entre as
+capacidades administrativas e operacionais, por exemplo, onde as transações
+operacionais que têm impacto financeiro são refletidas e administradas diretamente
+nos módulos financeiros.
