@@ -188,3 +188,9 @@ Um projeto de software CRM, considerado como bem-sucedido, gera uma visão clara
 - É capaz de simplificar tarefas repetitivas para que a empresa possa fazer um acompanhamento de leads mais efetivo.
 - Deve fornecer recomendações e insights instantâneos.
 - Deve ser capaz de expandir e se personalizar, conforme o crescimento da empresa.
+
+**Embora sejam processos eminentemente integrados, pode-se dividir logicamente o CRM em três aspectos fundamentais:**
+
+- CRM Operacional: visa à criação de canais de relacionamento com o cliente.
+- CRM Analítico: visa obter uma visão consistente do cliente, usando os dados recolhidos pelo CRM operacional para obter conhecimento que permita otimizar e gerar negócios.
+- CRM Colaborativo: foca na obtenção do valor do cliente por meio de colaboração inteligente, baseada em conhecimento.
