@@ -220,3 +220,10 @@ A modelagem dimensional é amplamente aceita como abordagem preferida em soluç�
 
 #### Conceitos Básicos:
 
+1) **Fato:**
+
+Fato é uma coleção de dados relacionados que representam um evento do negócio, usado em um DW ou DM para análise e tomada de decisões empresariais. Em um Data Warehouse ou Data Mart, cada fato é registrado em uma linha de uma tabela também chamada de Fato, que trata um processo específico do negócio.
+
+Como exemplo, em um modelo que abrange o processo de Vendas, a tabela Fato pode receber o nome de FATO_VENDAS e deve possuir em cada linha, um item de uma venda, armazenado principalmente em atributos numéricos conhecidos como medidas. Neste exemplo, o item de venda é chamado de grão.
+
+Segundo Kimball (2011), definir o grão é o passo fundamental de um design dimensional. O grão deve estabelecer exatamente o nível de detalhe que será armazenado em uma linha da Tabela Fato. Portanto, o grão deve ser definido antes de escolhermos as dimensões e deve ser o mais atômico possível (Falaremos sobre grão mais à frente).
