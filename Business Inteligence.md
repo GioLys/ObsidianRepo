@@ -209,3 +209,5 @@ Inmon, considerado o pai do Data Warehouse, define DW como um conjunto de dados 
 - mesmo resultado; nenhum dado será excluído enquanto não se tornar obsoleto para o negócio. Em soluções de BI específicas para alguns tipos de negócio, isso pode ocorrer.
 - Variável em relação ao tempo: todos os dados no data warehouse são identificados com um período de tempo particular. O DW é focado na manutenção do histórico.
 - Orientado ao assunto: possui dados que fornecem informações sobre um assunto específico em vez de fazê-lo sobre as operações em curso de uma empresa.
+
+A <span style="color:#92d050">Modelagem de Dados</span> é, por necessidade, parte fundamental da estrutura e do processamento de uma solução DW, pois o modelo deve ser capaz de comportar o armazenamento de todos os dados relevantes, para apoio à tomada de decisões, bem como, prover alto desempenho de acesso, requisito fundamental para processamentos analíticos complexos.
