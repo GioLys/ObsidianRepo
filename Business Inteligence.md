@@ -277,5 +277,5 @@ O sufixo corresponde ao conceito de Dimensão Degenerada, que, de forma simplifi
 
 #### Star Schema, Cubes, OLAP, ROLAP e MOLAP
 
-OLAP (Processamento Analítico On-Line) é a capacidade de manipular e analisar um grande volume de dados através de múltiplas perspectivas e, assim, monitorar os fatos e indicadores mais relevantes da organização para a tomada de decisões.
+<span style="color:#92d050">OLAP (Processamento Analítico On-Line)</span> é a capacidade de manipular e analisar um grande volume de dados através de múltiplas perspectivas e, assim, monitorar os fatos e indicadores mais relevantes da organização para a tomada de decisões.
 
