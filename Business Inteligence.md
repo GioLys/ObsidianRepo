@@ -137,3 +137,11 @@ Como um dos principais pilares de um ERP é uma <span style="color:#92d050">base
 
 ### Desvantagens com a implementação do ERP
 
+A reengenharia dos processos de negócios para se adequar ao ERP demandará esforços de
+levantamento, documentação e treinamentos, geralmente criando restrições por parte dos colaboradores e desviando o foco deles das atividades que desempenham.
+
+Já a customização, como comentamos, pode ser muito problemática e custosa. Um ERP personalizado custa mais caro e, certamente, custará muito mais caro do que soluções sob medida, menos integradas e menos abrangentes.
+
+**Podemos elencar como algumas desvantagens do uso de um ERP:**
+• Custos elevados (hardware, infraestrutura, licença de software, treinamento e consultoria).
+• Alteração nos processos funcionais para adequação às boas práticas.
