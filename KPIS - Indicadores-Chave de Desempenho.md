@@ -14,3 +14,8 @@ Ao analisar dados usando KPIs, as organizações podem entender melhor seu desem
 5. **Interpretação e Tomada de Decisão**: Depois que os KPIs forem calculados, os resultados devem ser interpretados para entender o desempenho atual em relação às metas estabelecidas. Com base nessa análise, as organizações podem tomar decisões informadas para melhorar o desempenho, identificar áreas de oportunidade ou corrigir problemas.
     
 6. **Monitoramento Contínuo**: A análise de dados usando KPIs é um processo contínuo. As organizações devem monitorar regularmente seus KPIs para acompanhar o progresso ao longo do tempo, ajustar estratégias conforme necessário e garantir que estejam no caminho certo para alcançar seus objetivos.
+
+## <span style="color:#ffff00">Tipos de KPI
+</span>
+
+
