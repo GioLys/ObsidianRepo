@@ -23,9 +23,11 @@
             "id": "a699e93b32ed4858",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "src/Pasted image 20240405233917.png"
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Pasted image 20240405233917.png",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Pasted image 20240405233917.png",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Pasted image 20240405233917.png"
+                "file": "TO DO LIST - DATA SCIENCE INTER.md"
               }
             }
           },
@@ -165,14 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9077e8dc45461cc1",
+  "active": "a699e93b32ed4858",
   "lastOpenFiles": [
+    "src/Pasted image 20240405233917.png",
     "Business Inteligence.md",
     "src/Pasted image 20240406174713.png",
     "src/Pasted image 20240406174549.png",
     "src/Pasted image 20240406002323.png",
     "TO DO LIST - DATA SCIENCE INTER.md",
-    "src/Pasted image 20240405233917.png",
     "src/Pasted image 20240405151343.png",
     "src/Pasted image 20240405165634.png",
     "src/Pasted image 20240405151412.png",
