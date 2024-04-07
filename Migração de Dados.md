@@ -25,3 +25,4 @@ As próximas etapas serão migrar os dados e configurar as atualizações adicio
 
 ### Fatores a serem considerados ao formular uma esrratégia de migração de dados
 
+**Tipo de carga de trabalho:** Você pode transferir os dados para cargas de trabalho de missão crítica em etapas, testar em intervalos ao longo do processo e manter os sistemas de origem e destino em execução simultaneamente. Alternativamente, você pode planejar uma transferência de larga escala fora do horário comercial (caso seja possível no período disponível).
