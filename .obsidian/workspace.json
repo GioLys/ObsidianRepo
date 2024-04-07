@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34357618c0409530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Migração de Dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Produto de Dados.md",
+                "file": "Migração de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Produto de Dados.md",
+                "file": "Migração de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Produto de Dados.md"
+                "file": "Migração de Dados.md"
               }
             }
           },
@@ -191,12 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68bf659bc773ce38",
+  "active": "34357618c0409530",
   "lastOpenFiles": [
+    "Produto de Dados.md",
+    "Migração de Dados.md",
     "KPIS - Indicadores-Chave de Desempenho.md",
     "Modelagem de Dados.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
-    "Produto de Dados.md",
     "src/Pasted image 20240405233917.png",
     "Business Inteligence.md",
     "src/Pasted image 20240406174713.png",
