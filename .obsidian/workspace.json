@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Produto de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Produto de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Produto de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Produto de Dados.md"
               }
             }
           },
@@ -193,9 +193,10 @@
   },
   "active": "68bf659bc773ce38",
   "lastOpenFiles": [
-    "Produto de Dados.md",
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "KPIS - Indicadores-Chave de Desempenho.md",
+    "Modelagem de Dados.md",
+    "TO DO LIST - DATA SCIENCE INTER.md",
+    "Produto de Dados.md",
     "src/Pasted image 20240405233917.png",
     "Business Inteligence.md",
     "src/Pasted image 20240406174713.png",
@@ -204,7 +205,6 @@
     "src/Pasted image 20240405151343.png",
     "src/Pasted image 20240405165634.png",
     "src/Pasted image 20240405151412.png",
-    "Modelagem de Dados.md",
     "src/Pasted image 20240403151206.png",
     "python/Estatística com Python - probabilidade e amostragem.md",
     "python/Estatística com Python - frequências e medidas.md",
