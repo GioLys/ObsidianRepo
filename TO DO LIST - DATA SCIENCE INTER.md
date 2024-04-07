@@ -15,7 +15,7 @@ KAFKA
 ---
 <span style="color:#00b0f0">Processos e metodologias</span>
 
-- [ ] Inteligência de negócios (BI)
+- [x] Inteligência de negócios (BI)
 - [ ] Indicadores-chave de desempenho
 - [x] Visualização de dados
 - [x] Modelagem de dados
