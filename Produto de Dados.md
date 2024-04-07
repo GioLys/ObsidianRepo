@@ -8,7 +8,7 @@ Produtos de dados englobam qualquer produto ou recurso que dependa de dados para
 ## <span style="color:#00b0f0">A Prática dos Produtos de Dados
 </span>
 
-Produtos de dados são projetados para ajudar empresas ou consumidores a tomar decisões informadas. No entanto o desafio está em distinguir quando algo é um produto de dados ou não. Como o usuário do produto de dados pode ser tanto equipes internas da empresa quanto o consumidor final, encontrar uma definição única pode ser um desafio.
+Produtos de dados são projetados para ajudar empresas ou consumidores a tomar decisões informadas. No entanto <span style="color:#92d050">o desafio está em distinguir quando algo é um produto de dados ou não. </span>Como o usuário do produto de dados pode ser tanto equipes internas da empresa quanto o consumidor final, encontrar uma definição única pode ser um desafio.
 
 Para entender verdadeiramente o que são produtos de dados, nada melhor do que exemplos práticos de como eles operam e agregam valor em situações do dia a dia. Produtos de dados abrangem uma gama vasta de aplicações, desde motores de recomendação até análise preditiva e plataformas de inteligência de negócios. Vamos nos aprofundar em cada um deles:
 
