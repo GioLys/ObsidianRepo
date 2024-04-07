@@ -1,1 +1,4 @@
 
+<span style="color:#ffc000">KPI, ou Key Performance Indicator (Indicador-Chave de Desempenho), é uma métrica quantitativa que é usada para avaliar o desempenho de uma organização, projeto, processo ou indivíduo em relação a metas específicas e objetivos estratégicos. Esses indicadores fornecem uma maneira clara e objetiva de medir o progresso em direção a esses objetivos e ajudam a identificar áreas que necessitam de melhoria.</span> 
+
+Ao analisar dados usando KPIs, as organizações podem entender melhor seu desempenho em diversas áreas e tomar decisões informadas para otimizar suas operações. Aqui estão alguns pontos-chave sobre como KPIs são usados na análise de dados:
