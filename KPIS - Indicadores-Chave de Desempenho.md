@@ -34,3 +34,45 @@ Ao analisar dados usando KPIs, as organizações podem entender melhor seu desem
 
 ### Exemplos de KPIs para diferentes aspectos do desempenho empresarial:
 
+1. **KPI de Produtividade:**
+    
+    - Produtividade por hora/trabalhador
+    - Produção por turno/dia/semana
+    - Tempo médio de ciclo de produção
+    - Eficiência da linha de produção
+    - Percentual de capacidade utilizada
+2. **KPI de Qualidade:**
+    
+    - Taxa de defeitos ou retrabalho
+    - Taxa de rejeição de produtos
+    - Índice de satisfação do cliente
+    - Conformidade com padrões de qualidade
+    - Tempo médio entre falhas (MTBF)
+3. **KPI de Lucratividade:**
+    
+    - Margem de lucro bruto
+    - Margem de lucro líquido
+    - Retorno sobre o Investimento (ROI)
+    - Lucro líquido por cliente/produto/região
+    - Lucro por unidade vendida
+4. **KPI de Rentabilidade:**
+    
+    - Retorno sobre o Patrimônio Líquido (ROE)
+    - Retorno sobre os Ativos (ROA)
+    - Margem de contribuição
+    - Margem EBITDA (Lucros Antes de Juros, Impostos, Depreciação e Amortização)
+    - Taxa de crescimento do lucro
+5. **KPI de Competitividade:**
+    
+    - Participação de mercado
+    - Índice de preços em relação à concorrência
+    - Tempo de lançamento de novos produtos no mercado
+    - Inovação de produtos/serviços
+    - Índice de satisfação do cliente em comparação com concorrentes
+6. **KPI de Valor:**
+    
+    - Valor do tempo de vida do cliente (CLV)
+    - Valor do cliente por segmento de mercado
+    - Valor adicionado por funcionário
+    - Índice de valor da marca
+    - Valor econômico agregado (EVA)

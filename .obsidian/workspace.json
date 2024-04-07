@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KPIS - Indicadores-Chave de Desempenho.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KPIS - Indicadores-Chave de Desempenho.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KPIS - Indicadores-Chave de Desempenho.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KPIS - Indicadores-Chave de Desempenho.md"
+                "file": "TO DO LIST - DATA SCIENCE INTER.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "bf3939974d9d2ba3",
   "lastOpenFiles": [
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "KPIS - Indicadores-Chave de Desempenho.md",
+    "TO DO LIST - DATA SCIENCE INTER.md",
     "src/Pasted image 20240405233917.png",
     "Business Inteligence.md",
     "src/Pasted image 20240406174713.png",
