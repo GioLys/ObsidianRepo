@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Produto de Dados.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Produto de Dados.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Produto de Dados.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Produto de Dados.md"
+                "file": "TO DO LIST - DATA SCIENCE INTER.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "68bf659bc773ce38",
   "lastOpenFiles": [
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "Produto de Dados.md",
+    "TO DO LIST - DATA SCIENCE INTER.md",
     "KPIS - Indicadores-Chave de Desempenho.md",
     "src/Pasted image 20240405233917.png",
     "Business Inteligence.md",

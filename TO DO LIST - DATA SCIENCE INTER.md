@@ -20,7 +20,7 @@ KAFKA
 - [x] Visualização de dados
 - [x] Modelagem de dados
 - [x] Governança de dados
-- [ ] Produtos de dados
+- [x] Produtos de dados
 - [ ] Migração de dados
 - [x] Governança de dados
 - [ ] ETL (Extração, transformação e carregamento)
