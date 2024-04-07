@@ -19,3 +19,18 @@ Ao analisar dados usando KPIs, as organizações podem entender melhor seu desem
 </span>
 
 
+1. **KPI Primário:**
+    
+    - Os KPIs primários são os indicadores-chave que estão diretamente ligados aos principais objetivos estratégicos da organização. Eles são essenciais para monitorar o desempenho geral e o progresso em direção às metas de negócios de alto nível. Esses KPIs são os mais críticos e têm um impacto direto no sucesso da organização.
+    - Exemplo: Receita total para uma empresa de comércio eletrônico. A receita total está diretamente relacionada ao objetivo principal da empresa de aumentar as vendas e o crescimento financeiro.
+2. **KPI Secundário:**
+    
+    - Os KPIs secundários são indicadores que fornecem insights adicionais e detalhados sobre aspectos específicos do desempenho operacional ou funcional da organização. Embora não sejam tão críticos quanto os KPIs primários, eles ainda são importantes para entender áreas específicas de força ou fraqueza dentro da organização.
+    - Exemplo: Taxa de conversão de leads para a equipe de marketing de uma empresa. Embora não seja o objetivo principal da empresa, a taxa de conversão de leads fornece informações importantes sobre a eficácia das campanhas de marketing.
+3. **KPI Prático:**
+    
+    - Os KPIs práticos são indicadores que são facilmente mensuráveis, compreensíveis e acionáveis. Eles são frequentemente usados no nível operacional ou de equipe para monitorar o desempenho diário e tomar decisões táticas. Esses KPIs são mais específicos e orientados para a execução.
+    - Exemplo: Tempo médio de resposta a tickets de suporte para uma equipe de atendimento ao cliente. Esse KPI fornece uma métrica clara sobre a eficiência do suporte ao cliente e pode ser usado para identificar áreas que precisam de melhoria.
+
+### Exemplos de KPIs para diferentes aspectos do desempenho empresarial:
+
