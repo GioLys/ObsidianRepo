@@ -23,11 +23,9 @@
             "id": "a699e93b32ed4858",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Business Inteligence.md",
-                "mode": "source",
-                "source": false
+                "file": "src/Pasted image 20240405233917.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Inteligence.md",
+                "file": "src/Pasted image 20240405233917.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Inteligence.md",
+                "file": "src/Pasted image 20240405233917.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Inteligence.md"
+                "file": "src/Pasted image 20240405233917.png"
               }
             }
           },
@@ -167,14 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a699e93b32ed4858",
+  "active": "9077e8dc45461cc1",
   "lastOpenFiles": [
-    "Pasted image 20240406174713.png",
-    "Pasted image 20240406174549.png",
-    "Pasted image 20240406002323.png",
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "Business Inteligence.md",
-    "Pasted image 20240405233917.png",
+    "src/Pasted image 20240406174713.png",
+    "src/Pasted image 20240406174549.png",
+    "src/Pasted image 20240406002323.png",
+    "TO DO LIST - DATA SCIENCE INTER.md",
+    "src/Pasted image 20240405233917.png",
     "src/Pasted image 20240405151343.png",
     "src/Pasted image 20240405165634.png",
     "src/Pasted image 20240405151412.png",
@@ -185,7 +183,6 @@
     "Data Lakehouse.md",
     "src/Pasted image 20240403151625.png",
     "src/Pasted image 20240402115419.png",
-    "src/Pasted image 20240402181352.png",
     "Untitled",
     "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
     "python/Pyhton - Pandas.md",
