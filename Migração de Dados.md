@@ -22,3 +22,6 @@ A migração de banco de dados é um exemplo de migração de carga de trabalho 
 Geralmente, o primeiro passo no processo de migração do banco de dados envolve a conversão do esquema do banco de dados de origem (se necessário) para que se torne compatível com o banco de dados de destino. O esquema de um banco de dados é como um blueprint de como ele é organizado, controlando sua arquitetura e estrutura lógica. Se o sistema de gerenciamento de banco de dados de destino usar uma linguagem de definição (DDL) que não seja compatível com a origem, o esquema deverá ser convertido.
 
 As próximas etapas serão migrar os dados e configurar as atualizações adicionais contínuas do armazém de dados. Você pode também consolidar diversos bancos de dados diferentes em um durante esse processo, se necessário.
+
+### Fatores a serem considerados ao formular uma esrratégia de migração de dados
+
