@@ -33,3 +33,11 @@ As próximas etapas serão migrar os dados e configurar as atualizações adicio
 
 ### Melhores Práticas
 
+- **Entenda os dados e para que eles são usados**
+
+- **Avalie cuidadosamente os ambientes de origem e destino.**
+
+- **Verifique os requisitos negócios e impacto potencial no início do processo.**
+
+### Riscos
+
