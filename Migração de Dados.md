@@ -29,4 +29,7 @@ As próximas etapas serão migrar os dados e configurar as atualizações adicio
 
 **Volume de dados:** Quando você migra menos de 10 terabytes (TB) de dados, o envio de dados para seu novo local de armazenamento em um dispositivo de armazenamento fornecido pelo cliente costuma ser o método mais simples e com o melhor custo-benefício. Para transferências envolvendo grandes volumes de dados, ou seja, até diversos petabytes (PB), um dispositivo de migração de dados especializado fornecido pelo provedor de cloud pode ser a opção mais conveniente e acessível. Embora, em teoria, seja possível usar a migração on-line para qualquer volume de dados, as restrições de tempo limitam a viabilidade para grandes volumes de dados.
 
-**Velocidade de conclusão:** 
+**Velocidade de conclusão:** Para a migração on-line, o volume de dados transferido e a velocidade da sua conexão de rede determinará o tempo necessário para realizar a migração de dados. Para migrações off-line, o tempo de envio deve ser levado em conta.
+
+### Melhores Práticas
+
