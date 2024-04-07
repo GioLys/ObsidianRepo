@@ -41,3 +41,8 @@ As próximas etapas serão migrar os dados e configurar as atualizações adicio
 
 ### Riscos
 
+- **Segurança:** certifique-se que todos os dados estejam criptografados com segurança antes da migração. Para migrações off-line que envolvam envio de dispositivos de armazenamento de dados, verifique a segurança dos serviços de frete e logística da transportadora.
+
+- **Longos tempos transferência:** pode ser difícil prever com precisão o tempo de conslusão da transferência on-lline. Os gargalos de rede podem restringir as velocidades de conexão ou as limitações de hardware do sistema podem limitar o volume de dados que podem ser lidos ou gravados neles.    
+
+- **Custos acima do esperado:** custos inesperados muitas vezes resultam de planejamento incorreto. Por exemplo, as transferências on-line que tomam mais tempo que o previsto incorrem em encargos adicionais. Manter um dispositivo de armazenamento fornecido pelo provedor por mais tempo do que foi inicialmente acordado (o que pode resultar do atraso da transferência de dados para o dispositivo ou do envio) pode também incorrer em encargos adicionais.
