@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Produto de Dados.md",
+                "file": "Conceitos de Data Science/Produto de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceitos de Data Science/Business Inteligence.md",
+                "file": "Migração de Dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceitos de Data Science/Business Inteligence.md",
+                "file": "Migração de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceitos de Data Science/Business Inteligence.md",
+                "file": "Migração de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceitos de Data Science/Business Inteligence.md"
+                "file": "Migração de Dados.md"
               }
             }
           },
@@ -203,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9077e8dc45461cc1",
+  "active": "34357618c0409530",
   "lastOpenFiles": [
+    "Conceitos de Data Science/Business Inteligence.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
     "Data Lakehouse.md",
     "Migração de Dados.md",
     "Conceitos de Data Science",
-    "Produto de Dados.md",
+    "Conceitos de Data Science/Produto de Dados.md",
     "Conceitos de Data Science/KPIS - Indicadores-Chave de Desempenho.md",
     "Modelagem de Dados.md",
     "src/Pasted image 20240405233917.png",
-    "Conceitos de Data Science/Business Inteligence.md",
     "src/Pasted image 20240406174713.png",
     "src/Pasted image 20240406174549.png",
     "src/Pasted image 20240406002323.png",
