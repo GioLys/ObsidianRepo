@@ -33,7 +33,8 @@ O [Flyte](https://flyte.org/) é uma alternativa de código aberto, com maior 
 
 ## <span style="color:#ffc000">Fatores para levar em consideração ao escolher a ferramenta de orquestração</span>
 
+### - **Precificação**
+### - **Tamanho da equipe**
+### - **Tarefas a serem desenvolvidas**
 
-- Precificação
-- Tamanho da equipe
-- Tarefas a serem desenvolvidas
+
