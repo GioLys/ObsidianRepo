@@ -21,3 +21,23 @@ Os engenheiros de dados precisam realizar muitas tarefas repetitivas enquanto tr
 ### **Integração de dados abrangente**
 
 Um pipeline de dados abstrai funções de transformação de dados para integrar conjuntos de dados de fontes diferentes. Ele pode cruzar valores dos mesmos dados de várias fontes e corrigir inconsistências. Por exemplo, imagine que o mesmo cliente faz uma compra em sua plataforma de comércio eletrônico e em seu serviço digital. No entanto, eles escrevem seu nome incorretamente no serviço digital. O pipeline pode corrigir essa inconsistência antes de enviar os dados para análise.
+
+## <span style="color:#ffc000">Como funciona um pipeline de dados?</span>
+
+Assim como uma tubulação de água move a água do reservatório para suas torneiras, um pipeline de dados move os dados do ponto de coleta para o armazenamento. Um pipeline de dados extrai dados de uma fonte, faz alterações e os salva em um destino específico. Explicamos os componentes críticos da arquitetura de pipeline de dados abaixo.
+
+### **Fontes de dados**
+
+Uma fonte de dados pode ser uma aplicação, um dispositivo ou outro banco de dados. Fontes diferentes podem enviar dados para o pipeline. O pipeline também pode extrair pontos de dados usando uma chamada de API, webhook ou processo de duplicação de dados. Você pode sincronizar a extração de dados para processamento em tempo real ou coletar dados em intervalos programados de suas fontes de dados.
+
+### **Transformações**
+
+À medida que os dados brutos fluem pelo pipeline, eles mudam para se tornarem mais úteis para business intelligence. Transformações são operações (como classificação, reformatação, desduplicação, verificação e validação) que alteram dados. Seu pipeline pode filtrar, resumir ou processar dados para atender aos seus requisitos de análise.
+
+### **Dependências**
+
+Como as mudanças acontecem sequencialmente, podem existir dependências específicas que reduzem a velocidade de movimentação de dados no pipeline. Existem dois tipos principais de dependências - técnicas e de negócios. Por exemplo, se o pipeline tiver que esperar que uma fila central seja preenchida antes de prosseguir, é uma dependência técnica. Por outro lado, se o pipeline tiver que pausar até que outra unidade de negócios verifique os dados, é uma dependência de negócios.
+
+### **Destinos**
+
+O endpoint de seu pipeline de dados pode ser um data warehouse, data lake ou outra aplicação de análise de dados ou business intelligence. Às vezes, o destino também é chamado de _coletor de dados_.
