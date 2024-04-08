@@ -41,11 +41,6 @@ Como as mudanças acontecem sequencialmente, podem existir dependências especí
 ### **Destinos**
 
 O endpoint de seu pipeline de dados pode ser um data warehouse, data lake ou outra aplicação de análise de dados ou business intelligence. Às vezes, o destino também é chamado de _coletor de dados_.
-
-<span style="color:#00b0f0">Exemplo de um fluxo pipeline de dados:</span>
-
-![[Pasted image 20240408170617.png]]
-
 ## <span style="color:#ffc000">Quais são os tipos de pipeline de dados?</span>
 
 Existem dois tipos principais de pipelines de dados: pipelines de processamento de fluxo e pipelines de processamento em lote.
@@ -73,3 +68,6 @@ Nem todos os pipelines de dados seguem a sequência ETL. Alguns podem extrair os
 ![[Pasted image 20240408174617.png]]
 
 <span style="color:#00b0f0">Exemplo de um pipeline ETL</span> 
+
+![[Pasted image 20240408170617.png]]
+
