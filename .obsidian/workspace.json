@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Conceitos de Data Science/Business Inteligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Conceitos de Data Science/Business Inteligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Conceitos de Data Science/Business Inteligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Conceitos de Data Science/Business Inteligence.md"
               }
             }
           },
@@ -205,11 +205,11 @@
   },
   "active": "34357618c0409530",
   "lastOpenFiles": [
+    "TO DO LIST - DATA SCIENCE INTER.md",
     "Banco de Dados/Data Lakehouse.md",
     "Banco de Dados/Migração de Dados.md",
     "Banco de Dados",
     "Conceitos de Data Science/Business Inteligence.md",
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "Conceitos de Data Science",
     "Conceitos de Data Science/Produto de Dados.md",
     "Conceitos de Data Science/KPIS - Indicadores-Chave de Desempenho.md",
