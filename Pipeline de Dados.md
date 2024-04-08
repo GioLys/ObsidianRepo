@@ -41,3 +41,5 @@ Como as mudanças acontecem sequencialmente, podem existir dependências especí
 ### **Destinos**
 
 O endpoint de seu pipeline de dados pode ser um data warehouse, data lake ou outra aplicação de análise de dados ou business intelligence. Às vezes, o destino também é chamado de _coletor de dados_.
+
+Exemplo de um fluxo pipeli
