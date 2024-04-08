@@ -61,3 +61,9 @@ A transmissão de dados requer baixa latência e alta tolerância a falhas. Seu 
 Os pipelines de dados de processamento em lote processam e armazenam dados em grandes volumes ou lotes. Eles são adequados para tarefas ocasionais de alto volume, como contabilidade mensal.
 
 O pipeline de dados contém uma série de comandos sequenciados e cada comando é executado em todo o lote de dados. O pipeline de dados fornece a saída de um comando como entrada para o seguinte comando. Após a conclusão de todas as transformações de dados, o pipeline carrega todo o lote em um data warehouse na nuvem ou em outro armazenamento de dados semelhante.
+
+## <span style="color:#ffc000">Qual é a diferença entre pipelines de dados e pipelines ETL?</span>
+
+<span style="color:#92d050">Um pipeline de extração, transformação e carregamento (ETL) é um tipo especial de pipeline de dados.</span> As ferramentas ETL extraem ou copiam dados brutos de várias fontes e os armazenam em um local temporário chamado de _área de preparação_. Elas transformam os dados na área de preparação e os carregam em data lakes ou armazéns.
+
+Nem todos os pipelines de dados seguem a sequência ETL. Alguns podem extrair os dados de uma fonte e carregá-los em outro lugar sem transformações. Outros pipelines de dados seguem uma sequência de extração, carregamento e transformação (ELT), onde extraem e carregam dados não estruturados diretamente em um data lake. Eles realizam alterações depois de mover as informações para data warehouses na nuvem.
