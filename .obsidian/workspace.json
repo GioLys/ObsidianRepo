@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orquestração de Dados.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orquestração de Dados.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orquestração de Dados.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orquestração de Dados.md"
+                "file": "TO DO LIST - DATA SCIENCE INTER.md"
               }
             }
           },
@@ -229,11 +229,11 @@
   },
   "active": "2049029e83842fcf",
   "lastOpenFiles": [
-    "Pasted image 20240408193626.png",
+    "src/Pasted image 20240408193626.png",
+    "Orquestração de Dados.md",
     "Conceitos de Data Science/Pipeline de Dados.md",
     "src/Pasted image 20240408170617.png",
     "src/Pasted image 20240408174617.png",
-    "Orquestração de Dados.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
     "Conceitos de Data Science/Business Inteligence.md",
     "Banco de Dados/Data Lakehouse.md",
@@ -250,7 +250,6 @@
     "src/Pasted image 20240405151343.png",
     "src/Pasted image 20240405165634.png",
     "src/Pasted image 20240405151412.png",
-    "src/Pasted image 20240403151206.png",
     "python/Estatística com Python - probabilidade e amostragem.md",
     "python/Estatística com Python - frequências e medidas.md",
     "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",

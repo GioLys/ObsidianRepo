@@ -24,10 +24,10 @@ KAFKA
 - [x] Migração de dados
 - [x] Governança de dados
 - [ ] ETL (Extração, transformação e carregamento)
-- [ ] Orquestração de dados
+- [x] Orquestração de dados
 - [ ] MLOps
 - [ ] PySpark
-- [ ] Pipeline de dados
+- [x] Pipeline de dados
 ---
 <span style="color:#92d050">Softwares</span>
 
