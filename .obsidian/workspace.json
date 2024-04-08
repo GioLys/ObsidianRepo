@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ETL.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ETL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "ETL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "ETL.md"
               }
             }
           },
@@ -239,10 +239,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a01e3152cdb75cce",
+  "active": "9077e8dc45461cc1",
   "lastOpenFiles": [
     "Conceitos de Data Science/Orquestração de Dados.md",
-    "Untitled.md",
+    "ETL.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
     "src/Pasted image 20240408193626.png",
     "Conceitos de Data Science/Pipeline de Dados.md",
@@ -263,16 +263,16 @@
     "src/Pasted image 20240405151343.png",
     "src/Pasted image 20240405165634.png",
     "src/Pasted image 20240405151412.png",
-    "python/Estatística com Python - probabilidade e amostragem.md",
-    "python/Estatística com Python - frequências e medidas.md",
-    "git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
-    "python/Pyhton - Pandas.md",
-    "python",
-    "git/Principais Comandos Git.md",
-    "git/Opções de configurações Git.md",
-    "git",
-    "git/Simbologia Git.md",
-    "git/Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
+    "Python/Estatística com Python - probabilidade e amostragem.md",
+    "Python/Estatística com Python - frequências e medidas.md",
+    "Git/Guia Passo a Passo - Enviando um Arquivo para o GitHub usando Git.md",
+    "Python/Pyhton - Pandas.md",
+    "Python",
+    "Git/Principais Comandos Git.md",
+    "Git/Opções de configurações Git.md",
+    "Git",
+    "Git/Simbologia Git.md",
+    "Git/Guia Passo a Passo - Subindo Atualizações e Versionando Código no GitHub.md",
     "src",
     "Simbologia Git",
     "Untitled.canvas",
