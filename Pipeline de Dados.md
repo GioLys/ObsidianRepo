@@ -46,4 +46,18 @@ O endpoint de seu pipeline de dados pode ser um data warehouse, data lake ou out
 
 ![[Pasted image 20240408170617.png]]
 
+## <span style="color:#ffc000">Quais são os tipos de pipeline de dados?</span>
 
+Existem dois tipos principais de pipelines de dados: pipelines de processamento de fluxo e pipelines de processamento em lote.
+
+### **Pipelines de processamento de fluxo**
+
+Um fluxo de dados é uma sequência contínua e incremental de pacotes de dados de pequeno porte. Geralmente representa uma série de eventos que ocorrem durante um determinado período. Por exemplo, um fluxo de dados pode mostrar dados do sensor contendo medições durante a última hora. Uma única ação, como uma transação financeira, também pode ser chamada de _evento_. Os pipelines de streaming processam uma série de eventos para análises em tempo real.
+
+A transmissão de dados requer baixa latência e alta tolerância a falhas. Seu pipeline de dados deve ser capaz de processar dados mesmo que alguns pacotes de dados sejam perdidos ou cheguem em uma ordem diferente da esperada.
+
+### **Pipelines de processamento em lote**
+
+Os pipelines de dados de processamento em lote processam e armazenam dados em grandes volumes ou lotes. Eles são adequados para tarefas ocasionais de alto volume, como contabilidade mensal.
+
+O pipeline de dados contém uma série de comandos sequenciados e cada comando é executado em todo o lote de dados. O pipeline de dados fornece a saída de um comando como entrada para o seguinte comando. Após a conclusão de todas as transformações de dados, o pipeline carrega todo o lote em um data warehouse na nuvem ou em outro armazenamento de dados semelhante.
