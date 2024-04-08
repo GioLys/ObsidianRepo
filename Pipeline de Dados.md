@@ -5,10 +5,11 @@ As organizações têm um grande volume de dados de várias fontes, como aplicat
 
 Um pipeline de dados inclui várias tecnologias para verificar, resumir e encontrar padrões nos dados para informar as decisões de negócios. Pipelines de dados bem organizados oferecem suporte a vários projetos de big data, como visualizações de dados, análises exploratórias de dados e tarefas de machine learning.
 
-## Quais são os benefícios de um pipeline de dados?
+## <span style="color:#ffc000">Quais são os benefícios de um pipeline de dados?</span>
 
-Os pipelines de dados permitem integrar dados de diferentes fontes e transformá-los para análise. Eles removem silos de dados e tornam sua análise de dados mais confiável e precisa. Aqui estão alguns dos principais benefícios de um pipeline de dados.
+Os pipelines de dados permitem integrar dados de diferentes fontes e transformá-los para análise. Eles removem silos de dados e tornam sua análise de dados mais confiável e precisa. 
 
+Aqui estão alguns dos principais benefícios de um pipeline de dados:
 ### **Melhor qualidade dos dados**
 
 Os pipelines de dados limpam e refinam os dados brutos, melhorando sua utilidade para os usuários finais. Eles padronizam formatos para campos como datas e números de telefone enquanto verificam erros de entrada. Eles também removem a redundância e garantem a qualidade consistente dos dados em toda a organização.
