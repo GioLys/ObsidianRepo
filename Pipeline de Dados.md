@@ -67,3 +67,9 @@ O pipeline de dados contém uma série de comandos sequenciados e cada comando �
 <span style="color:#92d050">Um pipeline de extração, transformação e carregamento (ETL) é um tipo especial de pipeline de dados.</span> As ferramentas ETL extraem ou copiam dados brutos de várias fontes e os armazenam em um local temporário chamado de _área de preparação_. Elas transformam os dados na área de preparação e os carregam em data lakes ou armazéns.
 
 Nem todos os pipelines de dados seguem a sequência ETL. Alguns podem extrair os dados de uma fonte e carregá-los em outro lugar sem transformações. Outros pipelines de dados seguem uma sequência de extração, carregamento e transformação (ELT), onde extraem e carregam dados não estruturados diretamente em um data lake. Eles realizam alterações depois de mover as informações para data warehouses na nuvem.
+
+<span style="color:#00b0f0">Exemplo de um pipeline de dados:</span> 
+
+![[Pasted image 20240408174617.png]]
+
+<span style="color:#00b0f0">Exemplo de um pipeline ETL</span> 
