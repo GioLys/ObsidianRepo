@@ -13,3 +13,5 @@ O Airflow se baseia no conceito de **DAGs**, uma sigla para **Directed Acyclic
 
 <span style="color:#00b0f0">Exemplo de uma DAG:</span> 
 
+![[Pasted image 20240408193626.png]]
+
