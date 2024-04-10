@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Conceitos de Data Science/ETL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b38a9fc49cae8a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Docker.md"
               }
             }
           },
@@ -154,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a01e3152cdb75cce",
+  "active": "b38a9fc49cae8a9b",
   "lastOpenFiles": [
-    "ETL.md",
+    "Conceitos de Data Science/ETL.md",
+    "Docker.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
     "Conceitos de Data Science/Orquestração de Dados.md",
     "src/Pasted image 20240408193626.png",
