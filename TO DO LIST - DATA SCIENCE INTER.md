@@ -44,7 +44,7 @@ KAFKA
 - [ ] AWS Step Functions
 - [ ] AWS Glue
 - [x] Data lake
-- [ ] Harness
+- [x] Harness
 - [ ] Apache Airflow
 - [ ] Terraform
 - [ ] Apache Spark
