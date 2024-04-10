@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0257eaaffb99d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de Dados/Modelagem de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a699e93b32ed4858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf3939974d9d2ba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68bf659bc773ce38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos de Data Science/Produto de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34357618c0409530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9a8d2ab0e037115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos de Data Science/Pipeline de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2049029e83842fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conceitos de Data Science/Orquestração de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a01e3152cdb75cce",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
