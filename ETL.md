@@ -29,3 +29,27 @@ No entanto, à medida que as tecnologias subjacentes de armazenamento e processa
 
 Por outro lado, com ELTs, a área de preparação está no data warehouse, e o mecanismo de banco de dados que alimenta o DBMS faz as transformações, em vez de uma ferramenta ETL. Portanto, uma das consequências imediatas dos ELTs é que você perde as funções de preparação e limpeza de dados que as ferramentas ETL fornecem para ajudar no processo de transformação de dados.
 
+## <span style="color:#ffc000">Casos de uso ETL</span>
+
+O processo ETL é fundamental para muitos setores por causa de sua capacidade de ingerir dados de forma rápida e confiável em data lakes para ciência de dados e análise, criando modelos de alta qualidade. As soluções ETL também podem carregar e transformar dados transacionais em escala para criar uma visão organizada de grandes volumes de dados. Isso permite que as empresas visualizem e prevejam tendências do setor. Vários setores contam com o ETL para permitir insights acionáveis, tomada de decisões rápida e maior eficiência.
+
+**Serviços financeiros**  
+As instituições de serviços financeiros coletam grandes quantidades de dados estruturados e não estruturados para obter insights sobre o comportamento do consumidor. Esses insights podem analisar o risco, otimizar os serviços financeiros dos bancos, melhorar as plataformas online e até mesmo fornecer caixas eletrônicos com dinheiro.
+
+**Setores de petróleo e gás**  
+Os setores de petróleo e gás usam soluções ETL para gerar previsões sobre uso, armazenamento e tendências em áreas geográficas específicas. O ETL funciona para reunir o máximo de informações possível de todos os sensores de um site de extração e processar essas informações para facilitar a leitura.
+
+**Automotivo**  
+As soluções de ETL permitem que as concessionárias e os fabricantes entendam os padrões de vendas, calibrem suas campanhas de marketing, reabram o estoque e acompanhem os leads dos clientes.
+
+**Telecomunicações**  
+Com o volume e a variedade sem precedentes de dados produzidos hoje, os provedores de telecomunicações contam com soluções ETL para melhor gerenciar e entender esses dados. Uma vez processados e analisados esses dados, as empresas podem usá-los para melhorar a publicidade, a mídia social, o SEO, a satisfação do cliente, a lucratividade e muito mais.
+
+**Assistência Médica**  
+Com a necessidade de reduzir custos e também melhorar a assistência médica, o setor de assistência médica emprega soluções ETL para gerenciar registros de pacientes, coletar informações de seguros e atender a requisitos regulatórios em evolução.
+
+**Ciências biológicas**  
+Os laboratórios clínicos contam com soluções ETL e inteligência artificial (IA) para processar vários tipos de dados que estão sendo produzidos por instituições de pesquisa. Por exemplo, colaborar no desenvolvimento de vacinas requer que grandes quantidades de dados sejam coletados, processados e analisados.
+
+**Setor público**  
+Com o surgimento dos recursos de Internet das Coisas (IoT), as cidades inteligentes estão usando o ETL e o poder da IA para otimizar o tráfego, monitorar a qualidade da água, melhorar o estacionamento e muito mais.
