@@ -46,7 +46,7 @@ KAFKA
 - [x] Data lake
 - [x] Harness
 - [ ] Apache Airflow - após o docker
-- [ ] Terraform
+- [x] Terraform
 - [ ] Apache Spark
 - [ ] Data warehouse
 - [ ] Alteryx
