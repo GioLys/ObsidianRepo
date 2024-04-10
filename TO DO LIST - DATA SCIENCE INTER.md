@@ -25,8 +25,8 @@ KAFKA
 - [x] Governança de dados
 - [x] ETL (Extração, transformação e carregamento)
 - [x] Orquestração de dados
-- [ ] MLOps
-- [ ] PySpark
+- [ ] MLOps - ML
+- [ ] PySpark - grande
 - [x] Pipeline de dados
 ---
 <span style="color:#92d050">Softwares</span>
