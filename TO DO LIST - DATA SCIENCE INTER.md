@@ -32,7 +32,7 @@ KAFKA
 <span style="color:#92d050">Softwares</span>
 
 - [ ] Tableau
-- [ ]  Starburst Enterprise (Trino)
+- [ ]  Starburst Enterprise (Trino) - sql do inter
 - [ ] Amazon S3
 - [ ] Amazon Athena
 - [ ] Amazon SageMaker
