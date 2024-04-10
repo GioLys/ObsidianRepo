@@ -49,5 +49,5 @@ KAFKA
 - [x] Terraform
 - [ ] Apache Spark
 - [ ] Data warehouse
-- [ ] Alteryx
+- [x] Alteryx
 - [ ] Matillion
