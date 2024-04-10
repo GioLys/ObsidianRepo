@@ -49,5 +49,5 @@ KAFKA
 - [x] Terraform
 - [ ] Apache Spark
 - [ ] Data warehouse
-- [x] Alteryx
-- [ ] Matillion
+- [x] Alteryx - plataforma ETL
+- [x] Matillion - plataforma ETL
