@@ -28,3 +28,4 @@ Tradicionalmente, essas transformações foram feitas antes que os dados fossem 
 No entanto, à medida que as tecnologias subjacentes de armazenamento e processamento de dados que sustentam o armazenamento de dados evoluem, tornou-se possível efetuar transformações no sistema de destino. Os processos ETL e ELT envolvem áreas de preparação. No ETL, essas áreas são encontradas na ferramenta, sejam elas proprietárias ou personalizadas. Elas ficam entre o sistema de origem (por exemplo, um sistema CRM) e o sistema de destino (o data warehouse).
 
 Por outro lado, com ELTs, a área de preparação está no data warehouse, e o mecanismo de banco de dados que alimenta o DBMS faz as transformações, em vez de uma ferramenta ETL. Portanto, uma das consequências imediatas dos ELTs é que você perde as funções de preparação e limpeza de dados que as ferramentas ETL fornecem para ajudar no processo de transformação de dados.
+
