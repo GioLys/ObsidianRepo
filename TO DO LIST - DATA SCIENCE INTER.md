@@ -23,7 +23,7 @@ KAFKA
 - [x] Produtos de dados
 - [x] Migração de dados
 - [x] Governança de dados
-- [ ] ETL (Extração, transformação e carregamento)
+- [x] ETL (Extração, transformação e carregamento)
 - [x] Orquestração de dados
 - [ ] MLOps
 - [ ] PySpark

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETL.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETL.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETL.md",
+                "file": "TO DO LIST - DATA SCIENCE INTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETL.md"
+                "file": "TO DO LIST - DATA SCIENCE INTER.md"
               }
             }
           },
@@ -241,8 +241,8 @@
   },
   "active": "a01e3152cdb75cce",
   "lastOpenFiles": [
-    "TO DO LIST - DATA SCIENCE INTER.md",
     "ETL.md",
+    "TO DO LIST - DATA SCIENCE INTER.md",
     "Conceitos de Data Science/Orquestração de Dados.md",
     "src/Pasted image 20240408193626.png",
     "Conceitos de Data Science/Pipeline de Dados.md",
