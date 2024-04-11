@@ -86,3 +86,9 @@ As imagens são essenciais para o funcionamento do Docker. Elas fornecem um mode
 > Quando criamos um container, criamos uma camada temporária em cima da imagem, onde conseguimos escrever informações. E, no momento em que esse container é deletado, essa camada extra também é deletada.
 
 
+## <span style="color:#ffc000">Por que os containers são tão leves?</span> 
+
+Como a imagem é apenas de leitura, podemos ter vários containers baseados na mesma imagem. A diferença é que cada um desses containers terá apenas uma camada diferente de _read-write_, e como essa camada é extremamente leve, a fim de manter essa performance, temos uma **reutilização da imagem para múltiplos containers**.
+
+
+> O container é leve e otimizado, porque consegue reaproveitar as camadas das imagens prévias que já temos. E, quando criamos novos containers, ele simplesmente reutiliza as mesmas imagens e, consequentemente, as camadas.
