@@ -92,3 +92,5 @@ Como a imagem é apenas de leitura, podemos ter vários containers baseados na m
 
 
 > O container é leve e otimizado, porque consegue reaproveitar as camadas das imagens prévias que já temos. E, quando criamos novos containers, ele simplesmente reutiliza as mesmas imagens e, consequentemente, as camadas.
+
+## <span style="color:#ffc000">Por que os containers são tão leves?</span> 
