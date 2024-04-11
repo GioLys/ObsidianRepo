@@ -80,4 +80,9 @@ O Docker proporciona uma abordagem eficiente para o desenvolvimento, empacotamen
 
 Uma imagem nada mais é que um <span style="color:#92d050">conjunto de camadas</span>, que ao serem unidas formam imagens. E essas camadas são independentes, cada uma tem o seu respectivo ID (identificador).
 
-As imagens são essenciais para o funcionamento do Docker. Elas fornecem um modelo para a criação de contêineres. Uma imagem é um pacote leve e independente que inclui tudo o necessário para executar uma aplicação: o código, o tempo de execução, as bibliotecas, as variáveis de ambiente e as configurações. Em resumo, uma imagem Docker é como uma receita que contém todos os ingredientes necessários para criar um contêiner específico.
+As imagens são essenciais para o funcionamento do Docker. Elas fornecem um modelo para a criação de contêineres. <span style="color:#92d050">Uma imagem é um pacote leve e independente que inclui tudo o necessário para executar uma aplicação: o código, o tempo de execução, as bibliotecas, as variáveis de ambiente e as configurações</span>. Em resumo, uma imagem Docker é como uma receita que contém todos os ingredientes necessários para criar um contêiner específico.
+
+
+> Quando criamos um container, criamos uma camada temporária em cima da imagem, onde conseguimos escrever informações. E, no momento em que esse container é deletado, essa camada extra também é deletada.
+
+
