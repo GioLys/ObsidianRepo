@@ -26,9 +26,9 @@
 - **Contêineres**: São mais adequados para aplicações distribuídas e escaláveis, especialmente em ambientes de microserviços. Eles são mais leves e podem ser mais facilmente dimensionados horizontalmente.
 - **Máquinas Virtuais**: Podem ser mais adequadas para aplicações que exigem diferentes sistemas operacionais ou que têm requisitos específicos de hardware, como em ambientes de teste e desenvolvimento.
 
-## <span style="color:#ffc000">Sobre o Doc</span>
+## <span style="color:#ffc000">Sobre o Docker</span>
 
- Docker é uma plataforma que implementa virtualização de software e utiliza a tecnologia de contêineres para facilitar a implantação e execução de aplicações. Podemos entender _contêiner_ como uma unidade leve e portátil que irá conter todo o necessário para executar um pedaço de software, incluindo o código, runtime, bibliotecas e dependências. Neste modelo de virtualização temos diversos benefícios,com destaque para: isolamento de contextos e o versionamento de aplicações.
+ Docker é uma plataforma que implementa virtualização de software e utiliza a tecnologia de contêineres para facilitar a implantação e execução de aplicações. Podemos entender _contêiner_ como uma <span style="color:#92d050">unidade leve e portátil que irá conter todo o necessário para executar um pedaço de software, incluindo o código, runtime, bibliotecas e dependências.</span> Neste modelo de virtualização temos diversos benefícios,com destaque para: isolamento de contextos e o versionamento de aplicações.
 
 #### Isolamento de Contextos
 
