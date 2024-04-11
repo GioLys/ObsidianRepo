@@ -75,3 +75,10 @@ O Docker proporciona uma abordagem eficiente para o desenvolvimento, empacotamen
 11. **docker-compose**:
     
     - É usado para definir e executar aplicativos Docker compostos por vários contêineres. Ele usa um arquivo YAML para definir os serviços, redes e volumes necessários para o aplicativo. Exemplo: `docker-compose up`
+
+## <span style="color:#ffc000">O que são imagens?</span>
+
+Uma imagem nada mais é que um <span style="color:#92d050">conjunto de camadas</span>, que ao serem unidas formam imagens. E essas camadas são independentes, cada uma tem o seu respectivo ID (identificador).
+
+
+Após executar um `docker pull` do `dockersamples` e um `docker run` na nossa imagem, podemos visualizar as imagens que temos baixadas no nosso sistema, através do comando `docker images` ou `docker image ls`.
