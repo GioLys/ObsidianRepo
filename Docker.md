@@ -97,4 +97,5 @@ Como a imagem é apenas de leitura, podemos ter vários containers baseados na m
 
 ### Criando a imagem:
 
-1. Criar o "Dockerf
+1. Criar o arquivo "Dockerfile" dentro da pasta a ser conteinizada
+2. Adicionar as dependências e instruções de start dentro do Dockerfile
