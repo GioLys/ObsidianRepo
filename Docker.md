@@ -79,6 +79,4 @@ O Docker proporciona uma abordagem eficiente para o desenvolvimento, empacotamen
 ## <span style="color:#ffc000">O que são imagens?</span>
 
 Uma imagem nada mais é que um <span style="color:#92d050">conjunto de camadas</span>, que ao serem unidas formam imagens. E essas camadas são independentes, cada uma tem o seu respectivo ID (identificador).
-
-
-Após executar um `docker pull` do `dockersamples` e um `docker run` na nossa imagem, podemos visualizar as imagens que temos baixadas no nosso sistema, através do comando `docker images` ou `docker image ls`.
+ 
