@@ -10,7 +10,7 @@ KAFKA
 - [ ] PostgreSQL
 - [ ] Sklearn
 - [ ] Kubernetes
-- [ ] Docker
+- [x] Docker
 - [ ] Keras
 ---
 <span style="color:#00b0f0">Processos e metodologias</span>
