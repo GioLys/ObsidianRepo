@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abb0c5dc435052da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b38a9fc49cae8a9b",
+  "active": "abb0c5dc435052da",
   "lastOpenFiles": [
-    "Docker.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
+    "Untitled.md",
+    "Docker.md",
     "Conceitos de Data Science/ETL.md",
     "Conceitos de Data Science/Orquestração de Dados.md",
     "src/Pasted image 20240408193626.png",
