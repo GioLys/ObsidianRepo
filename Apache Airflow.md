@@ -57,3 +57,6 @@ Neste código, as tarefas são representadas como chaves em um dicionário, onde
  O Airflow não é uma solução de streaming de dados. As tasks não movem dados de um lado para o outro, embora possam ser trocados metadados entre si. Espere-se que os fluxos de trabalho sejam estáticos, ou com poucas mudanças.
  
 Espere-se também que os fluxos de trabalho sejam semelhantes de uma execução para outra, o que permite clareza e facilidade do suporte e gerenciamento, para garantir a sua continuidade e perpetuidade.
+
+### Principais componentes para o funcionamento do Airflow
+
