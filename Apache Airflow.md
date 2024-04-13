@@ -16,4 +16,37 @@ Em termos simples, um DAG é um tipo de estrutura de dados que consiste em nós 
 
 <span style="color:#00b0f0">Exemplo de código em DAG:</span>
 
+
+1.
 ![[Pasted image 20240413134418.png]]
+
+2.
+```python
+import networkx as nx
+import matplotlib.pyplot as plt
+
+# Criando um objeto do tipo DAG
+DAG = nx.DiGraph()
+
+# Definindo as tarefas e suas dependências
+tasks = {
+    "A": ["B", "C"],
+    "B": ["D"],
+    "C": ["D"],
+    "D": ["E"],
+    "E": ["F"],
+    "F": [],
+}
+
+# Adicionando as tarefas e suas dependências ao DAG
+for task, dependencies in tasks.items():
+    DAG.add_node(task)
+    for dependency in dependencies:
+        DAG.add_edge(task, dependency)
+
+# Visualizando o DAG
+pos = nx.spring_layout(DAG)  # Posicionamento dos nós
+nx.draw(DAG, pos, with_labels=True, node_color='skyblue', node_size=1500, font_size=12, font_weight='bold', arrowsize=20)
+plt.show()
+
+```

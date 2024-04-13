@@ -23,9 +23,11 @@
             "id": "abb0c5dc435052da",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240413134418.png"
+                "file": "Apache Airflow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240413134418.png",
+                "file": "Apache Airflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240413134418.png",
+                "file": "Apache Airflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240413134418.png"
+                "file": "Apache Airflow.md"
               }
             }
           },
@@ -167,11 +169,11 @@
   },
   "active": "abb0c5dc435052da",
   "lastOpenFiles": [
-    "Apache Airflow.md",
+    "Docker.md",
     "Pasted image 20240413134418.png",
+    "Apache Airflow.md",
     "Pasted image 20240413133948.png",
     "TO DO LIST - DATA SCIENCE INTER.md",
-    "Docker.md",
     "Conceitos de Data Science/ETL.md",
     "Conceitos de Data Science/Orquestração de Dados.md",
     "src/Pasted image 20240408193626.png",
