@@ -52,3 +52,8 @@ plt.show()
 
 Neste código, as tarefas são representadas como chaves em um dicionário, onde os valores são listas de dependências para cada tarefa. As tarefas e suas dependências são então adicionadas ao DAG, e em seguida o DAG é visualizado. Este é um exemplo mais simples que alcança o mesmo resultado.
 
+### Quando o Airflow não é recomendado
+
+ O Airflow não é uma solução de streaming de dados. As tasks não movem dados de um lado para o outro, embora possam ser trocados metadados entre si. Espere-se que os fluxos de trabalho sejam estáticos, ou com poucas mudanças.
+ 
+Espere-se também que os fluxos de trabalho sejam semelhantes de uma execução para outra, o que permite clareza e facilidade do suporte e gerenciamento, para garantir a sua continuidade e perpetuidade.
