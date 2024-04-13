@@ -48,5 +48,6 @@ for task, dependencies in tasks.items():
 pos = nx.spring_layout(DAG)  # Posicionamento dos nós
 nx.draw(DAG, pos, with_labels=True, node_color='skyblue', node_size=1500, font_size=12, font_weight='bold', arrowsize=20)
 plt.show()
-
 ```
+
+Neste código, as tarefas são representadas como chaves em um dicionário, onde os valores são listas de dependências para cada tarefa. As tarefas e suas dependências são então adicionadas ao DAG, e em seguida o DAG é visualizado. Este é um exemplo mais simples que alcança o mesmo resultado.
