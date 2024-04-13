@@ -14,4 +14,6 @@ Em termos simples, um DAG é um tipo de estrutura de dados que consiste em nós 
 
 ![[Pasted image 20240413133948.png]]
 
-Exemplo de código em DAG:
+<span style="color:#00b0f0">Exemplo de código em DAG:</span>
+
+![[Pasted image 20240413134418.png]]
