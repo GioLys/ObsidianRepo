@@ -10,4 +10,8 @@ DAG é uma abreviação para "Directed Acyclic Graph", que em português signifi
 
 Em termos simples, um DAG é um tipo de estrutura de dados que consiste em nós (também conhecidos como vértices) conectados por arestas direcionadas, onde as arestas têm uma direção específica e não formam ciclos, sempre com início, meio e fim. Isso significa que você pode percorrer os nós seguindo a direção das setas, mas nunca voltar a um nó que já visitou através dessas arestas.
 
-Exemplo de 
+<span style="color:#00b0f0">Exemplo de gráfico em DAG:</span>
+
+![[Pasted image 20240413133948.png]]
+
+Exemplo de código em DAG:
