@@ -60,12 +60,12 @@ Espere-se também que os fluxos de trabalho sejam semelhantes de uma execução 
 
 ### Principais componentes para o funcionamento do Airflow
 
-- Scheduler, responsável pelo agendamento das Dags e envio das tasks para os workers.
+- <span style="color:#ffc000">Scheduler</span>, responsável pelo agendamento das Dags e envio das tasks para os workers.
 
-- Executor, responsável pela execução das tarefas que caminham as tasks para os workers.
+- <span style="color:#ff0000">Executor</span>, responsável pela execução das tarefas que caminham as tasks para os workers.
 
-- Servidor web, interface web para o usuário interagir e gerenciar as Dags e as tasks.
+- <span style="color:#00b0f0">Servidor web</span>, interface web para o usuário interagir e gerenciar as Dags e as tasks.
 
-- Uma pasta com Dags, aonde armazenamos os códigos Python.
+- <span style="color:#ffff00">Uma pasta com Dags</span>, aonde armazenamos os códigos Python.
 
-- Metadatos, um banco de dados que atende como repositório da ferramenta, utilizando pelo Scheduler e pelo executor para armazenar os estados das execuções.
+- <span style="color:#92d050">Metadatos</span>, um banco de dados que atende como repositório da ferramenta, utilizando pelo Scheduler e pelo executor para armazenar os estados das execuções.
