@@ -51,3 +51,4 @@ plt.show()
 ```
 
 Neste código, as tarefas são representadas como chaves em um dicionário, onde os valores são listas de dependências para cada tarefa. As tarefas e suas dependências são então adicionadas ao DAG, e em seguida o DAG é visualizado. Este é um exemplo mais simples que alcança o mesmo resultado.
+
