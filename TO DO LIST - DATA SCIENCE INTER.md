@@ -45,7 +45,7 @@ KAFKA
 - [ ] AWS Glue
 - [x] Data lake
 - [x] Harness
-- [ ] Apache Airflow - após o docker
+- [x] Apache Airflow - após o docker
 - [x] Terraform
 - [ ] Apache Spark
 - [ ] Data warehouse
