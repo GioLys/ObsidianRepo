@@ -1,0 +1,1 @@
+Tableau é uma ferramenta líder e tem a melhor experiência de usuários.
