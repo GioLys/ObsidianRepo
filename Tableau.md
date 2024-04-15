@@ -13,3 +13,5 @@ O Tableau tem duas categorias de produtos:
 - **Compartilhamento**
 
 Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, geração de relatórios e visualização de dados. Já os produtos de compartilhamento permitem compartilhar os relatórios e dashboards criados com os produtos de desenvolvimento.
+
+> Basicamente, a principal tarefa do Tableau é conectar e extrair os dados nos seus mais variados formatos. A partir disso, ele começa a fazer as análises, criar métricas, desenvolver dashboards e publicá-los.
