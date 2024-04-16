@@ -51,3 +51,4 @@ KAFKA
 - [x] Data warehouse
 - [x] Alteryx - plataforma ETL
 - [x] Matillion - plataforma ETL
+- [ ] Airbyte
