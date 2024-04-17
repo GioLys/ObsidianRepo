@@ -52,3 +52,5 @@ KAFKA
 - [x] Alteryx - plataforma ETL
 - [x] Matillion - plataforma ETL
 - [ ] Airbyte
+- [ ] Selenium
+- [ ] SoapUi
