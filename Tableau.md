@@ -23,11 +23,13 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
     - Os dashboards são painéis interativos que combinam várias visualizações para contar uma história ou fornecer uma visão geral dos dados.
     - Eles permitem aos usuários consolidar informações importantes em um único local e oferecem a capacidade de interagir com os dados por meio de filtros e seleções.
     - Os dashboards são altamente personalizáveis, permitindo que os usuários ajustem o layout, as cores e outros elementos visuais para atender às suas necessidades e preferências.
+
 2. **Planilhas (Worksheets)**:
     
     - As planilhas são onde as visualizações individuais são criadas e projetadas.
     - Os usuários podem arrastar e soltar campos de dados para criar gráficos, tabelas e mapas que compõem as visualizações dentro de um dashboard.
     - As planilhas oferecem uma variedade de opções de formatação e personalização para ajustar a aparência e o comportamento das visualizações.
+
 3. **Histórias**:
     
     - As histórias são uma maneira de sequenciar visualizações e narrativas para criar uma experiência guiada de exploração de dados.
