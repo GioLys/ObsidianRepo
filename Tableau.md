@@ -33,3 +33,21 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
     - As histórias são uma maneira de sequenciar visualizações e narrativas para criar uma experiência guiada de exploração de dados.
     - Elas permitem aos usuários criar uma linha narrativa que destaca tendências, insights ou conclusões específicas a partir dos dados.
     - As histórias podem incluir várias planilhas e dashboards, além de texto descritivo e comentários para fornecer contexto e explicação adicional.
+
+## <span style="color:#ffc000">Dimensões e Medidas</span>
+
+1. **Dimensões**:
+    
+    - As dimensões são atributos dos seus dados que geralmente são descritivos e qualitativos.
+    - Elas são usadas para categorizar, segmentar e organizar os dados em grupos.
+    - Exemplos comuns de dimensões incluem nomes de clientes, datas, categorias de produtos, cidades, países, etc.
+    - As dimensões geralmente são usadas para definir os níveis de detalhe e agrupamento nas visualizações.
+    - Em uma visualização de gráfico de barras, por exemplo, as dimensões normalmente representariam as categorias no eixo x.
+
+2. **Medidas**:
+    
+    - As medidas são valores numéricos que você deseja analisar, resumir ou comparar.
+    - Elas representam aspectos quantitativos dos seus dados, como valores monetários, quantidades, percentagens, etc.
+    - Exemplos comuns de medidas incluem vendas totais, lucro, quantidade de produtos vendidos, custo médio, etc.
+    - As medidas são usadas para calcular estatísticas, realizar operações matemáticas e criar resumos numéricos dos dados.
+    - Em uma visualização de gráfico de barras, as medidas geralmente representariam as alturas das barras no eixo y.
