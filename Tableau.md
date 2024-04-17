@@ -68,3 +68,6 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
     - Quando você arrasta uma medida para uma visualização, o Tableau geralmente a agregará automaticamente, como somando valores para calcular a soma total de vendas ou calculando a média de uma medida.
     - No entanto, você pode alterar a forma como os dados são agregados usando funções de agregação específicas, como SOMA, MÉDIA, MÁXIMO, MÍNIMO, entre outras.
     - Isso é útil para ajustar a visualização para mostrar os dados da maneira mais relevante para a análise.
+
+## <span style="color:#ffc000">Variáveis continuas e discretas</span>
+
