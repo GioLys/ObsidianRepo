@@ -53,3 +53,18 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
     - Exemplos comuns de medidas incluem vendas totais, lucro, quantidade de produtos vendidos, custo médio, etc.
     - As medidas são usadas para calcular estatísticas, realizar operações matemáticas e criar resumos numéricos dos dados.
     - Em uma visualização de gráfico de barras, as medidas geralmente representariam as alturas das barras no eixo y.
+
+## <span style="color:#ffc000">Tipos de Cálculos</span>
+
+1. **Cálculo de Linha**:
+    
+    - O cálculo de linha no Tableau é uma técnica que permite calcular valores ao longo de linhas específicas nos seus dados.
+    - É útil quando você precisa realizar cálculos que consideram valores em uma linha específica, como diferenças entre valores em colunas adjacentes, por exemplo.
+    - Um exemplo comum é calcular a diferença entre valores em colunas consecutivas para mostrar o crescimento ou decrescimento ao longo do tempo.
+
+1. **Agregação**:
+    
+    - No Tableau, a agregação refere-se à forma como os valores são combinados ou resumidos em uma visualização.
+    - Quando você arrasta uma medida para uma visualização, o Tableau geralmente a agregará automaticamente, como somando valores para calcular a soma total de vendas ou calculando a média de uma medida.
+    - No entanto, você pode alterar a forma como os dados são agregados usando funções de agregação específicas, como SOMA, MÉDIA, MÁXIMO, MÍNIMO, entre outras.
+    - Isso é útil para ajustar a visualização para mostrar os dados da maneira mais relevante para a análise.
