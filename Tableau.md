@@ -71,3 +71,14 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
 
 ## <span style="color:#ffc000">Variáveis continuas e discretas</span>
 
+1. **Variáveis Contínuas**:
+    
+    - No Tableau, variáveis contínuas são geralmente representadas por campos numéricos que podem assumir uma infinidade de valores dentro de um intervalo.
+    - Exemplos de variáveis contínuas no Tableau incluem medidas como vendas, temperatura, lucro, tempo decorrido, etc.
+    - Ao trabalhar com variáveis contínuas no Tableau, você pode utilizar várias técnicas de análise, como criar cálculos, aplicar funções de agregação e criar visualizações contínuas, como gráficos de linhas ou áreas.
+
+2. **Variáveis Discretas**:
+    
+    - No Tableau, variáveis discretas são geralmente representadas por campos que contêm valores específicos e distintos que não podem ser subdivididos.
+    - Exemplos de variáveis discretas no Tableau incluem dimensões como categorias de produtos, nomes de clientes, datas, etc.
+    - Ao trabalhar com variáveis discretas no Tableau, você geralmente usa esses campos para segmentar e organizar seus dados em grupos, e pode criar visualizações discretas, como gráficos de barras, gráficos de pizza ou tabelas de contingência.
