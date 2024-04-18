@@ -73,7 +73,7 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
 
 1. <span style="color:#92d050">Variáveis Contínuas</span>:
     
-    - No Tableau, variáveis contínuas são geralmente representadas por campos numéricos que podem assumir uma infinidade de valores dentro de um intervalo.
+    - No Tableau, ==variáveis contínuas são sempre representadas por campos numéricos== que podem assumir uma infinidade de valores dentro de um intervalo.
     - Exemplos de variáveis contínuas no Tableau incluem medidas como vendas, temperatura, lucro, tempo decorrido, etc.
     - Ao trabalhar com variáveis contínuas no Tableau, você pode utilizar várias técnicas de análise, como criar cálculos, aplicar funções de agregação e criar visualizações contínuas, como gráficos de linhas ou áreas.
 
