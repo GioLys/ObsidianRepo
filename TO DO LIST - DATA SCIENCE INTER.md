@@ -31,7 +31,7 @@ KAFKA
 ---
 <span style="color:#92d050">Softwares</span>
 
-- [ ] Tableau - grande
+- [x] Tableau - grande
 - [ ]  Starburst Enterprise (Trino) - sql do inter
 - [ ] Amazon S3
 - [ ] Amazon Athena
