@@ -78,10 +78,12 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
     - Ao trabalhar com variáveis contínuas no Tableau, você pode utilizar várias técnicas de análise, como criar cálculos, aplicar funções de agregação e criar visualizações contínuas, como gráficos de linhas ou áreas.
     - Nas quebras, contínuo sempre estará a direita de uma dimensão
     - Contínuo cria eixos
+    - Contínuo não pode ser ordenado
 
 2. <span style="color:#00b0f0">Variáveis Discretas</span>:
     
     - No Tableau, variáveis discretas são geralmente representadas por campos que contêm valores específicos e distintos que não podem ser subdivididos, pode ser tanto texto quanto numérico.
     - Exemplos de variáveis discretas no Tableau incluem dimensões como categorias de produtos, nomes de clientes, datas, etc.
     - Ao trabalhar com variáveis discretas no Tableau, você geralmente usa esses campos para segmentar e organizar seus dados em grupos, e pode criar visualizações discretas, como gráficos de barras, gráficos de pizza ou tabelas de contingência.
-    - Discreto pode ser 
+    - Discreto pode ser ordenado
+    - Discreto cria cabeçalhos
