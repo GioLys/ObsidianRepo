@@ -77,7 +77,7 @@ Os produtos de desenvolvimento envolvem a criação de dashboards, painéis, ger
     - Exemplos de variáveis contínuas no Tableau incluem medidas como vendas, temperatura, lucro, tempo decorrido, etc.
     - Ao trabalhar com variáveis contínuas no Tableau, você pode utilizar várias técnicas de análise, como criar cálculos, aplicar funções de agregação e criar visualizações contínuas, como gráficos de linhas ou áreas.
     - Nas quebras, contínuo sempre estará a direita de uma dimensão
-    - Contínuo cria eixos
+    - Contínuo cria eixos, eixos formam gráficos
     - Contínuo não pode ser ordenado
 
 2. <span style="color:#00b0f0">Variáveis Discretas</span>:
