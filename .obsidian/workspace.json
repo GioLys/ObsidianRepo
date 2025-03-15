@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c7011944d4d66c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de estudos terraform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Lista de estudos terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md",
+                "file": "Lista de estudos terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO LIST - DATA SCIENCE INTER.md"
+                "file": "Lista de estudos terraform.md"
               }
             }
           },
@@ -177,10 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794ab11e3c498978",
+  "active": "2c7011944d4d66c2",
   "lastOpenFiles": [
-    "Tableau.md",
     "TO DO LIST - DATA SCIENCE INTER.md",
+    "Lista de estudos terraform.md",
+    "Tableau.md",
     "src/Pasted image 20240413133948.png",
     "Apache Airflow.md",
     "Docker.md",
